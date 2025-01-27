@@ -3,3 +3,7 @@
 /__pycache__
 .DS_Store
 /data/.DS_Store
+/data/xy_df_full
+/data/xy_df_new_process
+/data/xy_df_renamed
+/nbs/cynthia_debug_rileycopy.ipynb
