@@ -26,7 +26,7 @@ def run_xgb(x_train, y_train, x_test):
     cv_folds = 3
     param_grid = {'max_depth': [4,6], #8
                   'learning_rate':[0.1],   #, 0.3],
-                  'n_estimators': [100], #150
+                  'n_estimators': [100,150], #150
                  'scale_pos_weight': [10, 20, 65]
                 # 'scale_pos_weight': [65]
                  }
