@@ -88,7 +88,7 @@ def get_scores_clf(y_true, y_pred_prob):
     # get rest of the scores
     accu = metrics.accuracy_score(y_true, y_pred)
     accu_bl = metrics.balanced_accuracy_score(y_true, y_pred)
-    auc =  metrics.roc_auc_score(y_true, y_pred_prob, multi_class = 'ovo')
+    auc =  metrics.roc_auc_score(y_true, y_pred_prob)
     #precision and recall scores
     precision = metrics.average_precision_score(y_true, y_pred)
     recall = metrics.recall_score(y_true, y_pred)
