@@ -1,0 +1,99 @@
+grid_id,lat,lon,count,freq_5yr,freq_10yr,freq_20yr,total_damages,total_deaths,total_affected,avg_duration,top_month,monthly_dist,risk_slope,severity_score,severity_score_normalized,primary_admin1,unique_locations
+-11_166,-11,166,1,0,0,0,0.0,0.0,6000.0,,Unknown,NA,,0.0,0.0,Temotu,Santa Cruz
+-12_43,-12,43,5,0,0,3,0.0,2.0,309200.0,3.2,April,April:2;May:1;July:1;November:1,0.1828,0.85,12.24,Njazidja,"Dimani, Grande Comore, Ngazidja province"
+-14_167,-14,167,1,0,1,1,0.0,0.0,400.0,0.0,November,November:1,,0.0,0.0,Torba,Torba province
+-15_168,-15,168,2,1,1,2,0.0,0.0,16000.0,4.5,September,September:1;November:1,,0.2,2.89,Penama,"Ambae, Penama province"
+-16_-71,-16,-71,1,1,1,1,0.0,0.0,1040.0,253.0,September,September:1,,0.0,0.0,Moquegua, General Sanchez Cerro district 
+-16_168,-16,168,4,1,2,4,0.0,0.0,20786.0,37.75,December,May:1;June:1;December:2,0.0,0.45,6.52,Malampa,"Ambrym island , Malampa province, Paama"
+-17_-71,-17,-71,1,0,0,1,0.0,0.0,3000.0,27.0,March,March:1,,0.0,0.0,Moquegua, La Capilla
+-1_-78,-1,-78,1,0,0,1,0.0,0.0,21500.0,0.0,October,October:1,,0.0,0.0,Tungurahua,Banos de Angua Santa district 
+-1_-79,-1,-79,8,2,2,5,10975.0,1.0,1003062.0,29.62,August,May:1;June:1;July:1;August:2;November:1;December:2,-0.0145,3.73,53.75,Cotopaxi,"  Pelileo,  Mocha,  Tisaleo districts , Cotapaxi, Cotopaxi, Cusua village , El Sangay"
+-1_100,-1,100,1,0,0,0,0.0,82.0,0.0,27.0,May,May:1,,1.23,17.79,Sumatera Barat,Ouest Sumatra
+-1_101,-1,101,1,0,0,1,0.0,0.0,26000.0,0.0,April,April:1,,0.0,0.0,Sumatera Barat,Solok district 
+-1_122,-1,122,1,0,0,0,25500.0,0.0,7101.0,0.0,July,July:1,,3.04,43.91,Sulawesi Tengah,Unauna Isl. 
+-21_56,-21,56,1,0,0,0,0.0,0.0,1000.0,0.0,April,April:1,,0.0,0.0,Saint-Benoit,Sainte Rose
+-2_-78,-2,-78,1,0,0,1,150000.0,5.0,300013.0,34.0,July,July:1,,4.08,58.79,Chimborazo, Penipe districts 
+-2_-79,-2,-79,2,0,1,2,0.0,0.0,26700.0,13.5,May,May:1;September:1,,0.2,2.89,Chimborazo," Chimborazo,  Riobamba "
+-2_29,-2,29,2,0,0,1,9000.0,347.0,170400.0,2.0,January,January:2,,4.56,65.85,Nord-Kivu,"Goma district , Near Goma"
+-38_-71,-38,-71,1,0,0,0,0.0,0.0,2000.0,27.0,December,December:1,,0.0,0.0,Araucania,Lonquimay
+-39_-72,-39,-72,2,1,1,1,0.0,4.0,5600.0,13.5,March,March:2,,0.65,9.36,Araucania,"Vallarica, Villarica"
+-3_28,-3,28,1,0,0,1,0.0,0.0,0.0,0.0,February,February:1,,0.0,0.0,Sud-Kivu, Sud-Kivu provinces
+-41_-72,-41,-72,1,0,1,1,104000.0,0.0,3000.0,13.0,June,June:1,,3.47,49.99,Los Rios, Rio Bueno towns 
+-41_-73,-41,-73,1,1,1,1,0.0,0.0,0.0,0.0,April,April:1,,0.0,0.0,Los Lagos,Llanquihue district
+-42_-72,-42,-72,3,1,3,3,104000.0,0.0,3000.0,4.33,April,April:1;May:1;June:1,0.0,3.81,54.92,Rio Negro," Bariloche district , Bariloche district, Bariloche district "
+-43_-72,-43,-72,1,0,1,1,0.0,0.0,0.0,0.0,May,May:1,,0.0,0.0,Los Lagos, Futaleufu towns 
+-49_-70,-49,-70,1,0,0,0,0.0,0.0,63200.0,0.0,August,August:1,,0.0,0.0,Santa Cruz,Santa Cruz
+-4_145,-4,145,4,0,0,1,0.0,4.0,13129.0,14.5,October,March:1;October:2;December:1,0.0,0.9,13.0,Madang,"Bogia district , Manam, Manam Isl."
+-4_152,-4,152,2,0,0,1,0.0,0.0,1521.0,0.0,October,October:2,,0.2,2.89,East New Britain," Rabaul districts , Rabaul Town"
+-5_130,-5,130,1,0,0,0,0.0,1.0,3012.0,0.0,January,January:1,,0.19,2.79,Maluku,Maluku Province
+-5_152,-5,152,2,0,0,1,110000.0,5.0,167002.0,4.0,June,June:1;September:1,,4.18,60.33,East New Britain," West New Britain province, Eastern New Britain"
+-6_-77,-6,-77,1,0,0,0,0.0,0.0,4000.0,0.0,June,June:1,,0.0,0.0,San Martin,Moyoyamba
+-6_106,-6,106,1,1,1,1,250000.0,453.0,47778.0,0.0,December,December:1,,5.44,78.42,Banten, Serang districts 
+-6_146,-6,146,1,1,1,1,0.0,0.0,736.0,1.0,January,January:1,,0.0,0.0,Eastern Highlands, Taragauo
+-6_150,-6,150,2,0,0,2,0.0,0.0,15078.0,0.0,July,July:2,,0.2,2.89,West New Britain," Sulu, Kimbe district "
+-6_155,-6,155,1,1,1,1,0.0,0.0,1380.0,0.0,August,August:1,,0.0,0.0,Bougainville, Buin
+-7_108,-7,108,7,0,0,1,168000.0,1320.0,330047.0,5.43,February,February:2;March:1;April:2;November:2,0.1051,6.3,90.86,Jawa Barat," Bandung , East Java, East of Java, Eastern Java, Java, Java Isl."
+-7_110,-7,110,2,1,1,1,103000.0,182.0,111158.0,0.0,February,February:2,,5.12,73.81,Jawa Tengah," Kota Magelang, Dieng plain "
+-7_111,-7,111,1,0,0,0,0.0,1.0,3000.0,0.0,January,January:1,,0.19,2.79,Jawa Tengah,Boyolali
+-8_110,-8,110,4,0,1,3,0.0,322.0,159140.0,6.75,April,April:1;June:1;July:1;October:1,0.0,2.06,29.78,Yogyakarta," Sleman district ,  Srumbung, Jawa Tengah and  Yogyakarta"
+-8_112,-8,112,1,0,0,1,0.0,0.0,22154.0,2.0,October,October:1,,0.0,0.0,Jawa Timur,Kediri
+-8_113,-8,113,1,0,0,1,0.0,2.0,20005.0,0.0,June,June:1,,0.31,4.42,Jawa Timur,Pasuruan
+-8_115,-8,115,1,0,0,0,0.0,1584.0,78000.0,0.0,January,January:1,,2.06,29.66,Bali,Bali
+-8_116,-8,116,1,1,1,1,0.0,0.0,133349.0,67.0,September,September:1,,0.0,0.0,Bali,Karangasem
+-8_123,-8,123,2,0,0,0,200.0,0.0,263000.0,0.0,December,December:1,,1.79,25.84,Nusa Tenggara Timur,"Flores, Flores Isl."
+-8_127,-8,127,1,0,0,0,0.0,7.0,10000.0,0.0,May,May:1,,0.58,8.37,Maluku,Moluccas
+-9_117,-9,117,1,0,0,0,0.0,31.0,0.0,0.0,November,November:1,,0.97,13.95,Nusa Tenggara Barat,Lombok 
+-9_118,-9,118,1,0,0,0,0.0,0.0,1078.0,0.0,July,July:1,,0.0,0.0,Nusa Tenggara Barat,Ntb Prov.
+-9_122,-9,122,3,0,1,3,0.0,0.0,7315.0,0.0,January,January:1;April:1;September:1,,0.34,4.93,Nusa Tenggara Timur,Sikka district 
+0_-78,0,-78,1,0,0,1,0.0,0.0,128150.0,1.0,November,November:1,,0.0,0.0,Pichincha, Ruminahui
+0_127,0,127,1,0,0,0,0.0,0.0,1570.0,0.0,July,July:1,,0.0,0.0,Maluku Utara,Makian Isl.
+10_-61,10,-61,1,0,0,0,0.0,0.0,200.0,0.0,February,February:1,,0.0,0.0,Princes Town,Piparo
+10_-84,10,-84,2,1,1,1,0.0,15.0,23650.0,0.0,March,March:2,,0.97,14.05,Cartago,"Mesata Central, Turrialba district "
+10_124,10,124,1,0,1,1,0.0,0.0,1315.0,32.0,March,March:1,,0.0,0.0,Cebu,Talisay
+12_-86,12,-86,2,0,0,1,2000.0,0.0,7100.0,0.0,February,February:1;November:1,,2.48,35.78,Managua," San Rafael,  near Managua"
+12_40,12,40,1,0,0,1,0.0,0.0,9000.0,57.0,September,September:1,,0.0,0.0,Afar,Zone 4 district 
+12_41,12,41,1,0,0,1,0.0,5.0,2000.0,0.0,August,August:1,,0.5,7.21,Afar,Dayulu 
+13_-86,13,-86,1,0,0,0,0.0,1.0,300075.0,7.0,April,April:1,,0.19,2.79,Madriz, Madriz
+13_-87,13,-87,2,0,0,1,722.0,0.0,14195.0,0.0,August,August:1;November:1,,2.18,31.38,Leon,"Leon, Leon Department"
+13_-88,13,-88,1,1,1,1,0.0,0.0,63079.0,0.0,December,December:1,,0.0,0.0,San Miguel, El Transito
+13_124,13,124,14,2,5,10,13846.0,82.0,761056.0,15.57,February,January:1;February:3;April:1;May:2;July:2;August:1;September:2;November:1;December:1,0.004,5.09,73.39,Albay," Bulan areas ,  Camalig,  Daraga,  Guinobatan areas ,  Irosin,  Malilipot, Albay district, Albay province, Bacacay, Irosin area "
+14_-90,14,-90,1,0,0,1,0.0,2.0,2000.0,0.0,October,October:1,,0.31,4.42,Sonsonate, Nahuizalco districts 
+14_-91,14,-91,5,1,2,4,0.0,461.0,1717014.0,0.0,January,January:1;February:1;May:1;June:1;August:1,0.0,2.25,32.52,Escuintla," El Rodeo,  Escuintla provinces,  Las Lajas, Escuintla, Escuintlia department"
+14_121,14,121,1,0,0,0,0.0,0.0,1578.0,0.0,February,February:1,,0.0,0.0,Batangas,Lake Taal 
+15_-24,15,-24,1,1,1,1,0.0,0.0,2500.0,69.0,November,November:1,,0.0,0.0,Sao Filipe, Cha das Caldeiras villages 
+15_-90,15,-90,2,0,0,1,0.0,0.0,1343.0,0.0,May,May:1;November:1,,0.2,2.89,Guatemala,Near Guatemala City
+15_-91,15,-91,1,0,1,1,0.0,0.0,10000.0,0.0,September,September:1,,0.0,0.0,Sacatepequez,Sacatepéquez
+15_-92,15,-92,1,0,0,0,0.0,0.0,3500.0,0.0,July,July:1,,0.0,0.0,Quezaltenango,Near Quezaltenango
+15_120,15,120,3,0,0,0,211000.0,640.0,1041865.0,13.33,April,April:2;June:1,,5.82,84.0,Zambales," Olongapo, Balangas province, Zambales province"
+16_43,16,43,1,0,0,1,0.0,6.0,15.0,0.0,September,September:1,,0.54,7.83,Al Hudaydah,Alluheyah district
+17_-62,17,-62,3,0,0,1,8000.0,32.0,9200.0,81.5,June,June:1;July:1;December:1,0.0,4.01,57.9,Saint Georges," Salem provinces, Plymouth, Plymouth and surrounding"
+18_146,18,146,1,0,0,1,0.0,0.0,0.0,0.0,May,May:1,,0.0,0.0,Northern Islands,Anatahan island 
+19_-104,19,-104,1,0,0,1,0.0,0.0,300.0,0.0,February,February:1,,0.0,0.0,Colima,La Yerbabuena village 
+19_-98,19,-98,2,0,0,1,0.0,0.0,116000.0,0.5,December,December:2,,0.2,2.89,Puebla," Puebla, Puebla State"
+1_-77,1,-77,4,0,1,4,0.0,0.0,17150.0,26.5,January,January:1;March:1;July:1;November:1,-0.7143,0.45,6.52,Narino," Consaca districts ,  La Florida districts ,  Sandona"
+1_125,1,125,4,0,0,0,1000.0,0.0,46679.0,0.0,April,April:1;May:1;August:1;October:1,0.0,2.52,36.42,Sulawesi Utara,"Noongan, North Surawasi province, Sulawesi, Tomohon district"
+1_127,1,127,2,0,1,1,0.0,3.0,54608.0,11.5,September,September:1;December:1,,0.59,8.47,Maluku Utara,"Kota Ternate district , Ternate Isl."
+1_128,1,128,2,0,0,1,0.0,0.0,12258.0,0.0,June,June:1;July:1,,0.2,2.89,Maluku Utara,"Halmahera Island, South Ibu sub-district "
+20_-156,20,-156,1,1,1,1,500000.0,0.0,2500.0,27.0,May,May:1,,3.94,56.79,Hawaii,Hawaï
+21_-104,21,-104,2,0,0,1,0.0,0.0,1350.0,13.5,February,February:1;July:1,,0.2,2.89,Jalisco,"Jalisco, Jalisco State"
+2_-78,2,-78,1,0,0,0,0.0,10.0,6.0,0.0,January,January:1,,0.67,9.65,Narino,Narino Province
+2_125,2,125,1,0,1,1,0.0,0.0,6000.0,6.0,July,July:1,,0.0,0.0,Sulawesi Utara, Minahasa Utara
+33_130,33,130,2,0,0,0,0.0,1.0,44930.0,0.0,April,April:1;June:1,,0.39,5.68,Naoasaki,"Nagasaki, Shimabara "
+35_136,35,136,1,0,0,0,0.0,0.0,5600.0,0.0,October,October:1,,0.0,0.0,Nara,Miyake-Jima Island
+36_139,36,139,2,0,0,1,0.0,0.0,17000.0,0.0,August,August:1;November:1,,0.2,2.89,Tokyo,"Oshima Island, Tookyoo province"
+37_140,37,140,1,1,1,1,0.0,63.0,69.0,3.0,September,September:1,,1.16,16.74,Tochigi, Takanemura districts 
+38_14,38,14,1,0,0,0,0.0,9.0,24.0,0.0,September,September:1,,0.64,9.27,Sicily,Sicily
+38_15,38,15,2,0,0,1,3100.0,0.0,7000.0,0.0,July,July:1;December:1,,2.61,37.68,Sicily,"Nicolosi municipality , Zafferana"
+3_-76,3,-76,3,0,2,3,0.0,16.0,25208.0,0.0,April,April:2;November:1,,1.13,16.34,Cauca," Caloto district ,  Inza district ,  Teruel"
+3_125,3,125,1,0,0,0,0.0,0.0,17000.0,0.0,September,September:1,,0.0,0.0,Sulawesi Utara,Siau Isl 
+3_98,3,98,3,2,3,3,83000.0,33.0,76789.0,42.33,February,February:1;August:1;September:1,0.0,4.72,68.14,Sumatera Utara," Siragong-Grang, Karo district "
+43_141,43,141,2,0,0,1,22000.0,3.0,22400.0,6.5,March,March:1;August:1,,3.59,51.74,Hokkaido," Soobetutyoo districts , Sapporo"
+43_143,43,143,1,0,0,0,0.0,0.0,0.0,,Unknown,NA,,0.0,0.0,Hokkaido,Tokachidake
+47_-120,47,-120,1,0,0,0,860000.0,90.0,2500.0,0.0,May,May:1,,5.36,77.29,Washington,Washington state
+4_126,4,126,1,0,0,1,0.0,0.0,16828.0,6.0,June,June:1,,0.0,0.0,Sulawesi Utara, Tabukan Utara sub-districts 
+4_127,4,127,2,0,0,0,0.0,90.0,42452.0,0.0,January,January:1;August:1,,1.46,21.04,Sulawesi Utara,"Sangi Talaud, Sangir Talaud Island"
+5_-75,5,-75,1,0,0,0,1000000.0,21800.0,12700.0,0.0,November,November:1,,6.93,100.0,Tolima,Armero
+5_9,5,9,1,0,0,1,0.0,0.0,3010.0,0.0,April,April:1,,0.0,0.0,Sud-Ouest, Batoke
+63_-20,63,-20,1,0,0,0,24700.0,0.0,5200.0,18.0,January,January:1,,3.03,43.77,Sudurland,Heimaey Is.
+64_-20,64,-20,1,0,1,1,0.0,0.0,0.0,58.0,March,March:1,,0.0,0.0,Sudurland,Rangarvalla province
+6_11,6,11,2,0,0,0,0.0,1783.0,10437.0,0.5,August,August:2,,2.29,33.02,Ouest,"Lake Monoun, Lake Nyos "

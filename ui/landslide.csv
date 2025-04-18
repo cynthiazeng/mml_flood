@@ -1,0 +1,376 @@
+grid_id,lat,lon,count,freq_5yr,freq_10yr,freq_20yr,total_damages,total_deaths,total_affected,avg_duration,top_month,monthly_dist,risk_slope,severity_score,severity_score_normalized,primary_admin1,unique_locations
+-10_-37,-10,-37,1,0,0,1,75000.0,60.0,143000.0,18.0,July,July:1,,3.55,72.86,Alagoas,Alagoas
+-12_-42,-12,-42,1,0,0,0,0.0,31.0,0.0,0.0,June,June:1,,-0.02,16.67,Bahia,Santa Luzia
+-12_-73,-12,-73,1,0,0,1,0.0,11.0,0.0,0.0,September,September:1,,-0.32,11.95,Cusco,La Convenci?n district
+-12_-75,-12,-75,3,0,0,1,0.0,240.0,4150.0,0.0,April,April:1;October:1;December:1,0.0,0.94,31.78,Junin,"Colcabamba department, Junin district, San Juan Ubirique "
+-12_-77,-12,-77,4,0,0,1,3000.0,647.0,1200.0,13.5,March,February:1;March:2;November:1,0.0,3.75,76.13,Lima,"Chungar, Esat of Lima, Lima, Sicsi"
+-13_-38,-13,-38,4,1,1,2,0.0,152.0,24.0,0.0,April,April:2;May:2,0.0,0.91,31.33,Bahia,"Salvador, Salvador City, Salvador city "
+-13_-39,-13,-39,1,0,0,0,0.0,69.0,78000.0,0.0,May,May:1,,0.22,20.44,Bahia, Santo Amaro Da Purificado 
+-13_-72,-13,-72,2,0,0,1,0.0,211.0,30076.0,0.0,March,March:1;April:1,,0.76,28.92,Cusco,"Cuzco, Machu Picchu "
+-13_-73,-13,-73,1,0,0,1,0.0,14.0,2600.0,0.0,January,January:1,,-0.25,13.03,Cusco,Santa Teresa
+-13_-74,-13,-74,2,0,1,1,0.0,84.0,1538.0,0.0,January,January:1;December:1,,0.48,24.53,Ayacucho," Carmen Alto municipality , Chuschi "
+-13_-75,-13,-75,1,0,0,0,21700.0,310.0,13500.0,0.0,April,April:1,,3.67,74.83,Huancavelica,Mayunmarca
+-14_-70,-14,-70,1,0,1,1,0.0,33.0,0.0,0.0,March,March:1,,0.0,16.96,Puno,Huanchumay village 
+-14_-71,-14,-71,1,0,0,0,0.0,300.0,30000.0,0.0,February,February:1,,0.67,27.46,Cusco,Canchis 
+-15_-67,-15,-67,1,1,1,1,200000.0,74.0,11400.0,58.0,January,January:1,,3.9,78.5,El Beni, Rurrenabaque town 
+-15_-68,-15,-68,1,0,0,0,0.0,40.0,0.0,0.0,April,April:1,,0.06,17.87,La Paz,La Paz
+-15_-70,-15,-70,1,0,0,0,0.0,20.0,0.0,0.0,January,January:1,,-0.15,14.65,Puno,Puno
+-15_-72,-15,-72,1,0,0,1,0.0,31.0,7.0,0.0,January,January:1,,-0.02,16.67,Arequipa,Near Choco
+-16_-67,-16,-67,2,1,1,1,0.0,19.0,165029.0,13.5,February,February:1;September:1,,0.04,17.56,La Paz,"Caranari, Caranavi town "
+-16_-68,-16,-68,3,0,1,2,400000.0,118.0,5601.0,0.0,February,February:1;March:1;December:1,0.0,4.59,89.38,La Paz,"Chima town , Murillo province, Tipuani"
+-16_36,-16,36,1,0,0,1,0.0,87.0,2500.0,0.0,January,January:1,,0.29,21.54,Zambezia,Milange district 
+-17_-152,-17,-152,1,0,0,1,0.0,13.0,11.0,0.0,April,April:1,,-0.27,12.7,Iles Sous-le-Vent,Raiatea and Tahaa Is.
+-17_-66,-17,-66,1,0,0,1,0.0,60.0,23.0,0.0,February,February:1,,0.18,19.78,Cochabamba,Mocotoro
+-18_-149,-18,-149,2,0,0,1,0.0,10.0,500.0,0.0,April,April:1;December:1,,-0.14,14.69,Iles Du Vent,Tahiti
+-18_-45,-18,-45,1,0,0,0,0.0,24.0,600.0,8.0,January,January:1,,-0.09,15.49,Minas Gerais,Minas Gerais
+-1_100,-1,100,3,1,1,3,25000.0,98.0,10.0,1.33,January,January:1;June:1;September:1,0.0,3.71,75.39,Sumatera Barat," Nanggalo, Padangpariaman district , Sumatera Barat province"
+-1_101,-1,101,2,0,0,1,341.0,23.0,11601.0,0.0,January,January:1;December:1,,1.84,46.04,Sumatera Barat,"Solok, Solok district "
+-1_121,-1,121,1,0,1,1,0.0,13.0,18.0,0.0,October,October:1,,-0.27,12.7,Sulawesi Tengah,Sulawesi Tengah province
+-1_123,-1,123,1,0,0,1,0.0,0.0,520.0,0.0,June,June:1,,-1.08,0.0,Sulawesi Tengah,Banggai city 
+-1_29,-1,29,2,0,1,2,0.0,19.0,0.0,0.0,May,May:1;December:1,,0.04,17.56,Nord-Kivu,Nord-Kivu province
+-1_37,-1,37,1,0,0,1,0.0,16.0,0.0,0.0,April,April:1,,-0.21,13.63,Murang'a, Muranga district 
+-20_-44,-20,-44,1,0,0,0,0.0,30.0,60.0,2.0,March,March:1,,-0.03,16.52,Minas Gerais,Near Belo Horizonte
+-21_-43,-21,-43,1,0,0,1,0.0,0.0,5000.0,0.0,January,January:1,,-1.08,0.0,Minas Gerais,Mirai
+-21_56,-21,56,1,0,0,0,0.0,10.0,0.0,27.0,January,January:1,,-0.34,11.54,Saint-Benoit,Grand-Ilet
+-22_-43,-22,-43,4,0,1,2,145027.0,873.0,4001000.0,7.0,December,January:1;March:1;December:2,0.0,5.01,95.91,Rio De Janeiro," Juiz de Fora district , Rio de Janeiro, Teresopolis district "
+-22_-49,-22,-49,2,0,0,0,0.0,138.0,6000.0,0.0,February,February:2,,0.63,26.89,Sao Paulo," Sao Paulo, Sao Paulo"
+-23_-43,-23,-43,1,1,1,1,0.0,15.0,300.0,0.0,November,November:1,,-0.23,13.34,Rio De Janeiro,Niteroi
+-23_-44,-23,-44,1,0,0,1,11000.0,74.0,1500.0,3.0,December,December:1,,3.03,64.78,Rio De Janeiro,Angra Dos Reis district
+-23_-64,-23,-64,1,0,1,1,15000.0,4.0,20000.0,1.0,February,February:1,,2.3,53.22,Salta,Tartagal town 
+-23_-69,-23,-69,1,0,0,0,6000.0,141.0,82811.0,0.0,June,June:1,,3.05,64.98,Antofagasta,Antogagasta
+-24_-65,-24,-65,1,0,0,0,0.0,30.0,12014.0,27.0,January,January:1,,-0.03,16.52,Salta,Vescupio
+-24_-66,-24,-66,1,1,1,1,0.0,0.0,2666.0,0.0,January,January:1,,-1.08,0.0,Jujuy, Tumbaya
+-25_122,-25,122,1,0,0,0,0.0,9.0,101.0,0.0,September,September:1,,-0.37,11.08,Western Australia,Gracetown
+-26_32,-26,32,1,1,1,1,0.0,17.0,300.0,1.0,February,February:1,,-0.19,13.9,Maputo,Hulene 
+-28_-66,-28,-66,1,1,1,1,0.0,24.0,350.0,0.0,January,January:1,,-0.09,15.49,Catamarca,Ambato district
+-29_27,-29,27,1,0,0,0,0.0,34.0,0.0,0.0,November,November:1,,0.01,17.1,Free State,Dealesville
+-2_-79,-2,-79,3,0,0,1,0.0,140.0,180.0,0.0,April,April:1;October:1;November:1,0.0,0.78,29.2,Chimborazo," Guano districts , Chimborazo"
+-2_29,-2,29,2,1,2,2,28000.0,32.0,5949.0,2.5,March,March:1;May:1,,3.26,68.4,Iburengerazuba," Kubukoko, Rwankuba "
+-2_30,-2,30,3,1,2,3,0.0,81.0,32030.0,1.0,May,May:2;November:1,0.0,0.61,26.59,Iburengerazuba," Ngororero districts , Nyabihu district , Rulindo district "
+-32_147,-32,147,1,0,0,0,0.0,19.0,0.0,0.0,July,July:1,,-0.16,14.41,New South Wales,Thredbo
+-34_-71,-34,-71,1,0,0,0,0.0,32.0,30.0,0.0,November,November:1,,-0.01,16.82,Libertador General Bernardo O'Higgins,Near Los Maitenes
+-35_-59,-35,-59,1,0,0,0,0.0,45.0,0.0,0.0,August,August:1,,0.09,18.42,Buenos Aires, Las Cuevas
+-3_-79,-3,-79,2,0,0,0,500000.0,300.0,81020.0,3.0,March,March:1;April:1,,4.8,92.67,Azuay," Canar provinces, Cochancay"
+-3_-80,-3,-80,1,1,1,1,0.0,10.0,0.0,0.0,January,January:1,,-0.34,11.54,Azuay,Camillo Ponce Enriquez district
+-3_102,-3,102,1,1,1,1,0.0,20.0,105.0,0.0,December,December:1,,-0.15,14.65,Bengkulu,Lebong Tandai 
+-3_120,-3,120,2,0,1,2,0.0,26.0,0.0,0.0,March,March:1;November:1,,0.13,19.01,Sulawesi Selatan,"Kota Palopo district , Makale"
+-3_138,-3,138,1,0,1,1,0.0,21.0,0.0,0.0,May,May:1,,-0.13,14.87,Papua,Puncakjaya
+-3_29,-3,29,2,2,2,2,0.0,17.0,810.0,3.5,January,January:1;March:1,,0.01,17.06,Cibitoke,"Bukavu district , Mabayi district "
+-41_-73,-41,-73,1,0,0,0,0.0,30.0,0.0,0.0,October,October:1,,-0.03,16.52,Los Lagos,Puerto Monte
+-42_-72,-42,-72,1,1,1,1,0.0,22.0,142.0,1.0,December,December:1,,-0.12,15.08,Los Lagos, Hualaihué
+-46_170,-46,170,1,0,0,0,2466.0,0.0,600.0,0.0,August,August:1,,1.27,36.94,Otago,Dunedin
+-4_-79,-4,-79,1,0,0,0,0.0,250.0,45.0,0.0,May,May:1,,0.61,26.58,Zamora Chinchipe,Zamora province
+-4_-81,-4,-81,1,0,0,0,988800.0,364.0,700000.0,27.0,January,January:1,,4.87,93.67,Tumbes, Tumbes
+-4_128,-4,128,1,0,1,1,0.0,20.0,215.0,3.0,May,May:1,,-0.15,14.65,Maluku, Kel Kudamati villages 
+-4_153,-4,153,1,0,0,1,0.0,0.0,600.0,0.0,August,August:1,,-1.08,0.0,New Ireland,Namatanai
+-4_29,-4,29,1,1,1,1,0.0,11.0,2870.0,0.0,March,March:1,,-0.32,11.95,Bujumbura Rural,Rutunga river 
+-5_-40,-5,-40,1,0,0,0,0.0,91.0,0.0,27.0,May,May:1,,0.3,21.75,Ceara,Ceara
+-5_120,-5,120,1,0,0,1,0.0,33.0,5000.0,0.0,March,March:1,,0.0,16.96,Sulawesi Selatan,Gowa district
+-5_142,-5,142,1,0,0,0,0.0,100.0,0.0,0.0,March,March:1,,0.33,22.2,Sandaun,Telefumin
+-5_19,-5,19,3,0,0,0,0.0,308.0,1584.0,9.0,March,March:2;August:1,0.0,1.02,32.97,Kwilu,"Kivu province, Mandwe , South-Kivu"
+-5_30,-5,30,1,0,0,1,0.0,13.0,150.0,0.0,January,January:1,,-0.27,12.7,Kigoma,Mtanga village 
+-6_-37,-6,-37,1,0,0,0,0.0,30.0,0.0,0.0,October,October:1,,-0.03,16.52,Rio Grande Do Norte,Sao Tome
+-6_-79,-6,-79,1,0,0,0,0.0,70.0,0.0,0.0,December,December:1,,0.22,20.51,Cajamarca,Yanacocha
+-6_106,-6,106,1,0,1,1,0.0,12.0,0.0,0.0,May,May:1,,-0.29,12.34,Jawa Barat,Pangradin village 
+-6_144,-6,144,4,0,1,3,0.0,87.0,321.0,0.75,January,January:1;April:1;May:1;November:1,0.0,0.74,28.66,Southern Highlands,"Highlands, Kuma village , Southern Highlands province, Tari district"
+-6_145,-6,145,1,0,0,0,0.0,200.0,5000.0,0.0,February,February:1,,0.54,25.51,Chimbu,Chimbu province
+-6_146,-6,146,1,0,0,1,0.0,36.0,174.0,0.0,April,April:1,,0.03,17.37,Morobe,Markham area
+-7_-76,-7,-76,1,0,1,1,0.0,22.0,0.0,0.0,October,October:1,,-0.12,15.08,San Martin,El Porvenir 
+-7_-79,-7,-79,1,0,0,0,0.0,33.0,0.0,0.0,February,February:1,,0.0,16.96,Cajamarca,San Miguel
+-7_106,-7,106,1,0,0,1,10000.0,122.0,23000.0,4.0,February,February:1,,3.16,66.71,Banten,Cipanas village 
+-7_107,-7,107,2,2,2,2,0.0,45.0,55.0,0.5,March,March:1;December:1,,0.29,21.57,Jawa Barat," Sukabumi district, Sukabumi "
+-7_108,-7,108,11,2,3,6,10400.0,496.0,41787.0,2.45,May,January:2;February:2;March:1;April:1;May:3;October:1;December:1,0.0,4.48,87.54,Jawa Barat," Ciamis,  Jawa Barat, Bandung district, Bandung district , Ciherang, Garut district , Java, Nenggeng, Talaga"
+-7_109,-7,109,4,1,1,4,54600.0,99.0,106244.0,1.25,February,January:1;February:2;October:1,-0.3763,4.05,80.86,Jawa Tengah," Wanarej, Brebes district , Cantilan village , Cilacap"
+-7_110,-7,110,2,1,1,2,27000.0,264.0,12213.0,5.5,January,January:1;December:1,,3.89,78.25,Jawa Tengah,"Banjarnegara district, Jemblung area"
+-7_147,-7,147,2,0,0,1,0.0,52.0,10008.0,44.0,January,January:1;December:1,,0.34,22.25,Morobe,"Mumeng district, Wajunda Village"
+-7_148,-7,148,1,0,1,1,0.0,19.0,0.0,0.0,May,May:1,,-0.16,14.41,Morobe,Zongefifi village 
+-8_-35,-8,-35,1,0,0,0,0.0,49.0,3090.0,0.0,April,April:1,,0.12,18.82,Pernambuco,Recife city
+-8_-78,-8,-78,2,0,2,2,0.0,53.0,162.0,2.0,April,April:1;May:1,,0.34,22.34,La Libertad," Aricapampa, Sanchez Carrion district"
+-8_-79,-8,-79,1,0,1,1,0.0,68.0,1054.0,5.0,April,April:1,,0.22,20.37,La Libertad, Trujillo district 
+-8_109,-8,109,1,0,0,1,0.0,0.0,600.0,0.0,October,October:1,,-1.08,0.0,Jawa Tengah,Ayah area 
+-8_110,-8,110,4,0,0,3,3500.0,81.0,6329.0,2.25,November,January:1;October:1;November:2,0.0,3.17,66.92,Jawa Tengah," Bagelen villages ,  Kebumen districts , Jogjakarta, Seling village "
+-8_111,-8,111,1,1,1,1,11000.0,28.0,177.0,0.0,April,April:1,,2.74,60.21,Jawa Timur,Ponorogo discrict 
+-8_112,-8,112,2,1,1,2,0.0,51.0,5.0,0.0,January,January:1;December:1,,0.33,22.16,Jawa Timur,"Jombang district , Mojokerto district"
+-8_115,-8,115,1,0,0,1,0.0,33.0,2.0,0.0,January,January:1,,0.0,16.96,Bali,Bali Isl.
+-9_-76,-9,-76,1,0,0,0,0.0,80.0,6025.0,0.0,February,February:1,,0.26,21.14,Huanuco, Huanugo provinces
+-9_116,-9,116,2,0,1,2,10943.0,26.0,3005.0,2.5,January,January:2,,2.92,62.99,Nusa Tenggara Barat,"Buwun Mas village , Lombok Barat"
+-9_117,-9,117,1,1,1,1,2000.0,12.0,50500.0,3.0,February,February:1,,1.99,48.29,Nusa Tenggara Barat, and Sumbawa.
+-9_122,-9,122,1,0,0,1,3961.0,76.0,229548.0,2.0,March,March:1,,2.73,60.08,Nusa Tenggara Timur,Ende
+-9_21,-9,21,1,0,0,1,0.0,13.0,0.0,0.0,October,October:1,,-0.27,12.7,Lunda Sul,Chassuala village 
+-9_31,-9,31,1,0,1,1,0.0,9.0,150.0,0.0,February,February:1,,-0.37,11.08,Northern,Mpulungu district 
+0_-77,0,-77,1,0,1,1,0.0,7.0,150.0,27.0,July,July:1,,-0.44,10.0,Sucumbios,Lafama 
+0_-79,0,-79,3,0,0,1,0.0,84.0,211.0,0.0,March,March:1;April:1;May:1,0.0,0.62,26.76,Pichincha,"Quito, Quito district , Quito-Santo Domingo road"
+0_100,0,100,2,1,1,2,0.0,65.0,14.0,1.0,January,January:1;April:1,,0.4,23.31,Sumatera Barat,"Agam district , Kota Pasaman district "
+0_35,0,35,1,0,0,1,0.0,20.0,6.0,3.0,August,August:1,,-0.15,14.65,Kakamega,Kakamega didstrict
+10_-14,10,-14,1,1,1,1,0.0,7.0,492.0,1.0,September,September:1,,-0.44,10.0,Boke,Kolon Kola area 
+10_-67,10,-67,2,0,0,0,800.0,116.0,21000.0,13.5,April,April:1;September:1,,2.58,57.68,Aragua," Maracay , Caracas"
+10_-85,10,-85,1,0,0,1,0.0,7.0,200.0,0.0,June,June:1,,-0.44,10.0,Puntarenas,Montes de Oro district
+10_123,10,123,2,0,0,2,7000.0,261.0,219188.0,9.5,August,August:1;December:1,,3.48,71.81,Cebu,Northern Mindanao
+10_126,10,126,1,0,1,1,78.0,2.0,927.0,0.0,January,January:1,,0.57,25.95,Dinagat Islands,Dinagat district
+11_-61,11,-61,1,0,0,1,0.0,2.0,1200.0,0.0,November,November:1,,-0.74,5.29,Tobago,Delaford city 
+11_125,11,125,2,0,0,2,2203.0,1137.0,13451.0,0.0,February,February:2,,3.58,73.41,Leyte,"Southern Leyte, Southern Leyte district"
+13_-85,13,-85,1,0,0,1,0.0,29.0,5769.0,4.0,June,June:1,,-0.04,16.36,Matagalpa,Rio Blanco district 
+13_44,13,44,1,1,1,1,0.0,20.0,20.0,1.0,May,May:1,,-0.15,14.65,Ta'izz,Al-Shamayteen mountain region
+13_99,13,99,1,0,0,1,0.0,17.0,16.0,1.0,September,September:1,,-0.19,13.9,Tanintharyi,Taninthayi province
+14_-89,14,-89,2,0,0,0,0.0,44.0,0.0,0.0,June,June:2,,0.29,21.47,La Libertad,"Agua Escondida, Santa Tecla"
+14_-91,14,-91,1,0,1,1,500000.0,53.0,50696.0,0.0,September,September:1,,4.08,81.25,Suchitepequez, Suchitepequez
+14_121,14,121,1,0,0,0,0.0,14.0,77.0,0.0,September,September:1,,-0.25,13.03,Metropolitan Manila,Muntinlupa
+14_123,14,123,1,0,0,1,0.0,8.0,6.0,0.0,December,December:1,,-0.41,10.57,Camarines Sur,Tinambac area 
+14_124,14,124,1,0,0,0,0.0,33.0,8.0,0.0,November,November:1,,0.0,16.96,Catanduanes,Catanduanes 
+15_-90,15,-90,4,1,2,4,5000.0,447.0,3647.0,0.75,June,June:2;July:1;October:1,-0.8228,3.79,76.77,Guatemala,"Guatemala city , Santa Catarina Pinula district, Senahu district"
+15_-91,15,-91,3,1,1,3,0.0,129.0,528.0,0.33,September,August:1;September:2,0.0,0.75,28.81,Guatemala," Las Graditas, San Lucas Toliman, Villa Nueva"
+15_-92,15,-92,1,0,0,1,0.0,22.0,220.0,0.0,April,April:1,,-0.12,15.08,San Marcos,San Pedro Sacate??quez district
+15_108,15,108,1,0,1,1,0.0,13.0,1.0,0.0,November,November:1,,-0.27,12.7,Quang Nam,Bac Tra My district 
+15_120,15,120,3,0,1,1,24000.0,45.0,69057.0,1.67,August,August:2;September:1,0.0,3.46,71.51,Zambales,"Asinan village , Mont Pinatubo area , Subic"
+15_121,15,121,2,0,0,2,0.0,345.0,2838.0,0.0,July,July:1;August:1,,0.91,31.28,Metropolitan Manila,"Manilla, National Capital region "
+15_44,15,44,2,0,1,2,0.0,76.0,11.0,0.5,August,August:1;December:1,,0.45,24.05,Al Mahwit,"Al Mahwait district, Bani Matar District"
+16_-88,16,-88,1,0,0,0,0.0,2800.0,0.0,0.0,September,September:1,,1.35,38.19,Cortes,Cholima
+16_-91,16,-91,1,0,1,1,0.0,16.0,0.0,2.0,September,September:1,,-0.21,13.63,Huehuetenango, Barillas district
+16_-92,16,-92,1,1,1,1,0.0,11.0,0.0,0.0,June,June:1,,-0.32,11.95,Huehuetenango,near San Pedro Soloma
+17_-93,17,-93,1,0,0,1,0.0,16.0,0.0,0.0,November,November:1,,-0.21,13.63,Chiapas,San Juan Grijalva village 
+17_-96,17,-96,2,0,1,1,0.0,56.0,0.0,0.5,June,June:1;September:1,,0.36,22.6,Oaxaca,"Huautla De Jimenez, Santa Maria Tlahuitoltepec municipality "
+18_-72,18,-72,1,0,0,0,0.0,0.0,1060.0,0.0,October,October:1,,-1.08,0.0,Ouest,Port-Au-Prince
+18_-97,18,-97,3,0,1,3,0.0,43.0,200.0,0.67,July,July:1;August:1;September:1,0.0,0.42,23.59,Oaxaca," Santa Ana Ateixtlahuaca, Santa Maria Chilchotla municipality , Teotitlan district"
+18_98,18,98,1,0,0,1,0.0,35.0,33000.0,0.0,September,September:1,,0.02,17.24,Mae Hong Son,Mae Sariang district
+19_-100,19,-100,1,0,1,1,0.0,27.0,0.0,0.0,September,September:1,,-0.06,16.03,Mexico,Villa Guerrero district 
+19_-97,19,-97,1,0,0,0,0.0,50.0,0.0,0.0,August,August:1,,0.12,18.92,Veracruz,Xicola
+19_-99,19,-99,1,0,0,1,0.0,12.0,120.0,0.0,September,September:1,,-0.29,12.34,Morelos,Morelos State
+19_73,19,73,3,0,1,2,0.0,88.0,7063.0,0.0,September,July:1;September:2,0.0,0.64,26.98,Maharashtra," Nagar slums , Bombay, Ghatkopar village "
+19_74,19,74,1,1,1,1,0.0,151.0,200.0,0.0,July,July:1,,0.46,24.17,Maharashtra,Pune district
+19_76,19,76,1,0,0,0,0.0,48.0,0.0,0.0,September,September:1,,0.11,18.72,Maharashtra, Maharashtra
+19_97,19,97,1,1,1,1,0.0,17.0,300.0,0.0,October,October:1,,-0.19,13.9,Kayah,Hpasawng village 
+1_-77,1,-77,1,1,1,1,100000.0,329.0,45360.0,1.0,March,March:1,,4.15,82.35,Putumayo, Chaparros
+1_-79,1,-79,2,1,1,1,0.0,74.0,0.0,0.0,February,February:1;April:1,,0.44,23.92,Esmeraldas," Esmeraldas province, Esmeraldas"
+1_104,1,104,1,0,0,0,0.0,23.0,4.0,0.0,October,October:1,,-0.11,15.29,Kepulauan Riau,Batam Isl.
+1_111,1,111,1,0,0,1,0.0,10.0,0.0,0.0,January,January:1,,-0.34,11.54,Sarawak,Simunjan district 
+1_30,1,30,2,1,1,2,0.0,26.0,4366.0,0.0,May,May:1;November:1,,0.13,19.01,Bundibugyo,"Bubukwanga, Ntandi trading center "
+1_34,1,34,4,1,3,3,0.0,477.0,16227.0,1.0,February,February:1;June:1;October:1;November:1,0.0,1.26,36.81,Mbale," Bunakasala villages ,  Nametsi, Bududa district, Mbale Region"
+1_98,1,98,1,0,1,1,0.0,34.0,0.0,0.0,November,November:1,,0.01,17.1,Sumatera Utara,Nias district 
+20_-101,20,-101,1,0,0,0,0.0,18.0,0.0,0.0,October,October:1,,-0.18,14.17,Michoacan,Morelia
+21_93,21,93,1,0,1,1,0.0,66.0,55230.0,1.0,June,June:1,,0.21,20.23,Rakhine, Buthidaung districts 
+21_97,21,97,1,1,1,1,0.0,16.0,0.0,0.0,May,May:1,,-0.21,13.63,Shan,Kalaw area 
+22_103,22,103,2,0,0,1,2300.0,61.0,1051.0,8.0,July,July:1;October:1,,2.71,59.62,Lai Chau,"Lai Chau province, Sin Ho district "
+22_104,22,104,1,0,0,1,0.0,33.0,22.0,0.0,July,July:1,,0.0,16.96,Lao Cai,Sa Pa district
+22_114,22,114,3,0,0,0,0.0,125.0,4115.0,0.0,June,May:1;June:2,0.0,0.74,28.66,Kwun Tong," Sai Kung, Kwungton, Wong Tai Sin"
+22_92,22,92,2,1,2,2,0.0,226.0,135417.0,1.5,June,June:2,,0.78,29.25,Chittagong," Bandarban districts ,  Rangunia"
+23_-105,23,-105,1,0,0,1,0.0,10.0,0.0,0.0,September,September:1,,-0.34,11.54,Durango,Mezquital district
+23_104,23,104,1,0,0,1,0.0,23.0,0.0,0.0,September,September:1,,-0.11,15.29,Lao Cai,Bat Xat district 
+23_106,23,106,1,0,0,0,0.0,200.0,38000.0,0.0,July,July:1,,0.54,25.51,Cao Bang,Cao Bang province
+23_92,23,92,3,1,3,3,0.0,37.0,1053.0,0.0,July,July:2;August:1,0.0,0.38,22.89,Chittagong,Chittagong district
+23_93,23,93,1,0,0,0,4500.0,40.0,14285.0,0.0,June,June:1,,2.58,57.65,Mizoram,Mizoram State
+24_101,24,101,1,0,0,1,0.0,16.0,0.0,0.0,July,July:1,,-0.21,13.63,Yunnan,Zhenyuan Yi-Hani-Lahu Zizhi area 
+24_109,24,109,1,0,1,1,0.0,52.0,2100000.0,4.0,May,May:1,,0.14,19.1,Guangxi,Guangxi Zhuangzu Zizhiqu province
+24_121,24,121,1,0,0,0,0.0,14.0,134.0,0.0,May,May:1,,-0.25,13.03,Taiwan,Near Chusan
+24_88,24,88,2,0,0,0,0.0,1023.0,2000.0,0.0,August,August:1;October:1,,1.24,36.5,West Bengal,"  Bengal, Darjeeling Hills  Level 1 = West Bengal"
+24_93,24,93,1,0,0,0,0.0,60.0,0.0,0.0,August,August:1,,0.18,19.78,Mizoram,Aizawl 
+24_94,24,94,1,1,1,1,0.0,21.0,900.0,0.0,October,October:1,,-0.13,14.87,Chin,Tonzang village 
+25_101,25,101,5,0,0,1,0.0,716.0,77.0,10.8,May,May:1;June:1;July:1;August:1;September:1,0.0386,1.47,40.17,Yunnan," Laojinshan, Laojinshan mountain, Yunnan, Yunnan Sheng province, Yunnan province"
+25_103,25,103,2,0,1,2,60000.0,38.0,10307.0,0.0,July,July:1;October:1,,3.54,72.81,Yunnan,"Kunming district , Zhenhe village  "
+25_98,25,98,1,0,0,1,2400.0,14.0,27.0,0.0,August,August:1,,2.09,49.84,Yunnan,Yingjiang Xian area 
+25_99,25,99,1,0,1,1,0.0,48.0,0.0,0.0,September,September:1,,0.11,18.72,Yunnan,Baoshan city 
+26_101,26,101,1,0,0,1,0.0,14.0,10018.0,0.0,September,September:1,,-0.25,13.03,Yunnan,Yongsheng Xian area
+26_102,26,102,1,0,0,1,0.0,15.0,11.0,0.0,October,October:1,,-0.23,13.34,Yunnan,Yichikou village 
+26_103,26,103,1,0,0,0,0.0,100.0,40.0,0.0,May,May:1,,0.33,22.2,Yunnan,Dongchuan
+26_106,26,106,1,0,1,1,0.0,99.0,0.0,0.0,June,June:1,,0.33,22.15,Guizhou,Dazhai village 
+26_117,26,117,1,1,1,1,700000.0,66.0,237600.0,7.0,May,May:1,,4.24,83.88,Fujian,Sanming district 
+26_91,26,91,1,0,0,1,0.0,12.0,20.0,1.0,August,August:1,,-0.29,12.34,Assam,Guwahati city 
+26_93,26,93,1,0,0,1,0.0,48.0,150.0,0.0,June,June:1,,0.11,18.72,Assam,Assam
+26_97,26,97,3,2,3,3,0.0,81.0,1411.0,0.0,July,May:1;July:2,0.0,0.61,26.59,Kachin,"Hpakant area , Hpakant region , Kachin state"
+27_105,27,105,2,2,2,2,2300.0,57.0,765.0,0.0,July,July:1;August:1,,2.69,59.3,Guizhou,"Bijie , Bijie district"
+27_107,27,107,2,1,1,1,0.0,48.0,407.0,0.0,August,August:1;December:1,,0.31,21.88,Guizhou,"Fuquan Shi area , Guizhou Province"
+27_109,27,109,1,0,0,1,0.0,35.0,0.0,0.0,May,May:1,,0.02,17.24,Guizhou,Sansui area 
+27_69,27,69,1,0,0,1,0.0,16.0,12.0,27.0,July,July:1,,-0.21,13.63,Sind,Sukkur District district
+27_81,27,81,4,0,0,2,0.0,468.0,200112.0,0.0,August,June:1;August:3,0.5394,1.25,36.71,Uttar Pradesh," Uttar Pradesh state, Mansuna village , Uttar Pradesh"
+27_86,27,86,1,0,0,0,0.0,28.0,200.0,0.0,July,July:1,,-0.05,16.2,East,Okhaldunga District
+27_87,27,87,2,1,1,1,0.0,166.0,0.0,0.0,April,April:1;June:1,,0.69,27.77,East,"Pahire Phedi, Sagarmatha district "
+27_88,27,88,2,0,0,0,0.0,115.0,0.0,0.0,August,August:1;November:1,,0.57,26.02,East," Mechi,  Panchathar districts"
+27_89,27,89,1,0,0,0,0.0,28.0,30.0,0.0,June,June:1,,-0.05,16.2,Sikkim,Gangtok 
+27_94,27,94,1,1,1,1,0.0,22.0,0.0,0.0,July,July:1,,-0.12,15.08,Arunachal Pradesh, Papumpare district 
+28_102,28,102,1,0,1,1,0.0,15.0,0.0,0.0,July,July:1,,-0.23,13.34,Sichuan,Long En village 
+28_103,28,103,1,1,1,1,0.0,25.0,4.0,0.0,August,August:1,,-0.08,15.67,Sichuan,Puge 
+28_105,28,105,1,0,0,0,0.0,79.0,30.0,0.0,July,July:1,,0.26,21.08,Sichuan, Xingwen Level 2 - Level 1 = Sichuan
+28_108,28,108,1,1,1,1,0.0,11.0,2.0,0.0,April,April:1,,-0.32,11.95,Guizhou,Sinan area 
+28_112,28,112,1,0,0,0,0.0,120.0,0.0,27.0,July,July:1,,0.39,23.07,Hunan,Hunan
+28_116,28,116,1,0,0,0,0.0,75.0,0.0,27.0,June,June:1,,0.25,20.83,Jiangxi,Jiangxi
+28_120,28,120,2,1,1,1,0.0,42.0,5670.0,0.0,October,October:1;November:1,,0.27,21.25,Zhejiang,"Lindong village , Wenzhou "
+28_84,28,84,5,1,2,4,0.0,272.0,88034.0,4.6,June,June:2;August:1;September:1;October:1,0.0,1.18,35.53,West," Kaski,  Nawalparasi area ,  Syangja, Gandaki district "
+28_85,28,85,4,0,1,3,0.0,620.0,340865.0,14.5,July,July:2;August:2,0.0,1.34,38.06,Central," Rasuwa area , Kathmandu, Rasuwa area"
+28_86,28,86,1,1,1,1,15000.0,156.0,476.0,0.0,August,August:1,,3.35,69.8,Central,Jure
+28_87,28,87,1,0,1,1,0.0,10.0,0.0,0.0,July,July:1,,-0.34,11.54,East,Sankhuwasabha area 
+28_88,28,88,4,1,1,2,0.0,157.0,24.0,8.0,September,March:1;June:1;September:2,0.0,0.92,31.48,Sikkim,"Sikkim, Taplejung area "
+28_96,28,96,1,1,1,1,0.0,36.0,18.0,5.0,June,June:1,,0.03,17.37,Assam, Tinsukia
+28_99,28,99,1,0,1,1,0.0,92.0,0.0,0.0,August,August:1,,0.31,21.81,Yunnan,Gongshan Dulong-Nu Zizhixia area
+29_103,29,103,2,0,2,2,0.0,52.0,18.0,0.0,July,July:1;August:1,,0.34,22.25,Sichuan,Hanyuan Xian area 
+29_108,29,108,2,0,1,2,0.0,146.0,0.0,0.0,May,May:1;June:1,,0.65,27.16,Chongqing,"Wulong Xian area , Wulong Xiang area "
+29_120,29,120,1,0,0,0,0.0,37.0,0.0,0.0,October,October:1,,0.03,17.5,Zhejiang,Zhejiang
+29_78,29,78,1,0,0,1,0.0,43.0,0.0,27.0,June,June:1,,0.08,18.2,Uttar Pradesh, Bijnor districts 
+29_80,29,80,1,0,0,1,0.0,86.0,0.0,0.0,August,August:1,,0.29,21.48,Uttarakhand, Naini Tal districts 
+29_81,29,81,1,0,0,1,0.0,144.0,21019.0,27.0,June,June:1,,0.44,23.94,Far-Western, Mahakali district 
+29_83,29,83,3,1,2,2,0.0,151.0,18.0,10.0,July,July:2;September:1,0.0,0.8,29.56,West," Myagdi area , Myagi District, Rukum area "
+29_84,29,84,1,0,0,0,0.0,21.0,0.0,0.0,September,September:1,,-0.13,14.87,West,Lete
+2_-61,2,-61,1,0,0,0,0.0,30.0,0.0,0.0,April,April:1,,-0.03,16.52,Roraima,Roraima
+2_-78,2,-78,1,0,0,1,0.0,22.0,400.0,0.0,December,December:1,,-0.12,15.08,Narino,Narino
+2_29,2,29,1,1,1,1,0.0,174.0,10.0,0.0,August,August:1,,0.5,24.85,Ituri,Tora 
+2_99,2,99,3,0,0,1,0.0,331.0,3000.0,9.0,January,January:1;June:1;December:1,,1.04,33.32,Sumatera Utara,"North Sumatra, South Sumatra, Sumatra"
+30_103,30,103,1,0,0,1,0.0,11.0,1000.0,0.0,September,September:1,,-0.32,11.95,Sichuan,Mingshan Xian area 
+30_108,30,108,2,0,0,2,0.0,31.0,100.0,0.0,June,June:2,,0.18,19.83,Chongqing,"Gele Shan town, Wansheng Qu area "
+30_109,30,109,1,0,0,1,0.0,22.0,0.0,0.0,September,September:1,,-0.12,15.08,Hubei,Xianfeng Xian area 
+30_79,30,79,1,1,1,1,0.0,10.0,5.0,0.0,May,May:1,,-0.34,11.54,Uttarakhand,Uttarakhand province
+30_80,30,80,1,0,1,1,0.0,45.0,0.0,0.0,August,August:1,,0.09,18.42,Uttarakhand,Pithoragarh district 
+30_81,30,81,1,0,0,0,0.0,49.0,0.0,0.0,September,September:1,,0.12,18.82,Far-Western,Bhajang district
+30_92,30,92,1,1,1,1,0.0,83.0,0.0,0.0,March,March:1,,0.28,21.32,Xizang,Mozhugongka Xian area 
+30_94,30,94,1,0,0,0,0.0,56.0,554.0,0.0,March,March:1,,0.16,19.45,Xizang,Eastern Tibet
+31_102,31,102,1,0,0,1,0.0,17.0,0.0,4.0,August,August:1,,-0.19,13.9,Sichuan, Danba area 
+31_103,31,103,6,0,1,3,0.0,336.0,55485.0,0.0,June,June:3;July:1;August:1;September:1,0.0,1.32,37.74,Sichuan,"Sichuan, Sichuan Prov., Sichuan Sheng, Sichuan province, Wenchuan area "
+31_104,31,104,2,1,2,2,0.0,39.0,0.0,0.0,May,May:1;July:1,,0.25,20.9,Sichuan,"Deyang district, Zhongxing village "
+31_108,31,108,1,1,1,1,0.0,10.0,0.0,0.0,September,September:1,,-0.34,11.54,Sichuan,Dazhou
+31_110,31,110,1,0,0,1,0.0,33.0,1.0,0.0,November,November:1,,0.0,16.96,Hubei,Badong area 
+31_112,31,112,1,0,0,1,890000.0,100.0,15.0,25.0,May,May:1,,4.44,86.99,Hubei, Hubei
+31_130,31,130,2,0,0,0,210000.0,83.0,70.0,0.0,July,July:1;August:1,,4.15,82.42,Kagoshima,"Kagoshima City, Kagoshina"
+31_35,31,35,1,0,0,0,0.0,20.0,13.0,0.0,December,December:1,,-0.15,14.65,HaDarom,Neot Hakikar
+31_75,31,75,1,0,0,0,0.0,255.0,0.0,27.0,July,July:1,,0.62,26.68,Punjab, Pendjab states
+31_79,31,79,1,0,0,1,0.0,27.0,0.0,0.0,July,July:1,,-0.06,16.03,Uttarakhand,Rudra Prayag district 
+32_104,32,104,1,1,1,1,0.0,83.0,400.0,0.0,June,June:1,,0.28,21.32,Sichuan,Mao County
+32_112,32,112,1,1,1,1,0.0,12.0,0.0,0.0,January,January:1,,-0.29,12.34,Hubei,Nanzhang county 
+32_71,32,71,1,1,1,1,0.0,9.0,113.0,0.0,February,February:1,,-0.37,11.08,N.W.F.P., Dera Ismail Khan 
+32_77,32,77,4,1,1,2,0.0,560.0,3600100.0,6.75,March,March:1;July:1;August:1;September:1,0.0,1.31,37.58,Himachal Pradesh," Himachal Pradesh,  Mandi district , Himachal Pradesh, Kulla "
+32_78,32,78,1,0,0,0,0.0,230.0,5000.0,27.0,March,March:1,,0.58,26.18,Himachal Pradesh,Lahaul
+33_105,33,105,1,0,1,1,139000.0,54.0,10004.0,9.0,July,July:1,,3.7,75.28,Sichuan, Qingchuan area 
+33_106,33,106,1,0,1,1,0.0,18.0,2.0,0.0,July,July:1,,-0.18,14.17,Shaanxi,Lueyang area 
+33_76,33,76,1,0,0,1,0.0,16.0,0.0,0.0,August,August:1,,-0.21,13.63,Himachal Pradesh,Chamba district 
+34_-118,34,-118,1,0,0,0,0.0,0.0,125.0,0.0,February,February:1,,-1.08,0.0,California,Malibu 
+34_-5,34,-5,1,0,0,0,0.0,1.0,12216.0,27.0,April,April:1,,-0.86,3.33,Fes-Boulemane,Fez
+34_104,34,104,1,0,1,1,759000.0,1765.0,47200.0,1.0,August,August:1,,5.27,100.0,Gansu,Zhouqu Xian area 
+34_131,34,131,1,0,1,1,0.0,28.0,0.0,1.0,July,July:1,,-0.05,16.2,Fukuoka,Hukuoka province
+34_132,34,132,1,0,0,0,0.0,13.0,0.0,0.0,January,January:1,,-0.27,12.7,Yamaguchi,Maseguchi
+34_70,34,70,1,1,1,1,3000.0,254.0,33057.0,12.0,February,February:1,,3.02,64.52,Nangarhar, Nangarhar
+34_74,34,74,8,0,3,5,18000.0,474.0,34952.0,0.0,January,January:3;February:1;March:2;April:1;November:1,0.263,4.49,87.68,Azad Kashmir,"Jammu and Kashmir province, Kashmir, Kashmir = Jamnu and Kashmir , Kashmir province, Kel "
+34_75,34,75,1,1,1,1,0.0,28.0,0.0,1.0,January,January:1,,-0.05,16.2,Jammu And Kashmir,Ganderbal district
+34_77,34,77,7,1,3,5,50000.0,654.0,5200.0,0.86,February,February:4;March:2;November:1,0.0,4.83,93.14,Jammu And Kashmir," Ladakh, Jammu and Kashmir State, Jammu and Kashmir province, Siachen glacier"
+35_-116,35,-116,1,0,0,1,0.0,15.0,15.0,1.0,December,December:1,,-0.23,13.34,California,San Bernardino district 
+35_-120,35,-120,1,1,1,1,900000.0,21.0,1366.0,6.0,January,January:1,,3.98,79.71,California,Santa Barbara County 
+35_109,35,109,2,0,0,0,0.0,77.0,1000.0,13.5,February,February:1;July:1,,0.45,24.11,Shaanxi,"Huashan region , Shaanxi province"
+35_133,35,133,1,1,1,1,38000.0,82.0,67.0,0.0,August,August:1,,3.44,71.13,Hiroshima, Hirosimasi_Asakitaku districts 
+35_134,35,134,1,0,1,1,0.0,16.0,400.0,0.0,July,July:1,,-0.21,13.63,Tottori, Tottori provinces
+35_69,35,69,6,0,2,4,0.0,454.0,562.0,5.0,February,January:1;February:2;March:2;July:1,0.0,1.41,39.18,Parwan,"Khinjan Pass, Salang - Salang Tunnel Level 1 = Baghlan, Salang district , Salang mountain pass "
+35_70,35,70,2,2,2,2,0.0,12.0,0.0,0.0,July,July:1,,-0.09,15.49,Panjshir,"Khenj district, Panjshir"
+35_71,35,71,2,1,2,2,0.0,95.0,363.0,0.0,February,February:1;March:1,,0.52,25.11,Nuristan,Nuristan province
+35_72,35,72,3,0,0,2,0.0,145.0,314.0,0.33,March,March:2;July:1,0.0,0.79,29.36,N.W.F.P.," Lower Dir District, Ghaeel village , Swat district"
+35_73,35,73,5,0,1,4,0.0,137.0,3905.0,0.6,February,February:1;March:1;May:1;July:1;December:1,0.0,0.97,32.25,N.W.F.P.," Bawon Soya Khail,  Mansehra district, Chitta Katha village , Kohistan District district, Ronala village "
+36_-1,36,-1,1,0,0,0,0.0,15.0,696.0,0.0,December,December:1,,-0.23,13.34,Oran,Oran
+36_111,36,111,1,0,1,1,0.0,277.0,35.0,0.0,September,September:1,,0.64,27.07,Shanxi,Xiangfen area
+36_127,36,127,1,0,0,0,100000.0,25.0,0.0,0.0,August,August:1,,3.37,70.12,Jeollabuk-Do,Chonju
+36_137,36,137,1,0,0,1,0.0,0.0,130.0,0.0,August,August:1,,-1.08,0.0,Gifu,Gifu Prefecture
+36_37,36,37,1,0,0,1,0.0,80.0,23.0,0.0,October,October:1,,0.26,21.14,Aleppo,Jebel_Saman district
+36_45,36,45,1,0,0,0,0.0,21.0,0.0,0.0,February,February:1,,-0.13,14.87,West Azarbaijan,Near Sar Dasht
+36_51,36,51,1,0,0,1,0.0,20.0,4.0,0.0,February,February:1,,-0.15,14.65,Mazandaran,Chalus district 
+36_52,36,52,1,0,0,0,0.0,43.0,100.0,0.0,January,January:1,,0.08,18.2,Tehran,North East of Teheran
+36_66,36,66,1,0,0,1,0.0,13.0,300000.0,0.0,January,January:1,,-0.27,12.7,Sari Pul, Sar-e-Pul province
+36_71,36,71,1,1,1,1,0.0,24.0,1000.0,0.0,September,September:1,,-0.09,15.49,Badakhshan,Zebak district 
+36_72,36,72,1,0,0,1,0.0,43.0,3.0,3.0,March,March:1,,0.08,18.2,N.W.F.P.,Chitral District district 
+36_74,36,74,1,0,0,0,0.0,95.0,100.0,0.0,March,March:1,,0.32,21.96,Northern Areas,Phuban 
+36_75,36,75,1,0,0,0,0.0,22.0,5.0,0.0,March,March:1,,-0.12,15.08,Northern Areas, Thalestal 
+37_111,37,111,1,0,1,1,0.0,23.0,0.0,0.0,November,November:1,,-0.11,15.29,Shanxi,Zhongyang Xiang area 
+37_67,37,67,1,0,0,0,0.0,100.0,0.0,0.0,March,March:1,,0.33,22.2,Balkh,Mazar-E-Sharif 
+37_70,37,70,1,0,1,1,0.0,29.0,40.0,0.0,January,January:1,,-0.04,16.36,Badakhshan, Shahr-e-Buzorg
+37_71,37,71,7,2,4,5,0.0,574.0,1330.0,0.0,March,January:1;February:2;March:3;June:1,0.2348,1.55,41.35,Badakhshan," Badakhstan province, Badakhshan province, Daraim district, Raghestan district , Shaki district , Yamgan district"
+38_-25,38,-25,1,0,0,0,16300.0,29.0,55.0,4.0,October,October:1,,2.87,62.23,Azores,Ribeira Quente Village
+38_110,38,110,1,0,1,1,0.0,28.0,135.0,0.0,March,March:1,,-0.05,16.2,Shaanxi,Shuanghuyu village 
+38_111,38,111,1,0,1,1,0.0,19.0,0.0,0.0,June,June:1,,-0.16,14.41,Shanxi,Luliang district 
+38_112,38,112,1,0,0,1,0.0,11.0,0.0,27.0,July,July:1,,-0.32,11.95,Shanxi,Shanxi Sheng province
+38_127,38,127,1,0,1,1,0.0,59.0,2026.0,1.0,July,July:1,,0.17,19.7,Gyeonggi-Do, Dongducheon area 
+38_128,38,128,1,0,0,0,108700.0,11.0,1688.0,0.0,August,August:1,,3.16,66.8,Gangwon-Do,Kangwon-Don
+38_15,38,15,1,0,1,1,0.0,3.0,1.0,0.0,November,November:1,,-0.65,6.67,Sicily,Saponara town 
+38_43,38,43,1,1,1,1,0.0,7.0,0.0,0.0,January,January:1,,-0.44,10.0,Sirnak,Sirnak province
+38_69,38,69,1,0,0,1,0.0,1.0,13000.0,14.0,April,April:1,,-0.86,3.33,Khatlon, Dangara districts 
+38_70,38,70,1,0,0,1,0.0,0.0,181.0,0.0,February,February:1,,-1.08,0.0,Khatlon,Chorvodor village 
+38_71,38,71,2,2,2,2,0.0,125.0,500.0,2.5,February,February:1;April:1,,0.6,26.42,Badakhshan,"Dawaz Bala , Geriy Bala village "
+39_-81,39,-81,1,0,0,0,0.0,400.0,0.0,,Unknown,NA,,0.75,28.84,West Virginia,West Virginia
+39_140,39,140,1,0,0,0,0.0,17.0,0.0,0.0,April,April:1,,-0.19,13.9,Yamagata,Okuura
+39_36,39,36,1,0,0,0,0.0,40.0,0.0,0.0,March,March:1,,0.06,17.87,Kayseri,Kayseri province
+39_69,39,69,3,0,0,2,600.0,62.0,893.0,2.33,January,January:1;May:1;November:1,0.0,2.45,55.58,Tadzhikistan Territories," Faysabadskiy, Col D'Ansob, Varzob district "
+39_70,39,70,4,1,1,3,149000.0,42.0,77310.0,0.25,February,February:2;April:1;May:1,0.0,4.1,81.55,Tadzhikistan Territories," Tadzhikistan Territories province, Degdonak , Dzhamiat Rokhaty, Kofarnikhon district"
+3_102,3,102,2,0,1,1,0.0,36.0,29.0,0.0,May,May:1;June:1,,0.23,20.52,Kuala Lumpur,"Near Kuala Lumpur, Ulu Langat district "
+3_35,3,35,2,0,2,2,0.0,20.0,20.0,0.0,April,April:1;November:1,,0.05,17.8,Turkana, Rift Valley province
+3_99,3,99,1,1,1,1,0.0,15.0,0.0,0.0,May,May:1,,-0.23,13.34,Sumatera Utara,Sibolangit 
+40_38,40,38,1,0,0,1,0.0,15.0,9.0,0.0,March,March:1,,-0.23,13.34,Sivas,Koyulhisar district
+40_39,40,39,1,0,1,1,0.0,11.0,6.0,0.0,January,January:1,,-0.32,11.95,Gumushane,Zigana area 
+40_45,40,45,1,1,1,1,0.0,0.0,750.0,0.0,June,June:1,,-1.08,0.0,Gegharkunik,Karchaghbyur city 
+40_46,40,46,1,0,0,1,0.0,11.0,0.0,27.0,December,December:1,,-0.32,11.95,Ganja-Qazakh,Dashkesan city 
+40_69,40,69,4,1,1,3,65100.0,273.0,6000.0,6.0,January,January:1;April:1;May:1;December:1,0.0,4.41,86.55,Leninabad,"Kandak, Leninskiy district, Sogd"
+40_72,40,72,1,0,0,1,0.0,33.0,96.0,0.0,April,April:1,,0.0,16.96,Osh,Alay district 
+40_73,40,73,3,0,0,2,37500.0,116.0,59502.0,0.0,April,April:2;May:1,0.0,3.88,78.11,Osh," Zhangi-Savai villages , Kara-Sogot village , Osh"
+41_125,41,125,1,0,0,1,0.0,34.0,308.0,0.0,August,August:1,,0.01,17.1,Liaoning,Benxi Shi area
+41_14,41,14,1,0,0,1,0.0,4.0,159.0,0.0,April,April:1,,-0.58,7.74,Campania,Ischia town 
+41_15,41,15,1,0,0,1,28700.0,160.0,3682.0,6.0,May,May:1,,3.55,72.99,Campania,Campania Region
+41_27,41,27,1,1,1,1,0.0,24.0,100.0,0.0,July,July:1,,-0.09,15.49,Tekirdag,Sarilar village 
+41_29,41,29,1,0,0,0,26000.0,74.0,12046.0,3.0,July,July:1,,3.29,68.85,Istanbul, Istanbul
+41_38,41,38,1,0,0,0,0.0,40.0,0.0,0.0,September,September:1,,0.06,17.87,Ordu,Ordu province
+41_40,41,40,2,0,1,1,0.0,68.0,620.0,0.5,June,June:1;November:1,,0.42,23.52,Trabzon," Trabzon province, Trabzon province"
+41_41,41,41,2,0,1,2,0.0,22.0,806.0,0.0,August,August:1;November:1,,0.08,18.24,Rize," Ardesen districts ,  Rize province"
+41_73,41,73,1,0,1,1,0.0,0.0,8350.0,0.0,June,June:1,,-1.08,0.0,Jalal-Abad,Suzak
+41_74,41,74,3,1,1,2,0.0,113.0,266.0,0.0,April,March:1;April:2,0.0,0.71,28.17,Osh,"Ozgon district, Usgen , Uzgen - Osh region"
+42_0,42,0,1,0,0,0,20000.0,84.0,129.0,2.0,August,August:1,,3.25,68.21,Aragon,Near Biesca 
+42_23,42,23,1,0,0,0,0.0,11.0,0.0,0.0,December,December:1,,-0.32,11.95,Kyustendil,Rila mountains
+42_79,42,79,1,0,0,1,0.0,11.0,2.0,0.0,August,August:1,,-0.32,11.95,Ysyk-Kol,Ak-Suu district
+43_44,43,44,3,0,0,3,0.0,149.0,508.0,0.0,January,January:1;July:1;September:1,,0.79,29.49,North Ossetia,"Severnaya Osetiya-alaniya Rep. Province, Tymauz village "
+43_45,43,45,1,0,0,0,0.0,17.0,0.0,0.0,September,September:1,,-0.19,13.9,Ingush,Nazran Region
+43_47,43,47,1,0,0,0,2600.0,0.0,1750.0,0.0,November,November:1,,1.28,37.19,Dagestan,Dagestan
+44_13,44,13,1,0,0,0,700000.0,0.0,4000.0,0.0,December,December:1,,2.96,63.65,Marche,Ancona
+44_18,44,18,1,0,0,1,0.0,6.0,403.0,0.0,February,February:1,,-0.48,9.36,Federacija Bosna I Hercegovina,Zenicko-dobojski district
+44_77,44,77,1,0,0,1,0.0,48.0,0.0,0.0,March,March:1,,0.11,18.72,Almaty,Talgar district 
+44_81,44,81,1,0,1,1,0.0,12.0,0.0,0.0,March,March:1,,-0.29,12.34,Xinjiang Uygur,Huocheng area 
+45_85,45,85,1,1,1,1,0.0,35.0,0.0,0.0,July,July:1,,0.02,17.24,Xinjiang Uygur,Kunlun mountain 
+46_10,46,10,3,0,0,0,625000.0,57.0,6189.0,0.0,July,May:1;July:2,,4.51,88.04,Lombardia,"Lombardy province, Tartano, Valtellina"
+46_12,46,12,1,0,0,0,0.0,1917.0,0.0,0.0,October,October:1,,1.23,36.36,Veneto, Longarone 
+46_132,46,132,1,0,1,1,0.0,23.0,0.0,0.0,July,July:1,,-0.11,15.29,Heilongjiang,Jixi district 
+46_5,46,5,1,0,0,0,0.0,13.0,0.0,0.0,March,March:1,,-0.27,12.7,Auvergne-Rhone-Alpes,French Alps
+46_6,46,6,11,0,0,1,0.0,214.0,100.0,7.55,April,January:2;February:3;April:4;July:1;December:1,-0.2915,1.45,39.77,Auvergne-Rhone-Alpes," St Gervais ,  Val d'Isere, Alps, Chamonix, Mont Blanc, Val d'Isere"
+46_8,46,8,3,0,0,2,1015000.0,136.0,1500.0,0.0,February,February:1;August:1;October:1,0.0,4.92,94.47,Valais,"Evolene , Saas-Fee, Valais Province"
+46_9,46,9,1,0,0,0,0.0,12.0,0.0,0.0,September,September:1,,-0.29,12.34,Lombardia,Loveno
+47_10,47,10,2,0,0,2,41570.0,53.0,10050.0,0.0,February,February:1;August:1,,3.53,72.64,Appenzell Ausserrhoden,"Galtuer, Lutzenberg "
+47_12,47,12,1,0,0,0,0.0,0.0,100.0,0.0,August,August:1,,-1.08,0.0,Veneto,Cortina D'ampezzo
+47_13,47,13,2,0,0,1,0.0,25.0,0.0,13.5,February,February:1;March:1,,0.12,18.83,Salzburg,"Near Salzburg, Zell am See"
+47_9,47,9,1,0,0,1,180000.0,1.0,231.0,0.0,November,November:1,,2.77,60.56,Uri, Uri
+48_-122,48,-122,1,1,1,1,20000.0,43.0,150.0,0.0,March,March:1,,3.05,65.04,Washington,Snohomish district
+49_2,49,2,1,0,0,0,0.0,21.0,0.0,0.0,June,June:1,,-0.13,14.87,Ile-de-France,Clamart 
+49_93,49,93,1,1,1,1,0.0,17.0,0.0,0.0,October,October:1,,-0.19,13.9,Uvs, Zavkhan province
+4_-53,4,-53,1,0,0,1,0.0,10.0,5.0,0.0,April,April:1,,-0.34,11.54,Cayenne,Cayenne province
+4_-74,4,-74,1,0,0,0,0.0,200.0,0.0,0.0,June,June:1,,0.54,25.51,Cundinamarca,Bogota
+4_-77,4,-77,1,0,0,0,0.0,5.0,110.0,0.0,May,May:1,,-0.53,8.62,Valle Del Cauca,Danubio
+4_125,4,125,1,0,0,1,0.0,32.0,3990.0,2.0,January,January:1,,-0.01,16.82,Sulawesi Utara,Tahuna
+4_126,4,126,1,0,0,1,0.0,63.0,0.0,0.0,January,January:1,,0.19,20.01,Sulawesi Utara,Sangihe chains 
+52_-3,52,-3,1,0,0,0,0.0,140.0,0.0,0.0,October,October:1,,0.43,23.81,Wales,Aberfan
+53_33,53,33,2,0,0,0,0.0,239.0,300.0,0.0,January,January:1;December:1,,0.8,29.52,Bryansk," Caucasus Mountains, Caucasus Mountain"
+56_-130,56,-130,1,0,0,0,0.0,26.0,22.0,0.0,February,February:1,,-0.07,15.86,British Columbia,Granuc Mine 
+58_12,58,12,1,0,0,0,11000.0,13.0,50.0,0.0,November,November:1,,2.52,56.7,Vastra Gotaland,Goteborg
+59_163,59,163,1,0,0,1,0.0,9.0,0.0,0.0,January,January:1,,-0.37,11.08,Kamchatka,Kamchatskaya Oblast Province
+5_-4,5,-4,1,0,1,1,0.0,27.0,10006.0,1.0,June,June:1,,-0.06,16.03,Abidjan, Yopugon boroughs 
+5_-74,5,-74,2,0,1,1,0.0,300.0,1593.0,0.0,February,February:1;June:1,,0.87,30.61,Cundinamarca,"Altos de Cazuca , Quebrada Blanca"
+5_-75,5,-75,3,0,0,0,0.0,33.0,1097.0,0.0,May,May:1;November:1;December:1,,0.34,22.35,Caldas,"Caldas, Near Fresno"
+5_-76,5,-76,7,1,2,4,2000.0,224.0,1598.0,0.71,November,March:1;April:1;May:1;June:1;November:3,0.0,3.54,72.78,Caldas," Dosquebradas, Filadelfia district , Manizales, Manizales , Manizales district , Marizales"
+5_-77,5,-77,1,0,1,1,0.0,30.0,7.0,0.0,July,July:1,,-0.03,16.52,Choco,Novita district 
+5_101,5,101,1,0,0,0,0.0,50.0,262.0,0.0,August,August:1,,0.12,18.92,Perak,Pos Dipang 
+65_-14,65,-14,1,0,0,0,0.0,12.0,0.0,0.0,December,December:1,,-0.29,12.34,Austurland,Neskaupstadhur
+66_-23,66,-23,2,0,0,0,5789.0,34.0,83.0,0.0,January,January:1;October:1,,2.81,61.23,Vestfirdir,"Flateyri, Sudavik"
+6_-76,6,-76,6,1,3,3,0.0,1011.0,6800.0,0.17,May,May:2;June:1;September:2;December:1,0.0,1.65,43.03,Antioquia,"Medellin, Medellin district, Medellin district , Salgar city , San Antonio De Prado, Villatina "
+6_-77,6,-77,1,0,0,1,0.0,25.0,3000.0,0.0,April,April:1,,-0.08,15.67,Choco, Choco
+6_10,6,10,1,0,0,1,0.0,20.0,100.0,0.0,July,July:1,,-0.15,14.65,Sud-Ouest,Wabane village 
+6_125,6,125,1,0,0,0,0.0,21.0,0.0,0.0,September,September:1,,-0.13,14.87,South Cotabato,Kimatu
+6_37,6,37,2,2,2,2,36.0,44.0,21.0,3.0,May,May:1;September:1,,1.37,38.54,Southern Nations; Nationalities And Peoples," des nationalités et des peuples du Sud , Gamo Gofa"
+6_7,6,7,2,0,0,1,0.0,17.0,1800.0,13.5,September,September:1;December:1,,0.01,17.06,Anambra,"Amakor, Anambra state"
+7_-75,7,-75,2,0,0,1,0.0,84.0,0.0,0.0,January,January:1;June:1,,0.48,24.53,Antioquia,"San Josecito, Valdivia district"
+7_-76,7,-76,2,0,1,1,0.0,75.0,0.0,2.0,June,June:1;September:1,,0.45,23.99,Antioquia," Frontino , Giraldo district "
+7_124,7,124,2,0,0,1,0.0,23.0,1245.0,13.5,May,May:2,,0.09,18.44,Maguindanao,"Mindanao Isl., Mindanao/Monkayo"
+7_126,7,126,2,0,1,1,0.0,99.0,23.0,0.0,January,January:1;April:1,,0.53,25.31,Compostela Valley,"Davao Oriental, Napnapan village "
+7_38,7,38,1,0,0,1,0.0,4.0,165.0,0.0,July,July:1,,-0.58,7.74,Southern Nations; Nationalities And Peoples,Wolayita district
+7_5,7,5,1,0,0,1,0.0,15.0,0.0,0.0,December,December:1,,-0.23,13.34,Osun, Atakumosa East districts 
+7_81,7,81,3,2,2,2,0.0,299.0,1527.0,0.33,October,October:3,,1.01,32.83,Badulla,"Haldummulla area , Kodigama, Koslanda area "
+8_-13,8,-13,2,1,2,2,30000.0,1118.0,11921.0,0.0,August,August:2,,4.36,85.68,Western," Malama/Kamayama, Western Area Urb district "
+8_-72,8,-72,1,0,0,0,0.0,18.0,518.0,0.0,October,October:1,,-0.18,14.17,Tachira,Tachira state
+8_-73,8,-73,1,0,0,0,0.0,10.0,117.0,0.0,August,August:1,,-0.34,11.54,Norte De Santander, Serrania del Perija
+8_-74,8,-74,1,0,0,1,0.0,70.0,2000.0,2.0,October,October:1,,0.22,20.51,Bolivar,Montecristo district
+8_125,8,125,1,0,1,1,0.0,5.0,5.0,0.0,July,July:1,,-0.53,8.62,Bukidnon,Bukidnon district 
+8_126,8,126,5,0,3,3,0.0,92.0,10721.0,0.0,May,February:1;April:1;May:2;September:1,0.0,0.85,30.35,Davao Del Norte," Brgy Kingking villages , Davao Del Norte Province, Davao Region, Davao del Sur"
+8_99,8,99,1,0,0,1,0.0,3.0,110.0,0.0,October,October:1,,-0.65,6.67,Krabi,Baan Huay Nam Khiew village 
+9_77,9,77,1,0,0,1,0.0,55.0,0.0,0.0,November,November:1,,0.15,19.37,Kerala,Thiruvananthapuram district

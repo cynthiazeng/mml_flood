@@ -1,0 +1,1032 @@
+grid_id,lat,lon,count,freq_5yr,freq_10yr,freq_20yr,total_damages,total_deaths,total_affected,avg_duration,top_month,monthly_dist,risk_slope,severity_score,severity_score_normalized,primary_admin1,unique_locations
+-10_151,-10,151,2,0,1,1,2501500.0,16.0,47340.0,1.5,February,February:1;May:1,,0.27,31.68,Milne Bay,"Kitava, Milne Bay"
+-10_160,-10,160,5,1,2,2,20000.0,109.0,239500.0,0.0,January,January:2;March:1;May:1;November:1,0.0,0.67,45.34,Guadalcanal," Guadalcana, Guadalcanal"
+-10_57,-10,57,1,0,0,0,0.0,1.0,351.0,0.0,December,December:1,,-0.54,3.94,Agalega Islands,Agalega Islands
+-11_-37,-11,-37,1,0,0,0,0.0,10.0,100.0,0.0,June,June:1,,-0.26,13.64,Sergipe,Aracaju
+-12_160,-12,160,1,0,0,1,0.0,0.0,275.0,2.0,January,January:1,,-0.65,0.0,Rennell And Bellona,Bellona Island
+-12_169,-12,169,4,0,0,2,0.0,0.0,1910.0,0.33,March,March:1;June:1;December:1,0.0,-0.39,9.03,Temotu,"Tikopia, Tikopia Island"
+-12_34,-12,34,1,0,0,1,0.0,11.0,8.0,0.0,December,December:1,,-0.24,14.13,Mzimba,Mzimba
+-12_39,-12,39,1,0,1,1,0.0,77.0,85015.0,0.0,February,February:1,,0.07,24.78,Cabo Delgado,Cabo Delgado
+-12_43,-12,43,1,0,0,0,5568.0,2.0,35000.0,0.0,February,February:1,,-0.27,13.02,Njazidja,Grande Comore
+-12_44,-12,44,5,1,1,2,37236.0,57.0,89863.0,0.8,January,January:3;March:1;April:1,0.0,0.58,42.19,Mwali,"Anjouan, Fomboni, Moheli"
+-13_48,-13,48,1,0,1,1,0.0,0.0,400.0,1.0,March,March:1,,-0.65,0.0,Antsiranana,Nosy Be
+-13_49,-13,49,1,0,0,1,0.0,20.0,526200.0,0.0,May,May:1,,-0.15,17.32,Antsiranana,Ambilobe
+-14_-170,-14,-170,1,0,0,1,0.0,0.0,0.0,0.0,February,February:1,,-0.65,0.0,Manu'a,Manu'a
+-14_-172,-14,-172,6,0,0,1,644338.0,31.0,401064.0,0.5,January,January:3;February:2;December:1,0.0,0.59,42.57,A'ana,"A'Ana, Fa'Asaleleaga"
+-14_167,-14,167,1,0,1,1,2500000.0,1.0,7300.0,3.0,February,February:1,,-0.2,15.51,Torba,Torres Island group
+-14_48,-14,48,3,0,0,2,250200.0,375.0,988311.0,1.67,March,March:2;December:1,0.0,0.82,50.32,Antsiranana,"Ambajana, Ambanja"
+-14_50,-14,50,1,0,0,1,0.0,3.0,0.0,0.0,April,April:1,,-0.42,7.88,Antsiranana,Sambava district
+-15_167,-15,167,3,0,0,0,1000.0,4.0,4700.0,0.0,January,January:1;February:1;December:1,0.0,-0.03,21.41,Sanma,"Santo, West Espiritu Santo, West Santo"
+-15_168,-15,168,5,2,2,4,2000.0,17.0,76324.0,1.2,March,January:1;February:1;March:2;April:1,0.0,0.32,33.24,Penama,"Ambae, East Ambae, NW Ambae, Penama, Pentecost"
+-15_39,-15,39,2,0,0,1,0.0,13.0,105750.0,0.0,November,November:1;December:1,,-0.1,19.01,Nampula,"Nampula, Nampula province"
+-15_50,-15,50,5,0,1,3,250000.0,185.0,554791.0,11.6,February,January:1;February:2;April:1;December:1,0.0,0.82,50.32,Antsiranana,"Andapa, Antalaha"
+-16_-174,-16,-174,4,0,0,3,203800.0,1.0,43163.0,0.0,January,January:2;February:1;December:1,0.0,0.01,22.58,Niuas,"Niuafo'ou, Niuafoou, Niuatoputapu, Nuiatoputapu islands"
+-16_168,-16,168,2,1,1,2,0.0,1.0,2564.0,2.5,February,February:1;May:1,,-0.42,7.94,Malampa," Malampa, Lopevi Island"
+-16_179,-16,179,2,2,2,2,650000.0,45.0,629808.0,1.5,February,February:1;April:1,,0.41,36.28,Northern," Labasa,  Macuata districts "
+-16_36,-16,36,1,0,0,1,0.0,5.0,350.0,0.0,November,November:1,,-0.36,10.19,Zambezia,Milange
+-16_40,-16,40,2,0,1,2,0.0,23.0,369672.0,0.5,March,March:1;April:1,,-0.01,22.07,Nampula,"Angoche, Zngoche"
+-16_46,-16,46,1,0,1,1,0.0,12.0,8613.0,0.0,January,January:1,,-0.23,14.59,Mahajanga,Boeny
+-16_49,-16,49,2,0,0,2,240000.0,81.0,215198.0,2.0,March,March:2,,0.48,38.79,Toamasina,"Analajirofo, Sainte-Marie Island"
+-17_-152,-17,-152,1,0,0,0,21000.0,1.0,5050.0,0.0,April,April:1,,-0.31,11.76,Iles Sous-le-Vent,Moorea/Tetisura
+-17_-66,-17,-66,1,0,1,1,0.0,0.0,6655.0,1.0,November,November:1,,-0.65,0.0,Tarija,Cercado
+-17_-71,-17,-71,1,0,0,1,0.0,59.0,86682.0,27.0,July,July:1,,0.03,23.29,Moquegua, Moquegua
+-17_146,-17,146,1,0,0,1,90000.0,1.0,200.0,15.0,February,February:1,,-0.28,12.9,Queensland,Cairns
+-17_155,-17,155,1,0,0,0,20000.0,1.0,3000.0,0.0,December,December:1,,-0.31,11.72,Northern,Taveuni
+-17_168,-17,168,5,0,0,0,25000.0,48.0,48000.0,0.2,January,January:2;February:1;March:1;April:1,-0.4536,0.54,40.92,Shefa,"Efate, Tongoa"
+-17_179,-17,179,2,0,0,1,30000.0,17.0,31150.0,0.0,January,January:1;April:1,,0.18,28.53,Northern,Bua
+-17_31,-17,31,1,1,1,1,0.0,5.0,350.0,2.0,January,January:1,,-0.36,10.19,Mashonaland Central, Mashonaland West
+-17_35,-17,35,1,0,1,1,0.0,0.0,300.0,0.0,January,January:1,,-0.65,0.0,Nsanje,Nsanje district
+-17_37,-17,37,1,0,1,1,0.0,0.0,3376.0,10.0,March,March:1,,-0.65,0.0,Zambezia,Zambezia
+-17_47,-17,47,1,0,0,0,0.0,36.0,250000.0,0.0,February,February:1,,-0.05,20.54,Mahajanga,Mahajanga
+-17_48,-17,48,1,0,1,1,5000.0,15.0,64918.0,0.0,April,April:1,,0.0,22.46,Toamasina,Amparafaravola
+-17_49,-17,49,3,1,2,2,0.0,42.0,213377.0,3.33,January,January:2;March:1,0.0,0.17,28.23,Toamasina," Soanierana Ivongo, Fenerive, Fenoarivo Atsinanana"
+-18_-114,-18,-114,5,0,0,2,2503.0,54.0,70101.0,0.4,March,January:1;March:2;April:1;December:1,0.3387,0.51,39.77,Eastern,"Cikobia, Lau Islands, Lau group, Southern Lau group"
+-18_-149,-18,-149,1,0,1,1,11000.0,1.0,3411.0,0.0,February,February:1,,-0.33,11.25,Iles Du Vent, Moorea
+-18_-174,-18,-174,2,1,1,1,600500.0,47.0,548558.0,0.5,February,February:1;March:1,,0.41,36.46,Vava'u,"Vava'u Ha'Apai, VavaÕu Isl."
+-18_146,-18,146,1,0,1,1,2500000.0,1.0,7300.0,3.0,February,February:1,,-0.2,15.51,Queensland,Cardwell
+-18_168,-18,168,2,0,0,0,6000.0,4.0,13155.0,0.0,March,March:2,,-0.07,19.98,Shefa,"North Efate, Port Vila"
+-18_178,-18,178,18,2,5,9,367083.0,152.0,676303.0,0.94,January,January:6;March:6;April:3;November:1;December:2,-0.0573,1.13,60.87,Western,"Ba, Lautoka, Nadi, Naitasiri, Suva, Viti Levu Isl., Western, Yasawa & Mamanuca group"
+-18_37,-18,37,2,0,1,1,0.0,100.0,4300.0,0.0,January,January:1;March:1,,0.23,30.25,Zambezia,"Quelimane, Quelimane city"
+-18_48,-18,48,3,0,1,1,235000.0,234.0,622022.0,5.0,February,February:1;March:1;December:1,0.0,0.74,47.6,Toamasina,"Ambatondrazaka, Countrywide"
+-18_49,-18,49,1,0,0,0,0.0,7.0,10050.0,27.0,January,January:1,,-0.31,11.83,Toamasina, Tamatave 
+-19_-43,-19,-43,1,0,0,0,0.0,22.0,3000.0,0.0,September,September:1,,-0.13,17.83,Minas Gerais,Ipatinga
+-19_122,-19,122,1,0,0,1,0.0,0.0,750.0,0.0,December,December:1,,-0.65,0.0,Western Australia,Bidyadanga
+-19_133,-19,133,3,1,1,2,978000.0,67.0,46898.0,4.67,February,February:1;March:1;December:1,0.0,0.56,41.67,Northern Territory,"Darwin, Northern territory"
+-19_169,-19,169,2,0,1,2,0.0,0.0,34400.0,0.5,January,January:1;March:1,,-0.54,4.0,Tafea,"North Tanna, Tafea province"
+-19_178,-19,178,1,0,0,0,0.0,59.0,5000.0,0.0,December,December:1,,0.03,23.29,Eastern,Kadavu
+-19_33,-19,33,3,0,1,2,0.0,263.0,2525010.0,0.0,March,January:1;March:2,0.0,0.47,38.55,Manica,"Chimolo provinciale, Manica"
+-19_46,-19,46,1,0,1,1,0.0,77.0,85015.0,0.0,February,February:1,,0.07,24.78,Antananarivo,Kelilalina
+-19_47,-19,47,2,1,1,2,20000.0,113.0,478543.0,6.0,January,January:1;March:1,,0.48,38.71,Antananarivo," Itasy, Antananarivo"
+-19_48,-19,48,2,0,0,1,259000.0,237.0,854937.0,11.5,February,February:1;December:1,,0.66,44.91,Antananarivo,"Ambatolampy, Antananarivo"
+-19_49,-19,49,2,0,1,2,100000.0,124.0,412370.0,0.5,February,February:1;May:1,,0.53,40.5,Toamasina,Vatomandry
+-1_18,-1,18,1,0,0,1,0.0,11.0,73.0,0.0,October,October:1,,-0.24,14.13,Equateur,Equateur province
+-1_29,-1,29,1,0,0,1,0.0,3.0,75066.0,0.0,March,March:1,,-0.42,7.88,Nord-Kivu,North Kivu
+-20_-175,-20,-175,6,2,3,4,35600.0,4.0,18382.0,1.5,January,January:3;April:1;December:2,0.0,0.22,29.74,Ha'apai," Ha'apai islands , Ha'Apai Island, Ha'apai Island, Ha'api Island Group, Haapai Island, Uiha Island"
+-20_149,-20,149,1,0,1,1,0.0,1.0,0.0,0.0,March,March:1,,-0.54,3.94,Queensland,Whitsunday
+-20_164,-20,164,1,0,0,0,0.0,0.0,0.0,0.0,March,March:1,,-0.65,0.0,Nord,Belep
+-20_33,-20,33,1,0,0,1,0.0,10.0,162770.0,0.0,February,February:1,,-0.26,13.64,Manicaland,Chimanimani
+-20_35,-20,35,1,0,0,1,0.0,3.0,4017.0,0.0,October,October:1,,-0.42,7.88,Sofala,Beira
+-20_49,-20,49,1,1,1,1,0.0,73.0,161318.0,3.0,January,January:1,,0.06,24.48,Toamasina, Mahanoro
+-20_58,-20,58,4,1,1,2,385400.0,14.0,859608.0,2.0,January,January:2;February:2,0.0,0.36,34.54,Port Louis," Pamplemousse, Flacq, Port Louis"
+-20_63,-20,63,8,0,0,0,5973.0,2.0,88540.0,9.0,February,January:2;February:3;December:1,0.05,0.16,27.91,Rodriguez,"Rodigues Island, Rodrigues Island, Rodriguez Isl., Rodriguez Island, Rodrogues Isl."
+-21_-175,-21,-175,5,2,2,2,22300.0,9.0,241514.0,0.8,March,February:1;March:2;April:1;May:1,-0.244,0.28,31.79,Tongatapu," HaÕapai and Eua islands,  Tongatapu, 'Eua, Tonatapu  Island, Tongatapu"
+-21_117,-21,117,1,0,0,1,196300.0,0.0,1.0,1.0,July,July:1,,-0.37,9.57,Western Australia,Roeburne
+-21_149,-21,149,1,1,1,1,2700000.0,12.0,45000.0,10.0,March,March:1,,0.11,26.22,Queensland, Mackay
+-21_165,-21,165,2,0,0,0,0.0,3.0,0.0,0.0,June,June:1,,-0.31,11.88,Nord," Poindimie, Norden"
+-21_166,-21,166,1,0,0,0,0.0,1.0,2000.0,0.0,February,February:1,,-0.54,3.94,Nord,Houailou 
+-21_167,-21,167,1,0,0,0,0.0,0.0,0.0,0.0,January,January:1,,-0.65,0.0,Iles Loyaute,Ouvea
+-21_28,-21,28,2,2,2,2,189000.0,282.0,115023.0,45.5,January,January:1;December:1,,0.68,45.65,Matabeleland South," Matobo, Mangwe"
+-21_48,-21,48,4,0,0,1,5000.0,128.0,105699.0,0.0,January,January:1;February:1;March:1;December:1,0.0,0.61,43.36,Fianarantsoa,"Manajary, Mananjary, Nosy Varika"
+-21_55,-21,55,1,0,0,0,2000.0,10.0,4000.0,0.0,February,February:1,,-0.08,19.61,Saint-Denis,Saint Denis
+-21_56,-21,56,1,1,1,1,0.0,0.0,30000.0,6.0,January,January:1,,-0.65,0.0,Saint-Pierre,Saint-Pierre
+-22_-49,-22,-49,5,1,2,3,230000.0,19.0,21628.0,1.2,September,May:2;September:3,-0.4773,0.44,37.57,Sao Paulo,Sao Paulo
+-22_-54,-22,-54,1,0,0,0,0.0,36.0,45000.0,0.0,July,July:1,,-0.05,20.54,Mato Grosso Do Sul,Ivinhema
+-22_-67,-22,-67,1,0,0,1,0.0,20.0,12085.0,57.0,June,June:1,,-0.15,17.32,Potosi,Sud Lipez
+-22_117,-22,117,1,1,1,1,57000.0,0.0,600.0,3.0,March,March:1,,-0.4,8.6,Western Australia, Ashburton
+-22_123,-22,123,2,0,0,2,2354.0,0.0,2000.0,14.0,January,January:1;March:1,,-0.36,10.1,Western Australia,"Pilbara Coast, Pilbara coast"
+-22_124,-22,124,3,0,0,0,98000.0,7.0,7045.0,27.0,February,February:1,,0.16,27.69,Western Australia,"Onslow, Pilbara"
+-22_165,-22,165,1,0,0,1,0.0,0.0,0.0,0.0,February,February:1,,-0.65,0.0,Sud,Bourail commune
+-22_166,-22,166,1,0,0,1,40000.0,2.0,1100.0,0.0,March,March:1,,-0.23,14.57,Sud,Noumea
+-22_35,-22,35,1,0,0,1,0.0,10.0,162770.0,0.0,February,February:1,,-0.26,13.64,Inhambane,Vilankulo
+-22_44,-22,44,1,0,0,1,181.0,2.0,1900.0,0.0,January,January:1,,-0.35,10.34,Toliary,Morombe
+-22_47,-22,47,1,1,1,1,36000.0,89.0,174007.0,1.0,January,January:1,,0.34,33.83,Fianarantsoa,Ambalavao
+-23_-142,-23,-142,1,0,0,0,16000.0,6.0,0.0,27.0,February,February:1,,-0.11,18.67,Iles Australes,Tuomoto
+-23_-52,-23,-52,1,0,0,0,0.0,33.0,4300.0,27.0,June,June:1,,-0.07,20.06,Parana,Parana state
+-23_-57,-23,-57,2,1,2,2,0.0,2.0,57680.0,0.0,April,April:1;August:1,,-0.35,10.25,Concepcion,"Concepcion, Horqueta"
+-23_114,-23,114,1,0,0,1,200000.0,1.0,2672.0,4.0,March,March:1,,-0.26,13.53,Western Australia,Exmouth
+-23_145,-23,145,20,2,3,9,3657925.0,60.0,63606.0,9.0,January,January:4;February:2;March:1;April:3;June:1;November:2;December:3,-0.1058,1.06,58.43,Queensland," Queensland, Brisbane, Brisbane region, Cairns, Gold coast, North Queensland, Queensland, Queensland State, Southern Queensland, TooWoomba, Townsville, Townsville area"
+-23_150,-23,150,1,0,0,0,155600.0,0.0,0.0,0.0,December,December:1,,-0.38,9.39,Queensland, Rockhampton
+-23_26,-23,26,1,0,1,1,0.0,0.0,400.0,0.0,December,December:1,,-0.65,0.0,Central,Mahalapye
+-23_44,-23,44,4,2,2,3,64000.0,121.0,72923.0,0.25,February,February:3;December:1,0.0,0.66,45.05,Toliary," Atsimo Andrefana, Androka, Sakaraha, Tulear"
+-23_45,-23,45,1,0,0,0,3100.0,29.0,75000.0,27.0,January,January:1,,0.1,25.66,Toliary, South-West Tulear
+-23_48,-23,48,1,0,1,1,0.0,120.0,192132.0,2.0,March,March:1,,0.14,27.28,Fianarantsoa,Ambohigogo
+-24_134,-24,134,1,0,0,0,20417.0,1.0,0.0,27.0,March,March:1,,-0.31,11.74,Northern Territory,Alice Springs
+-24_151,-24,151,1,0,0,1,0.0,0.0,300.0,0.0,December,December:1,,-0.65,0.0,Queensland,Gladstone
+-24_29,-24,29,2,0,0,2,9000.0,1.0,216.0,0.5,January,January:1;September:1,,-0.21,15.09,Limpopo,Limpopo
+-24_47,-24,47,1,0,0,0,50000.0,140.0,600000.0,2.0,January,January:1,,0.42,36.64,Fianarantsoa,Befotaka
+-25_-51,-25,-51,1,0,0,0,0.0,15.0,48.0,0.0,June,June:1,,-0.19,15.77,Parana,Irati town
+-25_-52,-25,-52,1,0,0,0,0.0,3.0,676.0,0.0,June,June:1,,-0.42,7.88,Parana,Parana State
+-25_-55,-25,-55,1,0,0,0,0.0,33.0,77.0,0.0,September,September:1,,-0.07,20.06,Alto Parana,Ciudad Del Este
+-25_-56,-25,-56,1,0,0,1,0.0,0.0,12500.0,0.0,July,July:1,,-0.65,0.0,Caaguazu,Caaguazu
+-25_-57,-25,-57,2,1,2,2,90000.0,6.0,16228.0,0.5,September,September:2,,0.05,24.02,Cordillera,"Cordilelra, Cordillera"
+-25_122,-25,122,1,0,0,0,31286.0,15.0,0.0,27.0,March,March:1,,0.04,23.9,Western Australia,Western Australia
+-25_152,-25,152,2,1,1,1,2000000.0,6.0,7500.0,7.0,January,January:1,,0.12,26.46,Queensland,"Bundaberg, Bundaberg Qld"
+-25_33,-25,33,1,1,1,1,17000.0,7.0,750102.0,0.0,February,February:1,,-0.08,19.48,Gaza, Chokwe distrcits 
+-25_34,-25,34,1,0,1,1,0.0,20.0,40042.0,0.0,January,January:1,,-0.15,17.32,Gaza,Xai-Xai
+-25_44,-25,44,1,0,0,0,10000.0,200.0,540043.0,0.0,January,January:1,,0.44,37.4,Toliary,Ampanihy
+-25_45,-25,45,1,0,0,1,0.0,78.0,7985.0,1.0,January,January:1,,0.07,24.85,Toliary,Tsihombe
+-26_28,-26,28,2,0,0,1,92000.0,64.0,500630.0,3.5,January,January:1;September:1,,0.42,36.72,Gauteng,"Midrand, Transvaal"
+-26_30,-26,30,1,0,1,1,0.0,20.0,40042.0,0.0,January,January:1,,-0.15,17.32,Mpumalanga, Mpumalanga provinces
+-26_31,-26,31,2,0,0,1,54152.0,54.0,639035.0,4.5,January,January:1;August:1,,0.38,35.35,Hhohho,"All country, Mbabane"
+-26_32,-26,32,1,1,1,1,1500.0,12.0,1700.0,0.0,October,October:1,,-0.06,20.33,Maputo,Maputo
+-26_33,-26,33,4,0,0,0,89500.0,123.0,550051.0,5.75,January,January:1;February:1;March:1;October:1,0.0,0.67,45.4,Maputo,"Maputo, Maputo province"
+-27_-52,-27,-52,1,1,1,1,2000.0,2.0,11037.0,0.0,April,April:1,,-0.3,12.22,Santa Catarina,Xanxere 
+-27_-56,-27,-56,2,0,2,2,2000.0,5.0,27100.0,0.5,August,August:1;September:1,,-0.06,20.16,Itapua,"Encarnacion, Itapua"
+-27_153,-27,153,3,0,0,0,324717.0,11.0,20025.0,27.0,January,January:1;December:1,0.0,0.25,30.93,Queensland," Brisbane, Brisbane, Brisbane "
+-27_31,-27,31,1,0,0,1,0.0,0.0,1150.0,0.0,January,January:1,,-0.65,0.0,Manzini,Manzini
+-28_-63,-28,-63,1,0,0,0,0.0,100.0,100000.0,27.0,February,February:1,,0.11,26.25,Santiago Del Estero,Santiago Del Estero
+-28_153,-28,153,2,0,1,2,450000.0,1.0,12000.0,3.0,February,February:1;November:1,,-0.12,18.16,New South Wales,"Fairfield, Logan"
+-28_28,-28,28,1,0,1,1,0.0,1.0,2773.0,1.0,October,October:1,,-0.54,3.94,Free State,Meqheleng
+-28_30,-28,30,1,0,0,1,0.0,1.0,300.0,0.0,February,February:1,,-0.54,3.94,KwaZulu-Natal,Newcastle
+-28_31,-28,31,1,1,1,1,320000.0,11.0,518.0,1.0,October,October:1,,0.05,24.09,KwaZulu-Natal, Nquthu 
+-29_-49,-29,-49,1,0,0,1,0.0,2.0,344.0,0.0,January,January:1,,-0.47,6.25,Santa Catarina,Criciuma
+-29_-50,-29,-50,1,0,0,1,350000.0,4.0,150060.0,2.0,March,March:1,,-0.09,19.18,Rio Grande Do Sul,Torres
+-29_27,-29,27,1,0,0,0,0.0,2.0,2000.0,27.0,April,April:1,,-0.47,6.25,Free State,Mautse 
+-29_28,-29,28,2,1,1,2,0.0,1.0,3601.0,13.5,October,October:1;December:1,,-0.42,7.94,Berea,"Berea district, Leribe"
+-29_31,-29,31,3,0,1,2,403000.0,21.0,3560.0,0.0,January,January:1;March:1;December:1,0.0,0.36,34.55,KwaZulu-Natal,"KwaZulu-Natal, Kwazulu Natal, Natal"
+-2_11,-2,11,2,0,2,2,0.0,0.0,2565.0,1.0,April,April:2,,-0.54,4.0,Ngounie,Mouila
+-2_29,-2,29,1,1,1,1,0.0,3.0,5874.0,0.0,September,September:1,,-0.42,7.88,Iburengerazuba, Rubavu
+-2_30,-2,30,1,1,1,1,0.0,0.0,679.0,0.0,April,April:1,,-0.65,0.0,Iburasirazuba,Gatsibo district 
+-30_-53,-30,-53,1,0,1,1,0.0,3.0,1600.0,0.0,May,May:1,,-0.42,7.88,Rio Grande Do Sul,Rio Grande do Sul state
+-30_-67,-30,-67,1,0,0,0,0.0,1.0,1000.0,27.0,December,December:1,,-0.54,3.94,La Rioja,La Riojaprovince
+-30_28,-30,28,2,0,1,2,0.0,0.0,5500.0,13.5,January,January:1;December:1,,-0.54,4.0,Mafeteng,"Maseru region, Matefeng district"
+-30_30,-30,30,1,0,1,1,0.0,18.0,0.0,1.0,January,January:1,,-0.16,16.75,KwaZulu-Natal,Richmond
+-30_31,-30,31,1,0,1,1,0.0,5.0,3576.0,0.0,November,November:1,,-0.36,10.19,KwaZulu-Natal,Durban
+-31_-57,-31,-57,1,0,0,0,0.0,1.0,500.0,0.0,December,December:1,,-0.54,3.94,Artigas,Artigas
+-31_-64,-31,-64,1,0,0,1,15000.0,16.0,2000.0,0.0,April,April:1,,0.04,23.67,Tucuman,Salta
+-31_29,-31,29,1,0,0,1,0.0,21.0,603.0,0.0,January,January:1,,-0.14,17.58,Eastern Cape,Mount Ayliff
+-32_-64,-32,-64,3,1,1,2,17200.0,25.0,5500.0,3.67,February,February:1;October:1;November:1,0.0,0.31,33.02,Cordoba,"Cordoba, Sierras Chicas"
+-32_116,-32,116,1,0,1,1,1390000.0,0.0,0.0,0.0,March,March:1,,-0.33,11.11,Western Australia,Joondalup
+-32_147,-32,147,20,1,3,9,4093324.0,22.0,3004578.0,1.31,January,January:2;February:2;March:2;April:1;May:1;July:1;August:1;September:2;October:2;November:2,0.0416,0.9,52.97,New South Wales," New South Wales,  New South wales, Armidale, New South Wales, New South Wales Coast, South New Gales, South Wales, Sydney, Sydney region"
+-32_152,-32,152,3,1,1,2,1384000.0,8.0,401174.0,11.67,December,April:1;December:2,0.0,0.24,30.44,New South Wales," Tarree , Dungog, Taree"
+-32_26,-32,26,4,0,1,3,170000.0,87.0,106160.0,8.5,December,April:1;July:1;December:2,0.0,0.63,43.96,Eastern Cape,"Cap Oriental, Eastern Cape, Goodwood, Umtata"
+-33_-57,-33,-57,1,0,0,0,0.0,0.0,2000.0,0.0,September,September:1,,-0.65,0.0,Rio Negro,Rio Negro department
+-33_-71,-33,-71,3,1,1,1,6800.0,106.0,260083.0,9.33,July,July:2;August:1,0.0,0.53,40.34,Region Metropolitana De Santiago,"Northeast of Santiago, Santiago area, Valparaiso"
+-33_116,-33,116,2,0,0,0,0.0,0.0,10045.0,27.0,September,September:1,,-0.54,4.0,Western Australia," Bunbury, Manduarh"
+-33_149,-33,149,1,0,0,0,0.0,0.0,0.0,,Unknown,NA,,-0.65,0.0,New South Wales,Orange
+-33_150,-33,150,1,0,0,0,39200.0,0.0,70014.0,27.0,February,February:1,,-0.41,8.31,New South Wales, Bathurst 
+-33_151,-33,151,1,0,0,0,140000.0,1.0,15611.0,27.0,December,December:1,,-0.27,13.25,New South Wales,Singleton district
+-33_152,-33,152,1,0,0,0,0.0,0.0,0.0,,Unknown,NA,,-0.65,0.0,New South Wales, Newcastle
+-34_-60,-34,-60,1,0,1,1,0.0,4.0,2364.0,0.0,September,September:1,,-0.39,9.15,Misiones,San Pedro department
+-34_151,-34,151,7,0,0,1,77388.0,7.0,180188.0,21.6,January,January:2;February:1;August:1;November:1,-0.3963,0.35,34.34,New South Wales,"Kuringai, Sydney, Sydney "
+-34_19,-34,19,4,1,1,4,25041.0,8.0,22647.0,0.75,August,April:1;June:1;August:2,0.0,0.21,29.49,Western Cape,"Bishop Lavis, Cape Town, Gugulethu"
+-34_22,-34,22,1,1,1,1,283000.0,9.0,6918.0,1.0,June,June:1,,0.02,22.95,Western Cape, Mossel Bay
+-35_-56,-35,-56,3,0,0,3,25000.0,9.0,1612.0,0.33,March,March:1;August:1;December:1,0.0,0.16,27.88,Canelones,"Canelones, Canelones department"
+-35_-58,-35,-58,1,1,1,1,0.0,2.0,1200.0,1.0,April,April:1,,-0.47,6.25,Buenos Aires, Quilmes
+-35_-59,-35,-59,2,0,1,1,2000.0,61.0,7810.0,1.0,January,January:1;October:1,,0.32,33.44,Buenos Aires,"Lujan, San Justo"
+-35_-60,-35,-60,1,1,1,1,2000.0,4.0,12.0,0.0,December,December:1,,-0.21,15.12,Buenos Aires,Chivilcoy
+-35_118,-35,118,1,0,0,0,77600.0,2.0,240220.0,0.0,May,May:1,,-0.21,15.09,Western Australia,Albany
+-35_139,-35,139,1,0,0,0,0.0,0.0,0.0,,Unknown,NA,,-0.65,0.0,South Australia,Adelaid
+-35_149,-35,149,2,0,0,2,42000.0,1.0,1200.0,0.0,January,January:1;December:1,,-0.18,16.3,Australian Capital Territory,"Canberra, Griffith"
+-36_139,-36,139,1,0,0,0,0.0,0.0,0.0,,Unknown,NA,,-0.65,0.0,South Australia, Victoria Harbour
+-36_145,-36,145,1,0,0,0,0.0,0.0,0.0,,Unknown,NA,,-0.65,0.0,Victoria,Tongala
+-36_174,-36,174,1,0,0,1,0.0,0.0,300.0,2.0,March,March:1,,-0.65,0.0,Northland,Northland
+-37_-61,-37,-61,6,0,1,4,60000.0,44.0,21100.0,0.0,February,January:1;February:2;April:2;December:1,0.0,0.59,42.64,Buenos Aires,"Buenos Aires, Buenos Aires Province, Buenos Aires province, River Plate"
+-37_-71,-37,-71,1,0,0,1,0.0,45.0,112.0,1.0,May,May:1,,-0.02,21.78,Bio-Bio,Antuco
+-37_144,-37,144,5,0,0,2,380354.0,2.0,390.0,0.0,December,May:1;November:1;December:2,0.3506,0.14,27.17,Victoria,"Castlemaine, Dendifo, Melbourne region, Victoria"
+-37_150,-37,150,1,0,0,0,18700.0,0.0,4654.0,27.0,April,April:1,,-0.43,7.72,New South Wales, Pambula
+-37_175,-37,175,1,0,1,1,9100.0,3.0,457.0,0.0,December,December:1,,-0.21,15.04,Auckland,Auckland
+-37_176,-37,176,2,0,0,0,0.0,4.0,2140.0,0.0,January,January:1;December:1,,-0.27,13.15,Waikato,"Coromandel District, Thames Coromandel"
+-38_-11,-38,-11,1,0,0,1,0.0,0.0,300.0,0.0,May,May:1,,-0.65,0.0,Tristan Da Cunha,Tristan da Cunha
+-38_145,-38,145,2,0,0,0,0.0,0.0,2025.0,27.0,December,December:1,,-0.54,4.0,Victoria,Melbourne
+-38_178,-38,178,2,1,1,1,20000.0,6.0,0.0,0.5,March,March:1;September:1,,0.01,22.84,Gisborne,"Gisborne, Gisborne District"
+-39_-70,-39,-70,2,0,0,1,0.0,20.0,0.0,13.5,March,March:1;September:1,,-0.03,21.31,Neuquen,"Nequen province, Neugen"
+-39_-72,-39,-72,1,0,0,1,0.0,2.0,2400.0,0.0,May,May:1,,-0.47,6.25,Araucania,Aracania region
+-3_11,-3,11,1,0,1,1,0.0,0.0,1765.0,58.0,December,December:1,,-0.65,0.0,Nyanga,Tchimbanga
+-3_19,-3,19,1,0,0,1,0.0,17.0,22500.0,0.0,February,February:1,,-0.17,16.44,Mai-Ndombe,Yumbi
+-3_28,-3,28,1,0,0,1,0.0,8.0,5389.0,0.0,February,February:1,,-0.29,12.5,Sud-Kivu,South Kivu
+-3_29,-3,29,2,0,0,2,0.0,0.0,15500.0,0.0,January,January:1;February:1,,-0.54,4.0,Bubanza,"Bubanza province, Kinama"
+-3_30,-3,30,2,0,1,2,0.0,12.0,30860.0,13.5,February,February:1;March:1,,-0.11,18.59,Karuzi,"Kayanza Prov, Nyabikere"
+-41_-73,-41,-73,1,0,0,0,0.0,4.0,2000.0,0.0,June,June:1,,-0.39,9.15,Los Lagos,Santiago & Puerto Mont
+-41_175,-41,175,1,0,0,1,3000.0,2.0,0.0,0.0,October,October:1,,-0.29,12.54,Wellington,Kapiti coast
+-41_176,-41,176,1,0,0,0,0.0,0.0,0.0,0.0,July,July:1,,-0.65,0.0,Wellington,Masterton
+-43_147,-43,147,1,0,0,0,0.0,0.0,0.0,,Unknown,NA,,-0.65,0.0,Tasmania,Brighton
+-43_171,-43,171,1,0,0,1,10000.0,0.0,100.0,0.0,March,March:1,,-0.44,7.23,West Coast,Greymouth
+-44_171,-44,171,3,1,1,2,71500.0,0.0,183.0,0.67,July,July:1;August:1;October:1,0.0,-0.2,15.61,Canterbury," Timaru, Canterbury"
+-46_169,-46,169,1,0,0,0,0.0,50.0,1000.0,0.0,April,April:1,,-0.0,22.36,Southland,Gore
+-4_120,-4,120,1,0,1,1,0.0,5.0,490.0,0.0,February,February:1,,-0.36,10.19,Sulawesi Selatan,South Sulawesi
+-4_29,-4,29,2,0,1,2,0.0,9.0,3005.0,0.0,January,January:1;October:1,,-0.15,17.09,Bujumbura Rural,"Bujumbura rural province, Rumonge"
+-4_32,-4,32,1,1,1,1,0.0,47.0,5112.0,1.0,March,March:1,,-0.01,22.02,Shinyanga,Kahama
+-4_33,-4,33,1,0,1,1,0.0,0.0,403.0,27.0,December,December:1,,-0.65,0.0,Shinyanga,Idobashi village 
+-5_-78,-5,-78,1,0,0,0,12000.0,518.0,580730.0,94.0,December,December:1,,0.6,42.93,Amazonas,Amazonas
+-5_145,-5,145,1,1,1,1,0.0,0.0,1500.0,1.0,March,March:1,,-0.65,0.0,Madang, Madang provinces
+-5_19,-5,19,1,0,1,1,0.0,10.0,8.0,27.0,January,January:1,,-0.26,13.64,Kwilu,Kikwit 
+-5_56,-5,56,2,1,1,2,9300.0,0.0,9800.0,0.0,February,February:1;September:1,,-0.33,11.17,Anse Aux Pins,Anse Aux Pins
+-6_105,-6,105,1,1,1,1,0.0,11.0,2035.0,1.0,November,November:1,,-0.24,14.13,Lampung, Sidomulyo Village in Ngadirojo Sub-district
+-6_106,-6,106,2,0,1,1,1000.0,17.0,13120.0,0.0,January,January:1;July:1,,0.1,25.86,Banten,Banten
+-6_176,-6,176,2,1,1,1,0.0,0.0,1650.0,0.5,January,January:1;March:1,,-0.54,4.0,Nanumanga,Nanumaga
+-6_36,-6,36,1,0,1,1,0.0,0.0,605.0,0.0,January,January:1,,-0.65,0.0,Dodoma,Chamwino district
+-7_107,-7,107,1,0,0,1,0.0,0.0,1315.0,0.0,March,March:1,,-0.65,0.0,Jawa Barat,Warung Menteng
+-7_108,-7,108,2,0,0,0,0.0,0.0,10800.0,13.5,February,February:2,,-0.54,4.0,Jawa Barat,"Bandung region, West Java"
+-7_110,-7,110,1,0,0,0,0.0,2.0,123.0,27.0,January,January:1,,-0.47,6.25,Jawa Tengah,Central Java
+-7_179,-7,179,1,0,0,0,0.0,0.0,700.0,0.0,February,February:1,,-0.65,0.0,Vaitupu,Vaitupu
+-7_39,-7,39,1,0,0,0,0.0,4.0,2500.0,0.0,April,April:1,,-0.39,9.15,Dar Es Salaam,Dar Es Salam
+-8_114,-8,114,1,0,0,0,0.0,10.0,2000.0,27.0,January,January:1,,-0.26,13.64,Jawa Timur,Situbondo 
+-8_115,-8,115,1,0,0,1,0.0,4.0,2400.0,2.0,February,February:1,,-0.39,9.15,Bali,Bali Island
+-8_123,-8,123,1,0,0,0,0.0,1650.0,0.0,27.0,June,June:1,,0.58,42.14,Nusa Tenggara Timur,Flores
+-8_32,-8,32,1,0,1,1,0.0,0.0,274.0,27.0,December,December:1,,-0.65,0.0,Rukwa,Kizwite
+-9_-171,-9,-171,2,0,0,1,2400.0,0.0,710.0,13.5,February,February:2,,-0.36,10.11,Fakaofo," Fakaofo,  Fakaofu atolls"
+-9_-172,-9,-172,2,0,0,0,500.0,0.0,1730.0,0.0,January,January:1;February:1,,-0.39,8.88,Anafu," Atafu Atolls, Nukunono"
+-9_126,-9,126,1,0,0,1,0.0,0.0,8730.0,72.0,January,January:1,,-0.65,0.0,Ainaro,Ainaro
+-9_148,-9,148,2,0,0,1,0.0,172.0,162140.0,15.5,May,May:1;November:1,,0.32,33.31,Oro," North province, Oro Province"
+-9_161,-9,161,1,1,1,1,0.0,0.0,1500.0,1.0,March,March:1,,-0.65,0.0,Malaita,Malaita
+-9_179,-9,179,3,0,0,0,0.0,6.0,700.0,0.0,February,February:1;October:1;December:1,0.0,-0.13,17.9,Funafuti,Funafuti
+0_30,0,30,1,0,0,1,0.0,0.0,10000.0,0.0,September,September:1,,-0.65,0.0,Kasese,Kasese district
+0_33,0,33,1,0,0,1,0.0,0.0,100.0,0.0,January,January:1,,-0.65,0.0,Mukono,Lugazi district
+10_-14,10,-14,1,0,0,1,0.0,4.0,0.0,0.0,June,June:1,,-0.39,9.15,Conakry,Conakry
+10_-61,10,-61,1,0,0,1,200000.0,0.0,3245.0,1.0,September,September:1,,-0.37,9.59,Couva-Tabaquite-Talparo,Caparo
+10_-67,10,-67,1,0,0,0,4500.0,100.0,5900.0,2.0,August,August:1,,0.31,32.86,Aragua,Aragua
+10_-84,10,-84,1,1,1,1,185000.0,13.0,11500.0,32.0,September,September:1,,0.06,24.53,San Jose,Puriscal
+10_-85,10,-85,1,0,1,1,0.0,4.0,55000.0,0.0,May,May:1,,-0.39,9.15,Guanacaste,Abangares
+10_1,10,1,1,0,0,0,200.0,0.0,15.0,0.0,March,March:1,,-0.53,4.16,Kara,Lama Kara
+10_100,10,100,1,0,0,0,0.0,3.0,106109.0,0.0,October,October:1,,-0.42,7.88,Surat Thani,Ko Samui
+10_105,10,105,1,0,0,1,0.0,0.0,134.0,0.0,August,August:1,,-0.65,0.0,Kien Giang,Rach Gia 
+10_106,10,106,3,0,0,3,15000.0,43.0,92380.0,0.0,July,July:1;August:1;December:1,,0.4,35.91,Ben Tre,"Ben Tre, Can Tho province, Tien Gang province"
+10_119,10,119,3,2,2,2,1000700.0,103.0,18810.0,0.0,April,April:1;October:1,0.0,0.64,44.1,Palawan," Northern Palawan, Palawan, Puerto Princesa City"
+10_12,10,12,1,0,1,1,0.0,11.0,12.0,0.0,July,July:1,,-0.24,14.13,Gombe,Balanga
+10_123,10,123,4,1,1,2,1924840.0,54.0,1686546.0,0.0,April,April:1;August:1;September:1;November:1,0.0,0.61,43.19,Negros Occidental," Valladolid area , Bocolod, Negros Occidental"
+10_124,10,124,4,2,2,2,221770.0,1411.0,2042684.0,1.0,September,February:1;April:1;September:2,0.0,1.1,59.95,Bohol," Bohol,  Danao City, Bohol, Bohol Island"
+10_125,10,125,1,0,0,1,475000.0,23.0,3150000.0,4.0,May,May:1,,0.17,28.34,Southern Leyte,Macrohon
+10_50,10,50,1,1,1,1,0.0,0.0,0.0,0.0,November,November:1,,-0.65,0.0,Bari,"Bari province
+
+"
+10_76,10,76,1,1,1,1,0.0,42.0,0.0,5.0,June,June:1,,-0.03,21.39,Kerala, Kerala
+10_8,10,8,1,1,1,1,0.0,28.0,1000.0,24.0,August,August:1,,-0.09,19.15,Kaduna, Kaduna
+11_-15,11,-15,1,0,0,0,0.0,1.0,3703.0,0.0,July,July:1,,-0.54,3.94,Tombali,Tombali
+11_-16,11,-16,1,1,1,1,0.0,3.0,11541.0,0.0,June,June:1,,-0.42,7.88,Bolama, Bubaque
+11_-75,11,-75,2,0,0,1,0.0,6.0,8240.0,0.0,June,June:2,,-0.21,15.07,Atlantico,Barranquilla
+11_-85,11,-85,1,0,0,0,6300.0,0.0,8062.0,34.0,October,October:1,,-0.45,6.87,Guanacaste,Liberia
+11_-86,11,-86,1,1,1,1,0.0,9.0,50000.0,2.0,November,November:1,,-0.27,13.1,Rivas, R’o San Juan
+11_105,11,105,1,0,0,1,66400.0,1399.0,2562517.0,8.0,November,November:1,,0.81,49.92,An Giang,An Giang
+11_106,11,106,1,0,0,1,100.0,0.0,1800.0,27.0,October,October:1,,-0.55,3.62,Long An,Long An province
+11_107,11,107,2,0,1,1,0.0,39.0,720474.0,2.5,November,November:2,,0.08,24.98,Dong Nai,"Dong Nai, Ho Chi Minh city"
+11_108,11,108,1,0,0,1,93200.0,283.0,2440092.0,16.0,November,November:1,,0.55,41.12,Binh Thuan,Binh Thuan
+11_122,11,122,2,0,1,1,42381.0,200.0,974842.0,10.0,July,July:1;October:1,,0.59,42.53,Antique,Antique
+11_123,11,123,4,0,1,1,488500.0,6740.0,10282485.0,1.75,November,October:1;November:3,0.0,1.38,69.46,Capiz,"Bago, Capiz, Capiz province, Iloilo"
+11_124,11,124,1,0,1,1,0.0,19.0,474.0,5.0,November,November:1,,-0.16,17.04,Cebu,Borbon
+11_125,11,125,3,1,1,1,50000.0,46.0,608858.0,9.67,February,February:1;April:1;November:1,0.0,0.43,37.23,Leyte," Leyte , Leyte"
+11_49,11,49,1,1,1,1,0.0,0.0,4000.0,0.0,November,November:1,,-0.65,0.0,Bari,Bossaso district
+11_79,11,79,1,1,1,1,775000.0,45.0,500000.0,0.0,November,November:1,,0.29,32.43,Tamil Nadu, Thanjavur
+12_-14,12,-14,1,0,0,0,0.0,0.0,1722.0,0.0,September,September:1,,-0.65,0.0,Gabu,Gabu province
+12_-61,12,-61,1,0,0,1,0.0,6.0,750.0,0.0,July,July:1,,-0.33,11.07,Carriacou,Carriacou Island
+12_-62,12,-62,1,0,0,1,5500.0,0.0,210.0,4.0,November,November:1,,-0.46,6.76,Saint George,Saint George
+12_-84,12,-84,1,0,1,1,939000.0,275.0,90000.0,2.0,November,November:1,,0.6,42.77,Atlantico Sur,Bluefields
+12_-86,12,-86,2,0,1,2,1000.0,6.0,55300.0,0.0,May,May:1;September:1,,-0.05,20.49,Carazo,"Caazo, Managua"
+12_109,12,109,6,1,2,2,88200.0,135.0,86971.0,1.17,November,March:1;October:1;November:3;December:1,-0.1273,0.79,49.24,Khanh Hoa,"Cam Ranh, Khanh Hoa, Khanh Hoa province"
+12_122,12,122,16,3,6,13,3600194.0,1920.0,7824771.0,3.75,November,June:2;July:1;August:2;September:1;October:2;November:4;December:4,0.0899,1.57,75.96,Aklan," Romblon, Aklan, Aklau, Barangay Aslum, Panay Island, Panays Islands, VI, Western Visayas, western Visayas"
+12_124,12,124,7,1,1,7,109903.0,111.0,2062382.0,1.29,December,February:1;March:1;June:1;July:1;October:1;December:2,-0.2068,0.8,49.62,Biliran," Masbate, Leyste Island, Leyte Island, VIII"
+12_125,12,125,1,1,1,1,305000.0,12.0,253300.0,0.0,October,October:1,,0.06,24.51,Samar, Northern Samar 
+12_79,12,79,2,0,1,2,375625.0,47.0,280000.0,0.5,November,November:1;December:1,,0.4,36.1,Tamil Nadu,"Cuddalore, Cuddalore coast"
+12_93,12,93,1,0,0,0,0.0,0.0,0.0,,Unknown,NA,,-0.65,0.0,Andaman And Nicobar,Little Andaman
+13_-14,13,-14,5,0,1,5,0.0,172.0,15456.0,0.0,May,May:2;June:1;August:2,0.122,0.52,40.14,Upper River,"Basse, Darsilameh, Kolda, Mansajang Kunda, VÃÂÃÂ©lingara department"
+13_-17,13,-17,1,0,1,1,0.0,0.0,2350.0,0.0,July,July:1,,-0.65,0.0,Banjul,Banjul
+13_-60,13,-60,2,1,2,2,540000.0,10.0,10012000.0,1.0,September,September:1;October:1,,0.16,28.0,Saint Andrew," Cattlewash St Joseph, Saint Andrew"
+13_-61,13,-61,2,1,1,2,600000.0,6.0,750.0,6.0,July,July:1;September:1,,0.09,25.51,Grenadines,"Grenadines, Layou "
+13_-82,13,-82,1,0,0,0,50000.0,26.0,100000.0,0.0,October,October:1,,0.14,27.24,San Andres Y Providencia,San Andres
+13_-87,13,-87,9,1,2,7,2263000.0,5032.0,1451542.0,7.78,October,May:2;September:3;October:4,-0.0197,1.56,75.84,Chinandega,"Chinandega, Chocuteca department, Choluteca, El Viejo, San Lorenzo"
+13_100,13,100,1,1,1,1,0.0,0.0,6300.0,1.0,September,September:1,,-0.65,0.0,Phetchaburi,Ban Laem district
+13_103,13,103,1,1,1,1,0.0,0.0,6300.0,1.0,September,September:1,,-0.65,0.0,Batdambang,Battambang province
+13_109,13,109,3,2,2,3,60300.0,58.0,86988.0,1.67,November,September:1;November:2,0.0,0.48,38.67,Phu Yen," Hoa Binh
+
+, Phu Yen"
+13_121,13,121,3,2,2,2,241970.0,228.0,1331814.0,1.33,December,July:1;December:2,0.0,0.73,47.47,Oriental Mindoro," Mindoro Oriental, Mimaropa, Oriental Mindoro"
+13_122,13,122,2,0,0,0,104700.0,163.0,1077558.0,0.0,January,January:1;November:1,,0.58,42.08,Marinduque,"Marinduque, Southwestern Tagalog"
+13_124,13,124,2,0,0,1,100000.0,219.0,32.0,17.5,July,July:1;October:1,,0.62,43.72,Albay,"Albay, Albay province"
+13_145,13,145,1,0,0,1,0.0,1.0,300.0,1.0,June,June:1,,-0.54,3.94,Merizo, Merizo
+13_45,13,45,1,0,0,1,0.0,17.0,0.0,0.0,August,August:1,,-0.17,16.44,'Adan,Aden province
+13_53,13,53,1,1,1,1,0.0,0.0,0.0,0.0,November,November:1,,-0.65,0.0,Hadramawt, Qulensya Wa Abd Al Kuri districts 
+13_79,13,79,1,0,0,0,35000.0,524.0,1300000.0,0.0,November,November:1,,0.63,43.84,Andhra Pradesh,Chittoor
+13_80,13,80,15,1,2,2,1781835.0,15002.0,15582300.0,1.21,November,October:2;November:10;December:2,0.0,1.88,86.5,Tamil Nadu,"Chennai district , Madras City, Madras city, Madras state, Madras/Nellore, Tami Nadu, Tamil Nadu"
+14_-61,14,-61,2,1,1,2,900000.0,0.0,0.0,6.0,August,August:1;September:1,,-0.22,14.76,Castries," Laborie, Castries"
+14_-84,14,-84,6,1,2,6,245000.0,13.0,26605.0,10.33,September,June:1;September:3;October:2,0.0,0.43,37.11,Atlantico Norte," Rosita, Puerto Cabezas, Tasbaraya, Waspam"
+14_-85,14,-85,1,0,0,0,0.0,37.0,123000.0,0.0,August,August:1,,-0.05,20.69,Atlantico Norte,Bonanza
+14_-88,14,-88,1,0,1,1,0.0,0.0,2180.0,0.0,June,June:1,,-0.65,0.0,San Miguel,San Miguel
+14_-89,14,-89,3,1,2,3,2112300.0,1801.0,576814.0,15.33,September,September:1;October:1;November:1,0.0,1.13,60.91,Cabanas,"Ateos, Cabanas, Chalatenango"
+14_-90,14,-90,3,1,2,3,650000.0,186.0,418462.0,2.0,May,May:2;September:1,0.0,0.72,47.1,Ahuachapan,"Ahuachapan, Ahuachapan province"
+14_-91,14,-91,1,0,0,1,100.0,2.0,1500.0,4.0,September,September:1,,-0.37,9.87,Escuintla,Escuintla
+14_101,14,101,2,0,0,0,0.0,27.0,5000.0,0.0,May,May:1;August:1,,0.02,22.95,Bangkok Metropolis,Bangkok
+14_108,14,108,2,0,2,2,115194.0,55.0,931062.0,1.0,September,September:1;October:1,,0.4,36.04,Gia Lai,"Gia Lai, Hia Lai"
+14_109,14,109,1,0,0,0,0.0,100.0,150000.0,0.0,November,November:1,,0.11,26.25,Binh Dinh,Binh Dinh
+14_121,14,121,17,0,5,8,890084.0,2934.0,12176372.0,1.41,November,June:2;July:2;August:2;September:3;October:2;November:4;December:2,-0.0229,1.62,77.84,Laguna,"Agoncillo, Alaminos, Batangas, Binan, Calabarzon and Mimaropa, Calatagan, Laguna, Muntinlupa, Muntinlupa city, South Luzon"
+14_122,14,122,1,0,0,0,244000.0,882.0,1599588.0,0.0,November,November:1,,0.76,48.32,Quezon,Calauag
+14_123,14,123,23,1,3,8,636588.0,2768.0,6537373.0,1.39,October,April:1;May:2;June:1;July:4;August:4;October:5;November:4;December:2,-0.0804,1.69,80.08,Camarines Norte,"Bicol, Bicol Region, Bicol peninsula, Bicol region, Camarines Norte"
+14_124,14,124,4,2,2,3,236000.0,144.0,527771.0,1.25,November,January:1;July:1;November:2,0.0,0.72,47.06,Catanduanes," Lagonoy, Catanduanes"
+14_145,14,145,2,0,0,1,300000.0,1.0,5842.0,0.0,August,August:1;December:1,,-0.13,17.84,Rota," Rota ,  Taimuning"
+14_23,14,23,1,0,1,1,0.0,20.0,30.0,0.0,August,August:1,,-0.15,17.32,West Darfur,El Geneina
+14_80,14,80,1,0,0,0,3378.0,30.0,50000.0,0.0,November,November:1,,0.1,25.91,Andhra Pradesh,Between Nellore
+15_-17,15,-17,1,0,0,1,0.0,22.0,95853.0,27.0,August,August:1,,-0.13,17.83,Thies, Thies 
+15_-25,15,-25,1,0,0,0,3000.0,3.0,2222.0,0.0,September,September:1,,-0.24,14.17,Brava,Brava Island
+15_-61,15,-61,3,2,3,3,1938810.0,94.0,100227.0,1.67,September,August:1;September:2,0.0,0.64,44.1,Saint Joseph,"Coulibistrie, La TrinitŽ, St. Joseph province"
+15_-84,15,-84,1,0,0,0,1000.0,0.0,7500.0,0.0,September,September:1,,-0.5,5.43,Gracias A Dios,Gracias A Dios
+15_-88,15,-88,3,1,2,3,1638300.0,1687.0,883631.0,5.33,May,May:1;August:1;October:1,0.0,1.11,60.34,Cortes," CortŽs, Comayagua, San Manuel"
+15_-89,15,-89,1,0,0,1,0.0,0.0,3905.0,8.0,September,September:1,,-0.65,0.0,Izabal,Morales
+15_-90,15,-90,2,0,2,2,0.0,17.0,0.0,0.0,July,July:1;September:1,,-0.06,20.44,El Progreso,"El Progreso, Zacapa department"
+15_-91,15,-91,1,0,0,1,988300.0,1513.0,475314.0,12.0,October,October:1,,0.88,52.49,Chimaltenango,Chimaltenango
+15_104,15,104,2,0,0,1,0.0,2.0,201769.0,0.0,August,August:1;October:1,,-0.35,10.25,Si Sa Ket,"Chom Phra, Sisaket province"
+15_107,15,107,3,1,2,2,291650.0,40.0,398064.0,0.67,July,July:1;August:1;September:1,0.0,0.45,37.84,Attapu,"Attapeu, Whole country"
+15_109,15,109,3,0,1,2,500.0,26.0,54000.0,5.67,May,May:1;June:1;July:1,0.0,0.24,30.46,Quang Ngai,"Quang Ngai, Quang Ngai province"
+15_120,15,120,14,0,3,6,364704.0,1229.0,6921820.0,1.36,October,May:1;June:2;July:3;August:1;September:1;October:4;November:2,-0.3505,1.41,70.39,Bataan,"Bataan, Battan, Dinalupihan, Floridablanca, Pinatubo, Pinatubo region, Zambales"
+15_121,15,121,29,6,11,17,7568276.0,3275.0,22976302.0,1.07,July,April:1;May:4;June:1;July:7;August:4;September:7;October:1;November:2;December:1,0.0754,1.84,85.18,Metropolitan Manila," Marilao,  Meycauayan,  NCR,  Payatas,  Rizal,  the National Capital region , Agusan, Angeles, Angono, Apalit, Bulacan, C/S Luzon, Candaba, General Nakar, Malabon, Manila, Manilla, Metro Manila, Navotas city, Pampanga, Pampanga Province, Taguig city"
+15_146,15,146,3,2,2,3,1587690.0,31.0,1833600.0,0.33,June,June:1;August:1;October:1,0.0,0.45,37.76,Saipan,"Saipan, Saipan island , Tinian"
+15_21,15,21,1,0,0,0,157.0,11.0,1200.0,0.0,June,June:1,,-0.12,18.11,Wadi Fira,Biltine prefecture
+15_74,15,74,2,0,0,1,0.0,11.0,100.0,0.0,May,May:1;June:1,,-0.12,18.13,Goa,"Goa, Mormugao"
+15_76,15,76,1,0,1,1,0.0,17.0,0.0,0.0,April,April:1,,-0.17,16.44,Karnataka,Karnataka state
+16_-23,16,-23,1,1,1,1,1100.0,9.0,0.0,0.0,August,August:1,,-0.11,18.6,Boa Vista,Boa Vista
+16_-61,16,-61,1,0,0,0,44650.0,40.0,72100.0,8.0,August,August:1,,0.21,29.53,Saint Andrew,Saint Andrew
+16_-86,16,-86,1,0,0,0,19000.0,0.0,8002.0,0.0,September,September:1,,-0.43,7.74,Islas De La Bahia,Guanaja
+16_-87,16,-87,4,0,1,4,20500.0,68.0,187321.0,5.75,October,September:1;October:2;November:1,-0.082,0.54,40.91,Atlantida,"Atlandida, Atlantida"
+16_-88,16,-88,1,0,0,1,700000.0,4.0,100000.0,5.0,October,October:1,,-0.08,19.72,Cortes,Omoa municipality
+16_-89,16,-89,1,1,1,1,0.0,0.0,10355.0,0.0,August,August:1,,-0.65,0.0,Izabal, Izabal provinces
+16_-90,16,-90,1,0,1,1,650000.0,174.0,397962.0,4.0,May,May:1,,0.51,39.89,Alta Verapaz,Alta Verapaz
+16_-91,16,-91,1,1,1,1,185000.0,13.0,11500.0,32.0,September,September:1,,0.06,24.53,Quiche,Ixcan
+16_-92,16,-92,9,2,3,6,988300.0,1607.0,616714.0,2.11,September,May:2;July:1;August:1;September:4;October:1,0.0,1.36,68.7,Chiapas,"Chiapas, Chiapas & Oaxaca"
+16_-93,16,-93,1,0,0,1,0.0,240.0,3000.0,0.0,September,September:1,,0.26,31.2,Chiapas,Pijijiapan
+16_-96,16,-96,1,1,1,1,0.0,6.0,600.0,2.0,June,June:1,,-0.33,11.07,Oaxaca, Tehuantepec in Istmo Region
+16_103,16,103,1,0,0,0,25070.0,0.0,25468.0,0.0,September,September:1,,-0.42,7.95,Khon Kaen,Khon Kaen
+16_105,16,105,2,0,0,0,58323.0,74.0,1894238.0,9.0,August,August:1;October:1,,0.43,37.17,Amnat Charoen,Amnat Charoen
+16_108,16,108,4,2,2,2,118723.0,1022.0,1224361.0,0.75,May,May:1;September:1;October:1;December:1,0.0,1.03,57.63,Quang Nam," Nong Son districts, Quang Nam, Quang Nam Danang, Quang Nam-Da"
+16_120,16,120,4,2,3,3,4253342.0,235.0,964304.0,2.25,May,May:1;August:1;September:1;October:1,0.0,0.87,52.1,Pangasinan," Pangasinan districts , Agno, Dagupan city, Pangasinan province"
+16_121,16,121,5,1,3,5,2212002.0,91.0,12959410.0,8.4,September,June:1;July:1;August:1;September:2,0.0,0.75,48.02,Benguet,"Baguio City, Bautista, Itogon, Itogon , Nueva Ecija"
+16_122,16,122,33,4,7,19,5898835.0,1556.0,42427055.0,2.18,August,April:1;May:1;June:3;July:6;August:9;September:2;October:8;November:3,0.0875,1.74,81.99,Aurora," Quirino, Arora, Auroa, Aurora, Aurora province, Central Luzon, III, Quirino region"
+16_33,16,33,1,0,0,1,0.0,33.0,0.0,0.0,September,September:1,,-0.07,20.06,Khartoum,Khartoum
+16_38,16,38,1,0,0,0,5165.0,3.0,15675.0,0.0,April,April:1,,-0.23,14.6,Semenawi Keyih Bahri,Massawa
+16_80,16,80,22,3,5,10,1287430.0,3150.0,11659436.0,1.59,May,May:7;September:2;October:7;November:3;December:3,0.0044,1.71,80.95,Andhra Pradesh,"Andhra Pradesh, Andhra Pradesh province, Andra Pradesh, Guntur, Guntur distrits, Prakasam district"
+16_96,16,96,1,0,1,1,0.0,9.0,50000.0,6.0,April,April:1,,-0.27,13.1,Ayeyarwady,Dedaye
+16_99,16,99,1,0,0,1,0.0,0.0,2500.0,0.0,April,April:1,,-0.65,0.0,Tak,Phop Phra
+17_-14,17,-14,1,1,1,1,0.0,18.0,2040.0,0.0,September,September:1,,-0.16,16.75,Brakna,BoghŽ
+17_-25,17,-25,1,0,0,0,0.0,29.0,5500.0,0.0,September,September:1,,-0.09,19.34,Paul,Paul
+17_-62,17,-62,3,1,1,3,640000.0,13.0,10004559.0,3.67,September,September:2;October:1,0.0,0.29,32.34,Saint John,"Crosbies, Saint John"
+17_-88,17,-88,2,0,1,2,250000.0,30.0,20000.0,1.5,September,September:1;October:1,,0.32,33.29,Stann Creek,Stann Creek
+17_-89,17,-89,1,0,0,1,277460.0,14.0,62570.0,3.0,September,September:1,,0.08,25.24,Cayo,Cayo
+17_-90,17,-90,1,0,0,1,10.0,3.0,0.0,5.0,October,October:1,,-0.37,9.77,Peten,Peten
+17_-96,17,-96,6,3,5,5,609000.0,44.0,286526.0,1.0,March,March:1;June:1;August:1;September:1;October:1;November:1,0.0,0.65,44.46,Oaxaca," Oaxaca, Oaxaca, Oaxaca region"
+17_101,17,101,1,1,1,1,5300.0,26.0,9110.0,4.0,September,September:1,,0.09,25.48,Phitsanulok, Phitsanulok
+17_102,17,102,1,0,0,1,0.0,1.0,4000.0,17.0,June,June:1,,-0.54,3.94,Loei,Loei
+17_104,17,104,1,0,0,0,106900.0,4.0,188448.0,0.0,July,July:1,,-0.12,18.25,Nakhon Phanom,Nakhon Phanom
+17_107,17,107,4,0,0,3,60200.0,107.0,538055.0,0.5,November,August:1;November:3,0.0,0.64,44.31,Quang Tri,"Quang Tri, Quang tri"
+17_120,17,120,2,0,2,2,99273.0,75.0,1502275.0,0.5,May,May:1;August:1,,0.45,37.66,La Union,La Union
+17_121,17,121,5,0,1,3,65100.0,58.0,1250539.0,4.0,September,July:1;August:1;September:2;October:1,0.0,0.6,42.73,Benguet,"Benguet, Ifugao, Ilocos, Ilocos Sur"
+17_122,17,122,1,1,1,1,123000.0,0.0,18000.0,0.0,August,August:1,,-0.39,9.2,Isabela, Isabela districts 
+17_44,17,44,1,0,0,1,0.0,13.0,0.0,0.0,June,June:1,,-0.22,15.01,Sa'dah,Sadaa province
+17_49,17,49,1,1,1,1,0.0,0.0,4000.0,0.0,November,November:1,,-0.65,0.0,Hadramawt, Hadramaut
+17_51,17,51,1,1,1,1,0.0,0.0,0.0,0.0,October,October:1,,-0.65,0.0,Al Mahrah, Man'ar
+17_78,17,78,1,1,1,1,0.0,7.0,1928.0,1.0,March,March:1,,-0.31,11.83,Telangana,Hyderabad
+17_81,17,81,1,0,0,0,0.0,18.0,0.0,0.0,November,November:1,,-0.16,16.75,Andhra Pradesh,Masulipatnam
+17_82,17,82,4,1,1,1,1918300.0,1330.0,7872000.0,0.5,November,June:1;November:2;December:1,0.0,1.14,61.31,Andhra Pradesh,"East Godavari, Kakinada, Karaikal region, Saurashtra coast"
+17_95,17,95,1,0,0,0,5000.0,100.0,130200.0,0.0,May,May:1,,0.31,32.94,Ayeyarwady,West Irraw
+17_98,17,98,1,0,0,0,1000.0,100.0,500000.0,0.0,October,October:1,,0.27,31.67,Kayin,Kayin
+17_99,17,99,2,0,1,2,0.0,22.0,55050.0,4.5,April,April:1;May:1,,-0.02,21.83,Tak,"Mae Ramat, Tak province"
+18_-100,18,-100,10,2,4,5,6631800.0,480.0,989780.0,2.1,June,June:3;July:2;August:2;September:2;October:1,-0.0519,1.23,64.27,Guerrero,"Acapulco, Guerrero"
+18_-14,18,-14,1,0,0,0,0.0,4.0,300.0,0.0,June,June:1,,-0.39,9.15,Trarza,Boutilinit
+18_-64,18,-64,1,1,1,1,540000.0,10.0,10000000.0,2.0,September,September:1,,0.05,24.0,Virgin Gorda, Necker Island 
+18_-65,18,-65,5,3,3,4,2711500.0,86.0,20071393.0,2.8,September,September:4;November:1,0.9709,0.75,47.87,Saint Thomas," Water Island , North. Culebra and Vieques Islands, St Thomas, St. John, St.Croix"
+18_-66,18,-66,2,1,1,2,1501000.0,97.0,132998.0,3.5,September,September:1;December:1,,0.55,41.24,San Juan," San Lorenzo, San Juan area"
+18_-67,18,-67,1,0,0,0,100.0,0.0,0.0,7.0,September,September:1,,-0.55,3.62,Guayanilla,Guayanilla
+18_-70,18,-70,1,0,1,1,0.0,2.0,1544.0,0.0,August,August:1,,-0.47,6.25,Peravia,Peravia
+18_-71,18,-71,5,1,1,2,674700.0,117.0,74547.0,3.6,September,August:1;September:3;December:1,0.0,0.76,48.51,Barahona," Barahona, Barahona, Barahona-Bari, Barhona"
+18_-72,18,-72,8,1,2,6,1015510.0,1542.0,2934599.0,3.12,October,August:2;September:2;October:3;November:1,0.0,1.32,67.45,Ouest,"Anse ÃÂÃÂ  Pitre, Ganthier village , Jacmel, Port-Au-Prince, Port-au-Prince"
+18_-74,18,-74,6,1,2,4,1601286.0,161.0,1060245.0,3.0,September,August:2;September:3;October:1,0.0,0.88,52.51,Sud," Les Anglais and Tiburon municipalities, Camp-Perrin, Les Cayes, Les Cayes area, South"
+18_-76,18,-76,1,1,1,1,600000.0,0.0,0.0,12.0,September,September:1,,-0.35,10.45,Saint Thomas,St. Thomas and Portland
+18_-77,18,-77,14,1,4,10,2690130.0,301.0,1218183.0,2.43,September,April:1;August:2;September:5;October:4;November:2,0.0448,1.22,63.97,Clarendon," St. Mary and St. Thomas., Clarendon, Kingston"
+18_-78,18,-78,2,0,0,2,5000.0,6.0,750.0,0.0,July,July:1;August:1,,-0.02,21.75,Manchester,"Manchester, Saint Elizabeth"
+18_-88,18,-88,4,0,1,3,360000.0,282.0,10000.0,1.5,August,May:1;August:2;October:1,0.0,0.84,51.19,Belize,"Belize city, Corazal, North  Corazal"
+18_-89,18,-89,1,1,1,1,0.0,0.0,10355.0,0.0,August,August:1,,-0.65,0.0,Orange Walk, Orange Walk province
+18_-93,18,-93,2,0,2,2,939000.0,285.0,90000.0,1.0,September,September:1;November:1,,0.72,46.97,Tabasco,"Tabasco, Tabasco state"
+18_100,18,100,1,0,0,1,246.0,0.0,1500.0,0.0,May,May:1,,-0.53,4.33,Lampang,Lampang
+18_104,18,104,2,1,2,2,66858.0,84.0,1138224.0,1.0,July,July:2,,0.46,37.99,Bolikhamxai,"Borikhamxay province , Bueng Kan"
+18_106,18,106,12,2,4,9,465200.0,210.0,1924953.0,6.0,September,August:4;September:6;October:2,0.0,1.08,59.14,Ha Tinh," Quang Binh,  Quang Trach, Cam Xuyen, Ha Tinh"
+18_120,18,120,1,0,0,0,20000.0,100.0,420200.0,0.0,June,June:1,,0.34,34.03,Ilocos Sur,Bantay
+18_121,18,121,27,5,13,20,3287857.0,968.0,10497205.0,2.44,July,March:1;June:1;July:7;August:4;September:7;October:7,0.2823,1.6,76.91,Abra,"Abra, Adams, Apayao, Bacarra, CAR, CARGA, Cordillera, Cordillera Administrative Region, Cordillera autonomous, Ilocos, Ilocos Norte, Ilocos Norte district , Kalinga-Apayao, Regions I, locos Norte province"
+18_122,18,122,6,4,4,5,1240255.0,112.0,3268957.0,1.5,August,July:1;August:2;October:2;November:1,0.4839,0.82,50.26,Cagayan," Cagayan Valley,  Region II , Cagayan, Cagayan Province, Cagayan Valley"
+18_82,18,82,1,1,1,1,0.0,32.0,0.0,0.0,September,September:1,,-0.07,19.89,Odisha, Malkangiri districts 
+18_95,18,95,1,0,0,1,0.0,34.0,60106.0,6.0,April,April:1,,-0.06,20.22,Ayeyarwady,Hinthada
+19_-102,19,-102,1,1,1,1,7005.0,14.0,0.0,4.0,October,October:1,,-0.0,22.36,Michoacan,Michoac‡n and Oaxaca
+19_-103,19,-103,1,1,1,1,500.0,1.0,1500.0,4.0,September,September:1,,-0.4,8.82,Veracruz,Tuxpan
+19_-104,19,-104,5,1,3,5,850700.0,37.0,69450.0,5.6,September,June:1;September:2;October:2,0.2143,0.58,42.24,Colima,"Colima, Manzanillo, Manzanillo district , States  Colima"
+19_-69,19,-69,2,1,1,1,1456100.0,64.0,71393.0,4.0,September,September:2,,0.48,38.88,La Romana," La Romana, Samana"
+19_-70,19,-70,6,3,4,4,482810.0,49.0,55968.0,0.83,August,April:1;July:1;August:3;October:1,-0.4272,0.66,44.88,Santo Domingo," Duarte,  San Crist—bal, San Cristobal, San CristÛbal and Santo Domingo provinces, Santo Domingo"
+19_-71,19,-71,6,0,2,6,2363200.0,3314.0,1628263.0,3.0,September,August:1;September:2;October:2;December:1,0.6742,1.39,69.98,Azua,"Azua, Azul, Azuz de Compostela, Baoruco"
+19_-72,19,-72,1,0,1,1,254000.0,75.0,201850.0,2.0,October,October:1,,0.35,34.4,L'Artibonite,La Chapelle
+19_-73,19,-73,4,0,1,4,2538300.0,4280.0,791658.0,3.5,September,July:1;September:2;October:1,-0.7692,1.34,68.18,L'Artibonite,"Bas-Arbonite, Gonaives, Saint-Marc"
+19_-74,19,-74,7,0,3,6,1880000.0,5030.0,2578753.0,0.86,August,July:1;August:4;October:2,0.0,1.5,73.49,Grand'Anse,"Grand'Anse, Grand-Anse, Grande Anse, Grande-Anse, Hispaniola, South Grande Anse"
+19_-90,19,-90,8,1,2,6,6345000.0,77.0,782830.0,1.12,August,August:3;September:3;October:2,-0.2975,0.86,51.91,Campeche," Campeche, Campeche"
+19_-96,19,-96,4,1,2,2,160700.0,60.0,313355.0,0.25,August,June:1;August:3,0.0,0.57,41.83,Veracruz," Veracruz provinces, Veracruz, Veracruz State, Veracruz state"
+19_-98,19,-98,1,0,0,1,0.0,5.0,33000.0,3.0,September,September:1,,-0.36,10.19,Puebla,Puebla
+19_101,19,101,2,1,1,1,3600.0,0.0,73000.0,0.5,July,July:2,,-0.35,10.43,Nan,"Mae Charim district, Nan province"
+19_105,19,105,8,1,1,2,193000.0,1199.0,3294408.0,1.5,October,August:2;September:1;October:3;November:2,0.0,1.24,64.71,Nghe An,"Ngh? An, Nghe An, Nghe An province, Nghe Tinh, Nghia Binh"
+19_106,19,106,1,1,1,1,3600.0,0.0,30000.0,1.0,July,July:1,,-0.47,6.43,Nghe An,Hon Ngu beach
+19_11,19,11,1,0,0,1,0.0,4.0,1253.0,0.0,August,August:1,,-0.39,9.15,Agadez,Agadez
+19_110,19,110,24,8,11,16,10135986.0,550.0,40010898.0,1.96,August,March:1;April:1;June:3;July:4;August:6;September:4;October:1;November:4,0.0065,1.5,73.47,Hainan," Hainan Sheng provinces, Hainan, Hainan Island, Hainan province, Hainan region, Wenchang"
+19_122,19,122,2,1,2,2,443200.0,0.0,45.0,0.0,May,May:1;October:1,,-0.24,14.21,Cagayan,Aparri
+19_54,19,54,2,1,1,2,50000.0,7.0,83.0,0.0,May,May:1;October:1,,0.06,24.32,Dhofar,"Dhofar, Dhofar province"
+19_73,19,73,1,0,0,1,0.0,250.0,0.0,0.0,October,October:1,,0.27,31.43,Maharashtra,Bombay
+19_76,19,76,2,1,1,1,0.0,29.0,0.0,1.0,October,October:1,,0.03,23.34,Maharashtra,"Maharashtra, Maharashtra province"
+19_84,19,84,3,1,1,2,1390000.0,197.0,1501200.0,0.33,October,October:3,0.0,0.75,48.02,Andhra Pradesh,"Gajapathi, Mandasa, Srikakulam"
+19_99,19,99,3,0,0,1,1060000.0,44.0,5729000.0,5.0,July,July:1;August:1;September:1,,0.5,39.38,Chiang Mai,Chiang Mai
+1_-78,1,-78,2,0,0,1,10000.0,42.0,21724.0,9.0,July,July:1;October:1,,0.3,32.62,San Andres Y Providencia,Providencia Island
+20_-156,20,-156,2,1,1,1,296000.0,4.0,1334.0,1.0,August,August:1;November:1,,0.02,23.05,Hawaii,Hawaii
+20_-71,20,-71,1,1,1,1,540000.0,10.0,10000000.0,2.0,September,September:1,,0.05,24.0,Puerto Plata,Motellano
+20_-72,20,-72,4,1,2,3,1501000.0,107.0,135652.0,1.75,August,August:2;September:1;December:1,0.0,0.72,46.83,Nord,"Limbe, North, Northterm"
+20_-73,20,-73,3,1,2,2,540000.0,51.0,10010860.0,0.67,September,September:2;October:1,0.0,0.51,39.67,Nord-Ouest," Chansolme, Gros Morne, Henne Bay"
+20_-75,20,-75,4,1,2,2,973968.0,82.0,486438.0,4.75,September,September:2;October:1;November:1,0.0,0.66,45.0,Guantanamo,"Baracoa, Guantanamo, Guatanamo province"
+20_-76,20,-76,2,0,0,0,0.0,0.0,61500.0,27.0,June,June:1;September:1,,-0.54,4.0,Santiago De Cuba,"Oriente province, Santiago de Cuba"
+20_-77,20,-77,2,0,1,2,77700.0,130.0,125224.0,2.5,August,August:1;October:1,,0.53,40.57,Granma,Granma
+20_-80,20,-80,3,0,1,3,201000.0,0.0,3545.0,0.67,September,September:2;November:1,0.0,-0.17,16.42,Cayman Brac," Little Cayman, Cayman Brac, Grand Cayman"
+20_-87,20,-87,2,0,0,2,700000.0,10.0,100750.0,2.5,July,July:1;October:1,,0.17,28.21,Quintana Roo,Cozumel
+20_-97,20,-97,2,2,2,2,2000.0,17.0,6110.0,1.0,August,August:1;September:1,,0.12,26.41,Veracruz,"Atzalan, Tecolutla"
+20_100,20,100,2,0,0,1,152000.0,10.0,371090.0,17.0,January,January:1;July:1,,0.14,27.01,Chiang Rai,"Chiang Rai, Mae Chan"
+20_105,20,105,3,0,0,1,227000.0,340.0,1445991.0,4.0,May,May:1;July:1;August:1,0.0,0.8,49.69,Thanh Hoa,"Thanh Hoa, Thanh Hoa province"
+20_106,20,106,3,0,1,2,197000.0,138.0,776834.0,9.0,June,June:1;October:1;November:1,0.0,0.65,44.47,Nam Dinh," Ha Son Binh, Giao Thuy, Nam Dinh"
+20_85,20,85,2,0,0,0,112800.0,265.0,1601700.0,13.5,August,August:1;November:1,,0.66,44.89,Odisha,"Ganjam, Ganjam district "
+20_86,20,86,1,0,0,0,0.0,0.0,0.0,,Unknown,NA,,-0.65,0.0,Odisha,Cuttack
+20_93,20,93,1,0,0,0,0.0,0.0,200.0,0.0,May,May:1,,-0.65,0.0,Rakhine,Akyab
+20_94,20,94,3,0,0,1,3188.0,1306.0,247000.0,0.0,May,May:3,0.0,0.93,53.98,Rakhine,"Arakan division, Kyauk Phyu, North Arakan Coast"
+20_99,20,99,1,0,0,1,0.0,0.0,5000.0,0.0,April,April:1,,-0.65,0.0,Chiang Rai,Mae Suai
+21_-104,21,-104,2,1,1,2,736800.0,9.0,19000.0,0.5,October,October:2,,0.16,27.7,Jalisco," Jalisco, Jalisco"
+21_-158,21,-158,1,0,0,0,5000000.0,6.0,25000.0,1.0,September,September:1,,0.02,23.18,Hawaii,Oahu
+21_-71,21,-71,3,1,2,3,3040000.0,19.0,10008000.0,1.33,September,September:3,0.0,0.39,35.6,Grand Turk," Salt Cay, Grand Turk, Grand Turk and Providenciales"
+21_-77,21,-77,1,0,1,1,0.0,0.0,0.0,0.0,November,November:1,,-0.65,0.0,Camaguey,GuÃÂÃÂ¡imaro
+21_-78,21,-78,1,0,0,0,1000000.0,5.0,149775.0,0.0,March,March:1,,-0.04,21.04,Camaguey,Camaguey
+21_-89,21,-89,1,0,0,0,76000.0,240.0,100000.0,0.0,September,September:1,,0.52,40.02,Yucatan,Yucatan
+21_-98,21,-98,1,0,0,1,10000.0,2.0,15000.0,1.0,June,June:1,,-0.26,13.48,Veracruz,Chinampa De Gorostiza
+21_104,21,104,2,1,1,2,11000.0,1.0,194005.0,0.0,April,April:1;June:1,,-0.21,15.25,Son La,"Son La district, Yen Chau"
+21_105,21,105,2,1,1,2,1040000.0,31.0,5719305.0,1.0,September,September:1;November:1,,0.36,34.59,Hoa Binh," Phu Yn, Hoa Binh"
+21_106,21,106,11,3,5,5,860000.0,1446.0,19360129.0,0.09,July,July:4;August:1;September:4;October:1;November:1,-0.109,1.39,69.79,Bac Giang," Thai Binh and Ninh Binh provinces, Bac Giang, Chuong My, Ha Bac, Ha Nam, Vinh Phuc"
+21_107,21,107,6,1,1,3,4243373.0,129.0,10009061.0,0.17,July,June:2;July:3;November:1,0.0,0.87,52.02,Hai Phong,"Haiphong, Quan Ninh province, Quang Ninh, Quang Ninh Hai Phong, Quang Ninh Province"
+21_110,21,110,2,2,2,2,188000.0,2.0,40300.0,0.5,August,August:2,,-0.08,19.78,Guangdong," Zhanjiang, Zhanjiang district "
+21_122,21,122,2,1,1,2,500000.0,14.0,1601.0,3.5,June,June:1;July:1,,0.21,29.71,Batanes,"Batanes, Cagayan Valley"
+21_3,21,3,1,0,0,0,0.0,0.0,10107.0,27.0,September,September:1,,-0.65,0.0,Tamanghasset, Tin Zawaten
+21_71,21,71,1,0,0,1,469000.0,2871.0,4600893.0,2.0,June,June:1,,0.97,55.54,Gujarat,Amreli
+21_82,21,82,1,1,1,1,7000000.0,53.0,920000.0,0.0,October,October:1,,0.37,35.07,Chhattisgarh,Chhattisgarh
+21_84,21,84,9,0,0,2,2450000.0,15999.0,19920634.0,0.44,April,April:3;May:1;June:1;October:2;November:1;December:1,-0.0262,1.76,82.48,Odisha,"Coastal Orissa, Orissa, Orissa state"
+21_87,21,87,4,0,1,3,2510000.0,10148.0,12677862.0,0.5,March,March:2;September:1;October:1,0.0,1.48,73.08,Odisha,"Balasore district, Bhadrak, Kendrapara district"
+21_92,21,92,8,1,1,5,125000.0,529.0,3954846.0,0.12,May,March:1;May:3;June:2;August:1;October:1,0.0,1.09,59.72,Chittagong," Teknaf, Bazar de Cox, Cox's Bazar, Tekhnaf, Ukhia Upazila"
+21_93,21,93,2,1,1,1,10000.0,24.0,3364982.0,0.0,May,May:2,,0.21,29.54,Rakhine,"Buthidaung, worst is Buthidaung"
+21_95,21,95,1,0,1,1,57000.0,45.0,260049.0,0.0,October,October:1,,0.23,30.38,Magway,Pauk
+21_96,21,96,2,2,2,2,4600.0,32.0,99956.0,3.0,April,April:2,,0.24,30.51,Mandalay," Madalay, Mandalay district"
+22_-72,22,-72,1,0,1,1,0.0,1.0,10745.0,0.0,September,September:1,,-0.54,3.94,Providenciales And West Caicos,Providenciales province
+22_-73,22,-73,1,1,1,1,540000.0,10.0,10000000.0,2.0,September,September:1,,0.05,24.0,Mayaguana, Mayaguana
+22_-74,22,-74,1,0,1,1,1500000.0,7.0,0.0,1.0,September,September:1,,0.02,22.99,Acklins,Acklins
+22_-77,22,-77,1,1,1,1,540000.0,10.0,10000000.0,2.0,September,September:1,,0.05,24.0,Camaguey, Nuevitas
+22_-80,22,-80,9,0,0,8,4418000.0,35.0,9241998.0,0.89,September,July:1;August:1;September:3;October:3;November:1,1.1937,0.76,48.27,Cienfuegos,"Cienfuegos, Cinfuegos, Villa Claran Cienfuegos"
+22_-83,22,-83,1,0,0,1,23000.0,0.0,42500.0,0.0,September,September:1,,-0.42,7.89,Isla De La Juventud,Isla De La Juventud
+22_-84,22,-84,2,2,2,2,0.0,9.0,40540.0,2.5,May,May:1;October:1,,-0.15,17.09,Pinar Del Rio," Pinar del Rio, Sandino"
+22_-98,22,-98,1,0,0,0,24000.0,14.0,90069.0,0.0,October,October:1,,0.03,23.32,Tamaulipas,Tampico
+22_103,22,103,1,1,1,1,0.0,0.0,40000.0,1.0,August,August:1,,-0.65,0.0,Dien Bien, Dien Bien
+22_104,22,104,2,2,2,2,3623000.0,8.0,40273.0,0.0,August,August:2,,0.18,28.36,Lao Cai," Sa Pa, Sa Pa district"
+22_105,22,105,1,0,0,0,0.0,3.0,2016.0,0.0,March,March:1,,-0.42,7.88,Tuyen Quang,Tuyen Quang province
+22_106,22,106,3,0,1,3,3430000.0,850.0,29781453.0,2.0,July,July:2;August:1,0.0,1.01,57.02,Bac Kan,"Bac Can, Bac Kan, Thai Nguyen"
+22_114,22,114,20,2,2,2,7022586.0,449.0,84607.0,0.0,August,May:1;June:1;July:2;August:9;September:3;October:1,0.1423,1.4,70.31,Tai Po,"  Lantau Isl.,   Ping Shan,  Cheung Chau,  Kwangtung,  Nam Bin Wai,  North Point,  Sha Tin,  Tai Po,  Wong Tai Sin,  Yuen Long, Fai Chi Kei, Pokfulam, Sai Kung, Sheung Wan, Tai O, Tai Po, Tin Shui Wai, Tsuen Wan, West of Cheung Chau"
+22_121,22,121,2,0,1,2,367000.0,111.0,6531000.0,2.0,July,July:1;August:1,,0.54,40.9,Taiwan,"Pingdong county, Pingtung county"
+22_41,22,41,1,1,1,1,50000.0,3.0,122.0,1.0,November,November:1,,-0.18,16.38,Makkah,Qunfudah governorat 
+22_59,22,59,2,0,0,0,0.0,107.0,6596.0,13.5,May,May:1;June:1,,0.24,30.63,Ash Sharqiyah North,"Masirah Isl., Masirah Island"
+22_73,22,73,1,0,0,1,20000.0,451.0,40696.0,3.0,May,May:1,,0.59,42.55,Gujarat,Gujarat Coast
+22_78,22,78,1,0,0,1,0.0,20.0,200.0,0.0,February,February:1,,-0.15,17.32,Madhya Pradesh,Betul district
+22_87,22,87,1,0,0,0,0.0,0.0,25000.0,0.0,May,May:1,,-0.65,0.0,West Bengal,Midnapore
+22_89,22,89,1,0,0,1,0.0,200.0,121000.0,0.0,November,November:1,,0.23,30.16,Khulna,Sathkhira
+22_90,22,90,16,1,3,10,2397700.0,42062.0,46320498.0,1.44,September,March:1;April:2;May:2;July:2;September:3;October:3;November:2;December:1,0.0385,2.07,93.19,Barisal," Barguna districts , Bagerhat, Bagherhat, Barguna, Barisal, Barisal district, Borguna, Patuakhali, Patuakhali district"
+22_91,22,91,10,1,1,3,3452400.0,156176.0,24712993.0,1.5,May,March:1;April:2;May:4;June:1;October:2,0.022,2.17,96.65,Barisal," Hatiya, Bhola, Hatiya, Sandwip"
+22_92,22,92,2,0,1,1,0.0,118.0,3071947.0,0.5,April,April:1;May:1,,0.26,31.18,Chittagong,"Banshkhali, Moheshkali"
+22_95,22,95,1,0,0,0,3200.0,178.0,27319.0,0.0,October,October:1,,0.39,35.84,Sagaing,Monywa
+23_-106,23,-106,1,0,0,1,2700.0,4.0,240700.0,2.0,September,September:1,,-0.21,15.36,Sinaloa,Concordia
+23_-75,23,-75,1,1,1,1,90000.0,33.0,6710.0,3.0,October,October:1,,0.19,29.02,Long Island, Long Island
+23_-81,23,-81,1,0,0,0,0.0,6.0,170.0,0.0,February,February:1,,-0.33,11.07,Matanzas,Colon
+23_-82,23,-82,5,0,1,3,385000.0,34.0,186688.0,0.0,June,June:3;August:2,0.0,0.55,41.15,La Habana,"Havana, La Habana, Nueva Paz"
+23_-83,23,-83,1,0,0,0,500000.0,1750.0,0.0,0.0,October,October:1,,0.89,52.78,La Habana,Artemisa
+23_113,23,113,40,6,13,19,7741931.0,1809.0,81526480.0,2.12,August,March:2;April:5;May:3;June:3;July:6;August:11;September:7;October:3,0.0422,1.83,84.9,Guangdong," Guangdong Sheng, Guandong, Guandong province, Guangdon province, Guangdong, Guangdong Province, Guangdong Sheng province, Guangdong province, Guangzhou Province, Maoming City, Shenzhen, South Guangdong province , Xuwen, Zhanjiang"
+23_114,23,114,5,2,2,2,4270067.0,16.0,22870.0,1.6,July,July:2;August:1;September:2,0.0,0.48,38.94,North," Lok Ma Chau,  New Territories,  Shenzhen, New Territories, Shenzhen"
+23_120,23,120,5,0,1,4,3327382.0,203.0,11734692.0,2.8,September,August:1;September:2;October:1;November:1,0.0,0.89,52.87,Taiwan,"Chiayi, Tainan"
+23_121,23,121,9,1,1,5,1806000.0,292.0,23456.0,2.33,August,June:1;July:3;August:4;November:1,0.0287,1.09,59.49,Kaohsiung," Kaohsiung, Guo-hsing, Kahosiung, Kaohsiung, Kaoshiung"
+23_59,23,59,3,1,1,3,4122000.0,106.0,26000.0,3.0,January,January:1;April:1;June:1,0.0,0.67,45.37,Muscat,"Muscat, Muscat province"
+23_72,23,72,9,0,0,2,2828798.0,1359.0,5250240.0,0.78,May,February:1;May:2;June:1;August:2;October:1;November:2,0.0,1.35,68.57,Gujarat,"Gujarat, Gujarat state"
+23_87,23,87,1,0,0,1,16000.0,30.0,485910.0,0.0,March,March:1,,0.14,27.13,West Bengal,Bankura
+23_88,23,88,4,1,1,3,372943.0,60.0,3329620.0,0.25,March,March:1;April:1;May:1;September:1,0.0386,0.59,42.49,West Bengal,"Burdwan, Calcutta, Kolkata"
+23_89,23,89,4,0,0,1,250.0,346.0,1250.0,0.5,April,April:3;May:1,0.0,0.71,46.64,Khulna,"Jessore, Jessore district, Khulna"
+23_90,23,90,8,1,1,2,51500.0,1197.0,153588.0,0.38,April,March:1;April:6;June:1,0.0,1.21,63.67,Dhaka,"Faridpur, Faridpur district, Gopalganj, Madaripur"
+23_91,23,91,11,1,2,4,658329.0,26141.0,2647592.0,2.18,May,March:1;April:2;May:6;October:2,-0.0217,1.86,86.04,Chittagong," Chandpur , Chandpur, Comilla, Comilla area, Companiganj, Lakshmipur, Noakhali, Noakhali district"
+23_92,23,92,13,0,0,3,88900.0,307186.0,4043765.0,0.0,May,March:2;April:1;May:4;October:3;November:2;December:1,0.0618,2.27,100.0,Chittagong,"Bay Of Bengal  Chittagong, Begumgang, Chittagong, Chittagong area, Chittagong to Teknaf, Sitakundu"
+23_93,23,93,1,1,1,1,0.0,7.0,3300012.0,0.0,May,May:1,,-0.31,11.83,Mizoram, Mizoram
+24_-110,24,-110,1,0,0,0,100000.0,600.0,276400.0,0.0,October,October:1,,0.68,45.43,Baja California Sur,La Paz
+24_-76,24,-76,1,0,0,1,77700.0,129.0,79728.0,5.0,October,October:1,,0.41,36.53,Cat Island,Cat Island
+24_-78,24,-78,1,0,0,0,700.0,0.0,1200.0,0.0,September,September:1,,-0.5,5.15,Central Andros,Central Andros
+24_109,24,109,9,7,7,7,5330300.0,102.0,2007195.0,1.78,May,February:1;April:1;May:2;July:2;August:1;October:1;December:1,0.1532,0.94,54.39,Guangxi," Guangxi,  Guangxi Zhuang,  Guangxi Zhuangzu Zizhiqu, Guangxi, Guangxi Region, Guangxi Zhuangzu Zizhiqu, Guangxi province"
+24_120,24,120,1,0,0,1,890555.0,39.0,8000000.0,3.0,August,August:1,,0.27,31.74,Taiwan,Changhua
+24_121,24,121,14,3,8,12,4649085.0,319.0,3979361.0,2.29,July,July:5;August:4;September:5,0.4554,1.24,64.73,Taiwan,"Hualian, Hualien, Miaoli, Nantou, Nantou county, Taichung, Taiwan Sheng province, Wufeng"
+24_68,24,68,2,0,0,0,0.0,628.0,0.0,0.0,October,October:1;November:1,,0.54,40.65,Sind,"Keti Bandar, Thatta district"
+24_78,24,78,1,1,1,1,0.0,93.0,0.0,1.0,June,June:1,,0.1,25.84,Madhya Pradesh, Madhya Pradesh provinces
+24_88,24,88,7,1,1,2,63416.0,469.0,1948450.0,4.43,April,April:5;June:1;November:1,-0.1013,1.02,57.35,West Bengal," West Bengal, Murshidabad district, West Bengal"
+24_89,24,89,9,1,2,7,0.0,198.0,94771.0,0.22,March,March:3;April:2;May:3;June:1,0.0508,0.69,45.98,Rajshahi,"Chuadanga, Khulna Chuadanga, Kushia district, Lalpur, Natore, Natore district, Pabna, Pabna district"
+24_90,24,90,13,0,0,4,16401.0,1524.0,293263.0,2.31,April,March:1;April:5;May:5;June:1;October:1,0.0864,1.35,68.5,Dhaka," Manikganj,  Munshiganj districts, Dacca, Dhaka, Ghatail, Kazipur, Manikganj, North Dhaka, Ullapara"
+24_91,24,91,3,1,1,2,20000.0,175.0,9243.0,0.0,May,March:1;May:2,0.0,0.63,44.02,Chittagong,"Akhaura, Brahmmanbaria, Ghorasal"
+24_92,24,92,3,2,2,3,54000.0,85.0,48212.0,3.0,April,April:2;May:1,0.0,0.54,40.73,Tripura," Tripura, Moulvibazar, Tripura state"
+25_-107,25,-107,4,0,0,1,40000.0,268.0,45000.0,0.75,October,October:4,0.0,0.78,49.18,Sinaloa,"Mazatlan, Sinaloa State, Sinaloa state"
+25_-112,25,-112,3,1,2,3,40000.0,31.0,83000.0,2.0,September,August:1;September:2,0.0,0.37,34.87,Baja California Sur," Comondu, Comondu"
+25_-77,25,-77,2,1,1,2,900000.0,0.0,0.0,6.0,September,September:1;November:1,,-0.22,14.76,New Providence,New Providence
+25_-79,25,-79,1,0,0,0,15500.0,5.0,3.0,0.0,October,October:1,,-0.13,17.77,Biminis,Bimini
+25_101,25,101,4,2,2,3,473000.0,51.0,8234883.0,11.0,March,March:2;April:1;October:1,0.4135,0.57,41.77,Yunnan," Yunnan provinces, Yunnan, Yunnan Sheng, Yunnan Sheng province"
+25_119,25,119,3,0,0,0,88000.0,279.0,42685.0,0.0,August,August:1;September:1;October:1,0.0,0.75,47.82,Fujian,Fujian
+25_121,25,121,2,0,0,1,50000.0,51.0,1778.0,2.0,August,August:1;October:1,,0.37,34.97,Taipei,Taipei
+25_122,25,122,6,1,2,4,2831000.0,201.0,20877850.0,0.83,September,July:2;August:1;September:3,0.0519,0.93,54.21,New Taipei," New Taipei City, Ilan County, Ilan county, New Taipei"
+25_67,25,67,5,0,1,2,80000.0,10072.0,4250.0,0.2,June,May:1;June:2;July:1;December:1,0.0,1.46,72.12,Sind,Karachi
+25_69,25,69,1,0,0,1,10936.0,231.0,535940.0,2.0,May,May:1,,0.47,38.28,Sind,Badin
+25_82,25,82,1,0,1,1,0.0,12.0,2030.0,0.0,May,May:1,,-0.23,14.59,Uttar Pradesh,Allahabad
+25_85,25,85,2,2,2,2,0.0,34.0,12.0,1.5,June,June:1;July:1,,0.05,24.22,Bihar, Patna
+25_88,25,88,2,2,2,2,0.0,16.0,60020.0,0.0,March,March:1;May:1,,-0.07,20.11,Rajshahi,"Maldah , Nawabganj"
+25_89,25,89,6,2,3,5,4000.0,119.0,392800.0,1.33,April,March:1;April:3;May:1;July:1,-0.1397,0.69,46.1,Rajshahi,"Bogra, Naogaon, Rajshahi district"
+25_90,25,90,6,0,2,3,0.0,284.0,802721.0,0.17,April,January:1;April:3;May:1;October:1,0.0,0.65,44.5,Dhaka,"Gaibandha, Jamalpur, Mymensingh, Mymensingh district, Mysmensingh area"
+25_91,25,91,4,1,1,4,0.0,112.0,80912.0,0.5,April,April:3;July:1,-0.1923,0.4,35.92,Dhaka,"Kendua, Netrokona, Sunamganj"
+25_92,25,92,2,0,0,1,0.0,60.0,6550.0,0.0,January,January:1;May:1,,0.15,27.38,Sylhet,Sylhet
+25_94,25,94,1,0,0,0,0.0,16.0,0.0,0.0,April,April:1,,-0.18,16.11,Manipur,Manipur
+26_-100,26,-100,2,0,0,0,0.0,7.0,31250.0,0.0,August,August:1;September:1,,-0.19,15.83,Nuevo Leon,"Leon, Mazatlan Area"
+26_-112,26,-112,1,0,0,0,0.0,0.0,800.0,0.0,September,September:1,,-0.65,0.0,Baja California Sur,Baja California Sur
+26_-78,26,-78,3,0,0,2,1300000.0,2760.0,325294.0,0.67,September,August:1;September:2,,1.19,62.96,Berry Islands,Berry Islands
+26_-80,26,-80,1,0,0,1,219000.0,2.0,17433.0,0.0,October,October:1,,-0.19,15.91,Florida,Broward
+26_-81,26,-81,2,1,1,2,1240000.0,14.0,10100000.0,3.5,September,September:1;October:1,,0.24,30.42,Florida," Marco Island, Collier County"
+26_118,26,118,41,10,15,28,21651996.0,2543.0,42075037.0,1.22,September,April:1;May:1;June:6;July:8;August:9;September:10;October:5;December:1,0.0582,1.92,87.88,Fujian," Fujian Sheng, Fujian, Fujian  province, Fujian Sheng, Fujian Sheng province, Fujian province, Fuzhou, Lianjiang, Putian, Quanzhou Shi, Quanzhou city, Shishi city, Zhangzhou cities"
+26_127,26,127,10,4,5,6,18639900.0,526.0,661518.0,0.7,September,July:2;September:7;October:1,0.0612,1.27,65.6,Okinawa," Okinawa, Okinawa, Okinawa province, Ryikyu Islands, Ryukyu Island, Ryukyu Islands, Ryukyus"
+26_60,26,60,1,0,0,1,3900000.0,76.0,20000.0,4.0,June,June:1,,0.42,36.62,Sistan And Baluchestan,Chahbahar
+26_86,26,86,12,5,8,9,658471.0,586.0,13240447.0,2.36,May,May:4;June:1;August:1;September:2;October:3,0.1572,1.25,65.24,Bihar," Bihar,  Samastipur, Bihar, Bihar Plateau"
+26_87,26,87,1,1,1,1,160000.0,100.0,125100.0,0.0,April,April:1,,0.39,35.66,Bihar,Madhepura
+26_89,26,89,7,2,3,7,0.0,42.0,152270.0,0.29,April,March:1;April:3;May:3,0.0773,0.37,35.06,Rangpur,"Dinadjpur, Dinajpur, Mekhliganj, Panchagarh district, Parbatipur, lalmonirhat district"
+26_90,26,90,2,0,0,2,0.0,48.0,5750.0,0.0,April,April:2,,0.11,26.13,Assam,"Baushkata, Kurigram"
+26_93,26,93,2,0,1,1,0.0,33.0,247210.0,0.5,April,April:2,,0.05,24.05,Assam,"Assam, Assam state"
+26_97,26,97,1,1,1,1,4000.0,53.0,20200.0,6.0,April,April:1,,0.2,29.2,Kachin,North
+27_-102,27,-102,3,1,3,3,0.0,31.0,4500.0,0.33,May,May:1;June:1;July:1,0.0,0.12,26.55,Coahuila,"Ciudad Acuna, Coahuila"
+27_-78,27,-78,2,0,0,1,450400.0,1.0,0.0,8.0,July,July:1;September:1,,-0.12,18.16,East Grand Bahama,East Grand Bahama
+27_-80,27,-80,1,0,0,1,0.0,0.0,1500.0,0.0,August,August:1,,-0.65,0.0,Florida,Palm Beach county
+27_-98,27,-98,1,0,0,1,70000.0,3.0,0.0,1.0,August,August:1,,-0.17,16.65,Texas,Kennedy county
+27_107,27,107,5,3,4,4,684000.0,76.0,1548324.0,6.2,August,March:1;April:1;July:1;August:2,0.1613,0.69,46.09,Guizhou,"Guizhou, Xishui"
+27_56,27,56,1,0,0,0,0.0,200.0,0.0,0.0,October,October:1,,0.23,30.16,Hormozgan,Hormuz
+27_74,27,74,2,1,1,1,100000.0,53.0,300.0,0.0,April,April:1;May:1,,0.39,35.73,Rajasthan," Rajasthan, Rajasthan state"
+27_81,27,81,10,2,6,8,49000.0,667.0,45343.0,1.0,May,March:1;May:6;June:1;July:1;November:1,0.0489,1.17,62.28,Uttar Pradesh," Uttar Pradesh, Uttar Pradesh, Uttar Pradesh state"
+27_88,27,88,3,0,1,2,0.0,127.0,5100019.0,0.0,May,April:1;May:2,0.0,0.35,34.43,West Bengal,"Darjeeking, Darjeeling, Jhapa District"
+27_91,27,91,1,0,1,1,0.0,28.0,5000.0,0.0,April,April:1,,-0.09,19.15,Assam,Baksa
+28_-15,28,-15,1,0,0,1,50.0,1.0,0.0,0.0,November,November:1,,-0.45,7.03,Islas Canarias, de la Plama Is.
+28_-81,28,-81,1,0,0,1,150000.0,42.0,550.0,1.0,February,February:1,,0.25,30.75,Florida,Osceola
+28_-83,28,-83,1,0,1,1,0.0,7.0,0.0,1.0,August,August:1,,-0.31,11.83,Florida,Mid-Atlantic
+28_112,28,112,16,2,2,10,7199355.0,1812.0,54747575.0,3.62,April,January:1;March:2;April:4;June:2;July:3;August:3;September:1,0.02,1.57,76.17,Hunan," Hunan, Hunan, Hunan Province, Hunan province"
+28_116,28,116,8,2,3,5,1146000.0,288.0,5338350.0,13.0,April,January:1;April:2;May:1;June:2;July:1;September:1,0.0,1.04,58.02,Jiangxi," Jiangxi Sheng provinces, Jiangxi, Jiangxi , Jiangxi + Eastern provinces, Xingan"
+28_66,28,66,1,0,0,1,1620000.0,242.0,1650000.0,10.0,June,June:1,,0.59,42.47,Baluchistan,Baluchistan
+28_78,28,78,1,0,0,0,0.0,30.0,0.0,27.0,September,September:1,,-0.08,19.53,Uttar Pradesh,Bulandshar 
+28_85,28,85,3,0,0,0,0.0,71.0,0.0,0.0,March,March:2,,0.26,31.16,Central,Kathmandu Valley
+28_95,28,95,1,0,0,0,0.0,731.0,1842100.0,2.0,June,June:1,,0.44,37.51,Arunachal Pradesh,Arunachal
+29_-10,29,-10,1,1,1,1,300000.0,49.0,117000.0,3.0,November,November:1,,0.29,32.15,Guelmim-Es-Semara,Guelmin region
+29_-106,29,-106,2,1,1,1,25000.0,16.0,17500.0,4.5,September,September:2,,0.17,28.06,Chihuahua,Chihuahua
+29_-81,29,-81,1,0,0,1,90000.0,0.0,600.0,0.0,December,December:1,,-0.39,8.96,Florida,Daytona beach
+29_-82,29,-82,16,0,2,6,29305000.0,2889.0,3093995.0,2.73,September,March:1;April:1;May:1;June:1;July:1;August:2;September:4;October:2;November:2,0.051,1.68,79.93,Florida," Panhandle, Florida, Floride"
+29_-95,29,-95,2,0,1,1,1500000.0,7.0,0.0,14.0,May,May:1;September:1,,0.14,26.99,Texas," Galveston, Brazoria"
+29_-97,29,-97,1,1,1,1,95000000.0,88.0,582024.0,4.0,August,August:1,,0.51,39.96,Texas, DeWitt
+29_-99,29,-99,2,0,1,2,450000.0,18.0,600.0,3.0,May,May:1;July:1,,0.25,30.97,Texas,Bexar
+29_119,29,119,1,1,1,1,830000.0,35.0,36000.0,0.0,September,September:1,,0.26,31.08,Zhejiang,Quzhou district
+29_120,29,120,11,4,5,8,7525000.0,665.0,16707089.0,1.55,August,March:1;July:3;August:5;September:2,0.1089,1.31,67.08,Zhejiang," Zheijiang,  Zheijiang province, Taizhou, Zheijian province, Zheijiang, Zheijiang province, Zhejiang, Zhejiang province"
+29_31,29,31,1,0,0,0,1000.0,18.0,60.0,0.0,May,May:1,,-0.01,22.17,Al Qahirah,Cairo
+29_34,29,34,2,1,1,1,25000.0,56.0,32583.0,1.0,October,October:2,,0.37,34.95,Janub Sina',"Sinai, South Sinai"
+29_53,29,53,2,0,0,0,13300.0,9.0,3785.0,13.5,January,January:1;December:1,,0.06,24.55,Fars,"Fars province, Shiraz"
+29_76,29,76,1,0,0,1,0.0,14.0,4.0,0.0,February,February:1,,-0.2,15.4,Haryana,Haryana
+29_77,29,77,3,1,1,1,0.0,41.0,40726.0,0.33,March,March:1;May:1;September:1,0.0,0.17,28.09,NCT Of Delhi,"Delhi, New Delhi"
+29_84,29,84,1,1,1,1,0.0,83.0,175.0,0.0,October,October:1,,0.08,25.2,West,Manang
+2_103,2,103,1,0,0,0,0.0,21.0,10000.0,0.0,January,January:1,,-0.14,17.58,Johor,Johore
+2_31,2,31,1,0,0,1,0.0,0.0,5.0,0.0,November,November:1,,-0.65,0.0,Nebbi,Parombo Nebbi district
+2_32,2,32,1,0,1,1,0.0,23.0,47.0,0.0,June,June:1,,-0.13,18.08,Masindi,Runyanya
+30_-115,30,-115,1,0,0,0,250000.0,0.0,0.0,0.0,January,January:1,,-0.37,9.76,Baja California,Ensenada
+30_-82,30,-82,1,1,1,1,1000000.0,6.0,0.0,7.0,May,May:1,,-0.01,21.92,Florida,Delmond
+30_-83,30,-83,2,1,2,2,2000.0,22.0,0.0,5.5,January,January:1;February:1,,0.16,27.8,Tennessee,"Tenneessee Valley, Tennessee Valley"
+30_-92,30,-92,1,0,0,1,2000000.0,0.0,0.0,0.0,October,October:1,,-0.32,11.39,Louisiana,Acadia
+30_-96,30,-96,1,1,1,1,270000.0,6.0,0.0,5.0,October,October:1,,-0.04,20.89,Texas,Austin
+30_108,30,108,9,3,5,8,993166.0,357.0,32173948.0,2.11,April,March:2;April:3;May:2;August:1;September:1,0.1597,1.11,60.16,Chongqing," Chongqing Shi, Chondqing, Chongqing, Chongqing province, Fengjie"
+30_131,30,131,1,1,1,1,2000.0,2.0,1389.0,2.0,August,August:1,,-0.3,12.22,Kagoshima,Yakushima
+30_72,30,72,1,0,0,0,0.0,10.0,20.0,0.0,May,May:1,,-0.26,13.64,Punjab,Multan
+31_-104,31,-104,1,0,0,0,5000.0,29.0,3200.0,0.0,May,May:1,,0.11,26.03,Texas,Saragosa
+31_-115,31,-115,8,2,2,6,4503000.0,42.0,158095.0,2.88,September,August:2;September:6,0.0137,0.76,48.25,Baja California,"Baja California, Baja California Peninsula, Baja California State, Baja California state, Basse Californie, Mexico Baja California, Puerta"
+31_-84,31,-84,2,0,0,2,5000000.0,28.0,1386.0,1.5,February,February:1;March:1,,0.38,35.26,Georgia,"Colquitt, Mitchell"
+31_-85,31,-85,2,0,0,2,62500.0,0.0,4093.0,0.0,February,February:1;June:1,,-0.28,12.67,Iowa,"Decatur, Houston"
+31_-88,31,-88,1,0,0,1,50000.0,4.0,4.0,0.0,June,June:1,,-0.14,17.65,Alabama,Baldwin
+31_-89,31,-89,1,0,1,1,0.0,1.0,45496.0,0.0,August,August:1,,-0.54,3.94,Mississippi,Southern Mississippi
+31_-92,31,-92,13,4,4,7,26855000.0,396.0,300522.0,4.08,March,February:1;March:3;April:1;June:1;August:2;September:2;October:2;November:1,0.1742,1.3,66.65,Louisiana," Louisiana, Louisiana, Louisiane"
+31_-99,31,-99,23,2,3,4,5388000.0,285.0,2874.0,16.52,April,February:1;March:1;April:6;May:2;August:4;September:4;October:2;November:1;December:2,0.0085,1.36,68.84,Texas," Texas, Texas, Texas-Nabarus"
+31_100,31,100,1,0,0,0,68000.0,48.0,202000.0,27.0,January,January:1,,0.25,30.87,Sichuan, Ganzi precture 
+31_103,31,103,9,3,3,4,300200.0,293.0,592725.0,4.44,April,April:2;May:2;June:1;July:2;August:1;September:1,-0.1234,1.05,58.1,Sichuan," Sichuan, Panzhihua city, Sichuan Sheng province, Sichuan province, South East Sichuan"
+31_112,31,112,8,0,2,6,169200.0,203.0,11248831.0,0.88,April,April:4;May:1;June:2;August:1,0.0129,0.94,54.53,Hubei,"Hubei, Hubei Province, Hubei province, Xianning"
+31_121,31,121,3,0,0,1,1713000.0,128.0,5269.0,0.67,August,July:1;August:2,0.0,0.68,45.75,Shanghai,Shangai
+31_130,31,130,6,2,3,4,30200.0,78.0,98244.0,5.33,September,May:1;August:2;September:3,0.0,0.67,45.3,Kagoshima," Makurazaki, Amami-Oshima Island, Kagoshima, Kagoshima prefecture, Okino-Erabu, Tokunoshima Island"
+31_30,31,30,2,2,2,2,100000.0,31.0,135.0,1.0,October,October:1;November:1,,0.3,32.75,Al Iskandariyah," Alexandria provinces, Alexandria province"
+31_31,31,31,1,0,1,1,0.0,31.0,40.0,0.0,December,December:1,,-0.08,19.71,Al Gharbiyah,Tanta
+31_34,31,34,3,3,3,3,0.0,5.0,51121.0,5.67,January,January:1;February:1;December:1,,-0.16,17.03,Gaza," Gaza,  Khan Younis,  Rafah"
+31_35,31,35,1,1,1,1,0.0,1.0,50071.0,10.0,December,December:1,,-0.54,3.94,HaDarom,Hadarom
+31_72,31,72,2,1,1,2,0.0,25.0,12.0,0.0,April,April:1;May:1,,0.0,22.53,Punjab,"Punjab, Punjab province"
+31_73,31,73,1,1,1,1,0.0,15.0,113.0,0.0,June,June:1,,-0.19,15.77,Punjab, Chichawatni 
+31_74,31,74,2,0,0,2,0.0,31.0,911.0,0.0,March,March:1;August:1,,0.04,23.71,Punjab,"Chak Miran, Kasur"
+31_75,31,75,2,0,0,0,25000.0,231.0,5000000.0,13.5,May,May:1;September:1,,0.6,42.93,Punjab," Punjab, Punjab"
+32_-111,32,-111,1,0,0,1,0.0,13.0,0.0,0.0,December,December:1,,-0.22,15.01,California,Santa Cruz
+32_-117,32,-117,1,0,0,1,0.0,4.0,800.0,0.0,February,February:1,,-0.39,9.15,Baja California,Tijuana
+32_-7,32,-7,1,0,0,0,0.0,14.0,0.0,0.0,June,June:1,,-0.2,15.4,Tadla-Azilal,Azilal Province
+32_-87,32,-87,3,0,1,2,2240000.0,24.0,407.0,1.0,April,April:1;May:1;October:1,0.0,0.42,36.62,Texas,"Dallas, Hamilton"
+32_-90,32,-90,1,0,0,1,350000.0,0.0,104.0,2.0,April,April:1,,-0.36,10.02,Mississippi,Rankin county
+32_-95,32,-95,1,0,0,1,20000.0,0.0,537.0,0.0,September,September:1,,-0.43,7.78,Wisconsin,Rusk
+32_-98,32,-98,1,1,1,1,300000.0,6.0,700.0,2.0,May,May:1,,-0.04,20.97,Texas,Granburry
+32_117,32,117,18,3,9,15,8725651.0,506.0,44734974.0,2.06,July,February:1;March:1;April:1;June:3;July:6;August:2;September:2;November:2,0.4444,1.4,70.17,Anhui,"Anhui, Anhui province, Jinzhai, Tianchang"
+32_35,32,35,1,0,0,1,2750.0,3.0,410.0,0.0,January,January:1,,-0.24,14.1,Jerusalem,Jerusalem
+32_74,32,74,1,0,0,0,0.0,56.0,600.0,0.0,March,March:1,,0.02,23.0,Punjab,Gujranwala
+32_88,32,88,4,0,0,2,240.0,37.0,4341.0,0.0,January,January:1;February:1;March:1;April:1,0.0,0.34,34.03,Xizang,Tibet
+33_-103,33,-103,3,2,2,2,2700000.0,210.0,0.0,3.0,April,April:2,,0.78,48.9,Texas,"Gainesville , Plains"
+33_-17,33,-17,1,1,1,1,100000.0,5.0,18000.0,1.0,February,February:1,,-0.09,19.23,Madeira,MadÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¨re
+33_-83,33,-83,4,1,1,4,126000000.0,1868.0,500337.0,12.5,January,January:1;March:1;April:1;August:1,0.0,1.29,66.53,Georgia," Georgia, Atlanta, Georgia, Waveland"
+33_-84,33,-84,1,0,1,1,14000000.0,176.0,1150.0,5.0,May,May:1,,0.59,42.36,Missouri,Joplin
+33_-85,33,-85,3,0,0,2,8304000.0,72.0,172360.0,4.0,June,June:1;September:1;October:1,,0.63,43.75,Texas,"Gulf coast, Harris county, Houston"
+33_-86,33,-86,1,0,0,1,1800.0,0.0,492.0,0.0,March,March:1,,-0.48,5.89,Florida,Clay
+33_-87,33,-87,58,4,19,32,53038900.0,1732.0,174557.0,2.47,April,January:9;February:3;March:9;April:14;May:4;June:2;July:3;August:2;September:5;October:3;November:2;December:2,0.1688,1.97,89.75,Alabama," Alabama, Alabama, Chilton"
+33_-88,33,-88,1,0,0,1,90000.0,1.0,115.0,0.0,September,September:1,,-0.28,12.9,Ohio,Greene county
+33_-90,33,-90,5,3,3,4,3420000.0,68.0,1142.0,2.8,April,January:1;February:1;April:2;December:1,0.1825,0.71,46.73,Mississippi," Mississippi, Mississippi, Mississippi state"
+33_-93,33,-93,1,0,0,1,28500.0,0.0,0.0,0.0,May,May:1,,-0.42,8.06,Wisconsin,Columbia
+33_-96,33,-96,1,1,1,1,3900000.0,1.0,3000.0,5.0,April,April:1,,-0.19,15.86,Texas, Rains
+33_-97,33,-97,3,1,2,3,4000000.0,55.0,6660.0,1.67,March,March:1;April:1;December:1,0.0,0.56,41.67,Texas," Collin districts , Dallas-Fort Worth, Fort Worth Texas"
+33_119,33,119,8,1,3,5,10570485.0,2062.0,27375104.0,2.38,August,August:4;September:4,0.0,1.42,70.94,Jiangsu," Jiangsu, Jiangsu"
+33_127,33,127,3,0,1,3,101000.0,39.0,25852.0,1.67,September,March:1;September:2,0.0,0.42,36.86,Jeju,"Cheju Is, Jeju Island"
+33_130,33,130,1,0,0,0,0.0,100.0,140000.0,0.0,July,July:1,,0.11,26.25,Naoasaki,Nagasaki
+33_131,33,131,1,1,1,1,30299.0,40.0,318383.0,0.0,August,August:1,,0.2,29.22,Kumamoto,Kumamoto province
+33_133,33,133,1,1,1,1,0.0,0.0,4401.0,3.0,August,August:1,,-0.65,0.0,Kochi,Kochi prefecture
+33_35,33,35,2,2,2,2,0.0,4.0,200.0,3.0,January,January:1;September:1,,-0.27,13.15,Haifa," Haifa, Sidon"
+33_47,33,47,1,0,0,0,0.0,22.0,0.0,0.0,December,December:1,,-0.13,17.83,Ilam,Ilam
+33_71,33,71,1,0,0,1,5000.0,260.0,22656.0,58.0,January,January:1,,0.47,38.34,N.W.F.P.,Lwargi
+33_73,33,73,1,1,1,1,0.0,34.0,191.0,1.0,June,June:1,,-0.06,20.22,Punjab, Rawalpindi
+34_-102,34,-102,2,1,1,1,2847000.0,27.0,0.0,1.5,March,March:1;May:1,,0.36,34.62,Texas," Lubbock counties, Lubbock"
+34_-106,34,-106,5,1,2,3,5000000.0,0.0,9003.0,1.0,May,May:2;June:1;September:1,0.0,0.02,22.95,New Mexico," New Mexico, New Mexico, New Mexique"
+34_-112,34,-112,4,1,1,1,2000.0,14.0,0.0,0.25,January,January:1;February:1;March:1;November:1,0.0,0.24,30.41,Arizona,Arizona
+34_-118,34,-118,2,1,1,1,0.0,3.0,30.0,3.5,December,December:2,,-0.31,11.88,California,"Laguna Beach, Los Angeles"
+34_-119,34,-119,1,1,1,1,125000.0,0.0,0.0,4.0,January,January:1,,-0.38,9.22,California,Ventura
+34_-8,34,-8,1,1,1,1,0.0,3.0,0.0,0.0,January,January:1,,-0.42,7.88,Grand Casablanca,Casablanca
+34_-81,34,-81,4,3,3,3,18450000.0,95.0,1500800.0,6.75,September,April:1;September:2;October:1,0.0,0.75,48.13,South Carolina," North Carolina, South Carolina, South and North Carolina"
+34_-82,34,-82,1,0,0,1,4000000.0,45.0,15145.0,6.0,May,May:1,,0.33,33.71,South Carolina,Abbeville
+34_-87,34,-87,5,2,3,5,7704500.0,49.0,1216.0,1.4,April,March:1;April:2;May:1;June:1,-0.3398,0.68,45.54,Oklahoma,"Blount, Jefferson counties, Southeast"
+34_-92,34,-92,2,0,0,0,2000000.0,322.0,0.0,1.5,April,April:1;December:1,,0.76,48.25,New Mexico,Central
+34_-93,34,-93,1,0,0,1,0.0,0.0,2200.0,0.0,July,July:1,,-0.65,0.0,Nevada,Las Vegas
+34_-94,34,-94,2,1,1,2,330000.0,5.0,2157.0,0.5,January,January:1;September:1,,0.05,24.17,Florida,"Bartow, Howard"
+34_-96,34,-96,1,0,0,1,23000.0,4.0,813.0,1.0,April,April:1,,-0.16,17.04,Oklahoma,Atoka
+34_107,34,107,1,0,0,1,10.0,4.0,37770.0,27.0,August,August:1,,-0.33,11.04,Shaanxi, Liuba 
+34_114,34,114,7,3,4,7,3044000.0,76.0,15065857.0,0.57,March,March:2;April:1;June:2;July:2,0.0596,0.81,50.1,Henan," Henan,  Henan provinces, Henan, Henan province, Longan, Zhaotun, Zhengzhou"
+34_120,34,120,2,1,1,2,513288.0,109.0,45876.0,17.0,June,June:1;August:1,,0.55,41.06,Jiangsu,"Xiangshui County , Yancheng city "
+34_131,34,131,14,1,1,4,22722500.0,461.0,493838.0,0.64,September,July:2;August:4;September:7;October:1,0.0009,1.34,68.07,Fukuoka,"Fukoka, Fukuoka, Kyushu Island"
+34_134,34,134,5,4,4,5,1171000.0,25.0,47828.0,3.4,June,June:1;July:1;August:1;September:1;December:1,0.5036,0.53,40.34,Kagawa,"Kagawa, Mitoyo city, Tokushima"
+34_135,34,135,1,0,0,0,0.0,102.0,0.0,27.0,August,August:1,,0.12,26.36,Hyogo, Sumoto
+34_136,34,136,2,1,2,2,1650000.0,76.0,20110.0,1.0,September,September:1;October:1,,0.51,39.95,Nara," Wakayama, Nara"
+34_36,34,36,6,4,4,5,155000.0,49.0,105397.0,3.83,February,January:2;February:3;September:1,0.3701,0.63,43.99,Bekaa," Bekaa province,  City_Damascus,  Mount Lebanon, Damascus, Near Masnaa, South Bekaa"
+34_72,34,72,1,1,1,1,0.0,16.0,82.0,9.0,August,August:1,,-0.18,16.11,N.W.F.P.,Peshawar
+34_74,34,74,1,0,0,1,0.0,51.0,2557.0,6.0,February,February:1,,0.0,22.47,Azad Kashmir,Azad Kashmir
+34_75,34,75,1,0,0,0,0.0,50.0,75.0,0.0,October,October:1,,-0.0,22.36,Jammu And Kashmir,Srinagar
+34_77,34,77,4,2,2,2,906000.0,172.0,9610.0,10.25,March,March:2;May:1;November:1,0.0,0.78,49.12,Jammu And Kashmir,"Cachemire, Cashmire, Jammu and Kashmir, Kashmir"
+35_-80,35,-80,1,0,0,1,62500.0,7.0,0.0,1.0,August,August:1,,-0.05,20.5,Virginia,Chesterfield County
+35_-85,35,-85,1,0,0,0,125000.0,7.0,390.0,1.0,April,April:1,,-0.04,21.04,Georgia,Catoosa
+35_-87,35,-87,5,4,5,5,830000.0,51.0,300.0,3.0,January,January:2;February:2;July:1,5.7143,0.63,44.01,Nebraska,"NorthEast, Northeast"
+35_-92,35,-92,38,1,6,17,11433500.0,408.0,1153815.0,2.25,April,January:1;February:2;March:3;April:9;May:7;June:3;August:1;September:1;November:4;December:5,0.1208,1.58,76.25,Arkansas,"Arkansaa, Arkansas, Jonesboro "
+35_-94,35,-94,1,0,0,1,0.0,0.0,195.0,0.0,May,May:1,,-0.65,0.0,Illinois,LOgan
+35_-96,35,-96,1,1,1,1,1400000.0,0.0,0.0,4.0,June,June:1,,-0.33,11.11,Oklahoma,Okfuskee
+35_109,35,109,2,2,2,2,335000.0,8.0,120000.0,1.5,April,April:1;July:1,,0.12,26.49,Shaanxi," Shaanxi Sheng,  Shaanxi Sheng provinces"
+35_127,35,127,1,0,0,0,140000.0,28.0,1450.0,0.0,July,July:1,,0.18,28.46,Jeollanam-Do,Yosu
+35_128,35,128,1,0,0,1,71000.0,8.0,411.0,0.0,September,September:1,,-0.03,21.27,Gyeongsangnam-Do,Kyongsang province
+35_129,35,129,2,0,0,1,4514000.0,187.0,80020.0,0.0,September,September:1;October:1,,0.69,45.81,Busan,"North Pusan, Pusan"
+35_133,35,133,3,1,1,3,575500.0,114.0,3698.0,11.0,July,July:1;October:1;December:1,0.0,0.64,44.24,Hiroshima," Hirosima, Hiroshima, Hiroshima Prefecture"
+35_135,35,135,5,0,3,5,2051000.0,51.0,186505.0,0.6,August,July:1;August:4,-1.1538,0.65,44.72,Hyogo,Hyogo
+35_136,35,136,6,2,3,5,13267400.0,49.0,38467.0,1.33,September,January:1;September:5,0.0,0.73,47.48,Mie," Oosaka province, Chubu, Mie, Mie prefecture, Osaka"
+35_137,35,137,22,5,8,15,24235000.0,827.0,466123.0,2.5,September,January:1;February:1;June:1;July:1;August:3;September:9;October:5;December:1,0.1054,1.56,75.65,Aichi,"Aichi, Nagoya"
+35_138,35,138,1,0,0,1,0.0,3.0,94.0,1.0,August,August:1,,-0.42,7.88,Shizuoka,Shizuoka
+35_139,35,139,1,0,0,0,0.0,143.0,0.0,0.0,May,May:1,,0.17,28.27,Shizuoka,Yui
+35_140,35,140,1,0,0,0,13000.0,0.0,87778.0,0.0,December,December:1,,-0.44,7.44,Chiba,Mobara
+35_33,35,33,3,0,0,2,10100.0,3.0,3140.0,1.0,January,January:2;December:1,0.0,-0.01,21.96,Larnaca,"Larnaca, Limassol"
+35_40,35,40,2,1,1,2,0.0,27.0,372.0,1.0,February,February:1;September:1,,0.02,22.95,Dayr Az Zawr,"Dayr_Az_Zor, Deir Ezzor"
+35_59,35,59,1,0,0,0,15000.0,0.0,0.0,0.0,May,May:1,,-0.43,7.55,Razavi Khorasan,Neyshabur
+35_73,35,73,1,0,0,0,0.0,22.0,0.0,0.0,June,June:1,,-0.13,17.83,N.W.F.P.,Mansehra Province
+36_-79,36,-79,5,0,0,3,1562500.0,11.0,32000.0,4.4,August,June:1;August:4,0.0,0.4,36.17,North Carolina,North Carolina
+36_-82,36,-82,1,1,1,1,185000.0,13.0,11500.0,32.0,September,September:1,,0.06,24.53,North Carolina, Ashe 
+36_-86,36,-86,2,1,1,2,707000.0,8.0,0.0,1.0,May,May:1;July:1,,0.14,27.07,Tennessee," Tennessee, Tennessee"
+36_-92,36,-92,1,0,1,1,450000.0,2.0,177.0,0.0,March,March:1,,-0.17,16.47,Georgia,Atlanta
+36_-96,36,-96,2,2,2,2,700000.0,1.0,3942.0,2.0,March,March:1;August:1,,-0.11,18.51,Oklahoma," Tulsa districts , Tulsa "
+36_-98,36,-98,14,1,2,2,5130000.0,187.0,2268.0,0.5,May,February:2;March:1;April:3;May:5;June:1;July:1;November:1,-0.0805,1.15,61.78,Oklahoma," Oklahoma, Okhahoma, Oklahoma, Oklahoma state"
+36_111,36,111,1,1,1,1,854000.0,21.0,2503700.0,3.0,January,January:1,,0.17,28.31,Shanxi, Xinjiang
+36_118,36,118,2,0,0,1,402200.0,169.0,1238778.0,1.5,April,April:1;November:1,,0.61,43.34,Shandong,"Liaocheng, Shandong province"
+36_127,36,127,2,0,0,0,205893.0,141.0,83824.0,13.5,June,June:1;July:1,,0.57,41.79,Jeollabuk-Do,"Chola province, Cholla"
+36_129,36,129,7,2,2,6,1174120.0,131.0,275407.0,2.71,September,February:1;June:1;September:4;October:1,0.0,0.88,52.42,Gyeongsangbuk-Do," Gyeongju city , Gyeongju, Kyongsang-Pukto, Kyonsan province, Munkyong, North Kyongsang, Pohang"
+36_138,36,138,1,0,0,1,1000000.0,4.0,982.0,11.0,August,August:1,,-0.07,20.0,Nagano,Nagano
+36_139,36,139,10,3,3,7,911600.0,34.0,12666.0,3.6,September,January:2;February:1;July:1;August:2;September:3;December:1,0.1989,0.74,47.81,Tokyo," Tookyoo, Koshigaya, Tokyo, Tokyo area, Tokyo region"
+36_140,36,140,6,0,1,4,2650000.0,115.0,100080.0,0.67,January,January:2;May:2;September:1;October:1,0.0,0.84,51.0,Chiba,"Chiba, Chiba prefecture, Ibaraki, Tsukuba"
+36_52,36,52,1,1,1,1,0.0,4.0,2000.0,1.0,September,September:1,,-0.39,9.15,Mazandaran, Amol 
+36_54,36,54,1,0,0,0,0.0,14.0,0.0,0.0,April,April:1,,-0.2,15.4,Semnan,Damaghan
+36_65,36,65,2,2,2,2,0.0,94.0,0.0,3.5,January,January:1;February:1,,0.22,29.9,Faryab,"Darzab district , Faryab"
+36_96,36,96,6,1,1,4,214900.0,56.0,1758052.0,14.33,January,January:2;May:1;July:1;September:1;December:1,0.0,0.66,44.99,Qinghai," Qinghai Sheng provinces, Haixi prefecture, Qinghai, Qinghai province, Quinghai, Xining"
+37_-120,37,-120,11,0,0,1,827000.0,68.0,10100.0,2.7,February,January:1;February:3;March:1;September:1;November:2;December:2,-0.4043,0.88,52.45,California,California
+37_-98,37,-98,1,0,0,1,400000.0,28.0,0.0,9.0,January,January:1,,0.2,29.28,Oklahoma,Alfalfa
+37_127,37,127,8,1,1,4,1622311.0,802.0,151629.0,1.25,August,January:1;March:1;July:1;August:4;September:1,0.0,1.22,64.1,Chungcheongnam-Do,"Chungcheong, Chungchong-nam, Chungchong-namdo, Chungchongnamdo, Chungnam, Kyonggi province, South Chungcheong, South Chungchong"
+37_128,37,128,1,0,0,1,4200000.0,184.0,88625.0,6.0,August,August:1,,0.56,41.67,Chungcheongbuk-Do,Chulan Chungcheong
+37_137,37,137,1,0,0,1,0.0,0.0,579.0,0.0,July,July:1,,-0.65,0.0,Ishikawa,Ishikawa region
+37_140,37,140,2,1,1,2,0.0,22.0,100086.0,1.0,August,August:1;September:1,,-0.02,21.83,Fukushima," Totigi, Fukushima Prefecture"
+37_26,37,26,1,0,0,1,0.0,3.0,600.0,1.0,October,October:1,,-0.42,7.88,Aegean,Astypalaia
+37_3,37,3,2,0,0,2,0.0,17.0,10.0,0.0,January,January:1;December:1,,-0.06,20.44,Alger,"Alger, Alger region"
+37_36,37,36,2,0,0,2,0.0,14.0,731.0,2.0,January,January:1;November:1,,-0.09,19.4,Adana,Adana
+37_49,37,49,2,0,0,2,0.0,3.0,13500.0,0.0,January,January:1;February:1,,-0.31,11.88,Gilan,"Ghilan province, Guilan Province"
+37_54,37,54,1,0,1,1,0.0,28.0,0.0,27.0,January,January:1,,-0.09,19.15,Golestan, Gorgan
+37_65,37,65,1,1,1,1,0.0,36.0,9055.0,2.0,February,February:1,,-0.05,20.54,Faryab, Andkhoy
+37_7,37,7,1,0,0,1,0.0,10.0,5.0,27.0,February,February:1,,-0.26,13.64,Annaba, Chetaïbi
+37_70,37,70,1,0,0,0,0.0,10.0,0.0,0.0,May,May:1,,-0.26,13.64,Takhar,Chah-i-Ab district
+37_71,37,71,3,0,0,3,5000.0,331.0,22656.0,47.67,January,January:2;February:1,,0.71,46.54,Badakhshan,"Badakshan, Badakshan province, Faizabad"
+38_-105,38,-105,1,0,0,0,0.0,0.0,0.0,0.0,August,August:1,,-0.65,0.0,Colorado,Pueblo
+38_-106,38,-106,1,0,0,1,0.0,10.0,280.0,2.0,April,April:1,,-0.26,13.64,Colorado,Rio Grande
+38_-122,38,-122,1,1,1,1,1500000.0,5.0,200000.0,13.0,February,February:1,,-0.03,21.36,California, San Francisco
+38_-26,38,-26,1,0,0,0,66000.0,0.0,60.0,0.0,December,December:1,,-0.4,8.71,Azores,Ponta Delgada
+38_-79,38,-79,5,3,4,4,1910000.0,14.0,902.0,3.2,February,February:1;April:1;August:1;September:1;October:1,0.1875,0.45,37.59,Virginia," Virginia,  Virginia provinces, Virginia"
+38_-81,38,-81,1,0,0,1,0.0,2.0,183.0,0.0,May,May:1,,-0.47,6.25,West Virginia,Happy
+38_-83,38,-83,1,0,0,1,400000.0,4.0,118.0,8.0,February,February:1,,-0.09,19.28,Kentucky,Breathitt
+38_-85,38,-85,7,0,1,4,2710000.0,31.0,2337.0,0.83,February,January:1;February:2;April:1;November:2,0.0,0.66,45.01,Kentucky,"Kentucky, Owensboro"
+38_-92,38,-92,4,0,1,2,1731600.0,117.0,525.0,2.0,March,March:1;April:1;May:1;August:1,0.0,0.73,47.45,Missouri,Missouri
+38_-98,38,-98,15,2,4,8,4212000.0,70.0,3242.0,3.13,May,March:1;April:2;May:4;June:2;September:2;October:2;November:1;December:1,-0.0248,1.01,56.73,Kansas," Kansas, Kansas"
+38_101,38,101,1,0,0,0,41000.0,93.0,22213.0,0.0,May,May:1,,0.35,34.18,Gansu,Gansu province
+38_112,38,112,2,0,0,1,110000.0,63.0,53.0,0.0,March,March:1;August:1,,0.42,36.77,Shanxi,"Qixian, Shanxi province"
+38_126,38,126,1,0,1,1,482585.0,0.0,3649800.0,4.0,August,August:1,,-0.35,10.28,Hwanghae-Namdo,Haeju
+38_127,38,127,3,0,1,1,200000.0,220.0,40050.0,0.0,July,July:2;September:1,0.0,0.72,47.12,Seoul,Seoul
+38_128,38,128,2,0,0,0,0.0,85.0,120448.0,0.0,August,August:1;September:1,,0.2,29.33,Gangwon-Do,"Hwachon, Kanwon Do"
+38_138,38,138,1,0,1,1,0.0,4.0,372.0,1.0,April,April:1,,-0.39,9.15,Niigata,Sado
+38_14,38,14,2,0,0,0,480000.0,24.0,5000.0,13.5,January,January:1;October:1,,0.3,32.58,Sicily,"Palermo, Sicily"
+38_24,38,24,2,0,0,1,350000.0,50.0,12.0,13.5,January,January:1;March:1,,0.41,36.39,Attica,"Athenes, Athens"
+38_49,38,49,1,0,0,1,240.0,0.0,2500.0,0.0,February,February:1,,-0.53,4.31,Gilan,Astara
+38_69,38,69,1,0,0,1,234.0,0.0,830.0,0.0,June,June:1,,-0.53,4.29,Khatlon,Ghozimalik
+39_-105,39,-105,1,0,0,0,0.0,3.0,200.0,0.0,May,May:1,,-0.42,7.88,Oregon,Omaha
+39_-106,39,-106,20,4,8,13,7050170.0,117.0,7367.0,1.89,June,January:2;May:4;June:8;July:1;October:1;December:3,0.0018,1.18,62.7,Colorado," Colorado, Colorado"
+39_-112,39,-112,1,0,0,0,0.0,0.0,0.0,0.0,December,December:1,,-0.65,0.0,Utah,Utah
+39_-117,39,-117,1,0,0,0,2000000.0,33.0,2000.0,12.0,March,March:1,,0.27,31.45,Nevada,Nevada
+39_-123,39,-123,1,0,0,1,130000.0,20.0,6600.0,0.0,February,February:1,,0.12,26.56,Florida,Lake
+39_-6,39,-6,1,0,0,0,5000.0,21.0,350.0,9.0,October,October:1,,0.06,24.27,Extremadura,Badajoz province
+39_-75,39,-75,1,0,1,1,939000.0,275.0,90000.0,2.0,November,November:1,,0.6,42.77,New Jersey,Atlantic
+39_-76,39,-76,9,0,3,6,6206100.0,151.0,203239.0,2.89,September,January:1;February:1;March:1;April:1;August:1;September:2;October:1;December:1,0.1941,1.01,56.73,Delaware,"Caroline county, Delaware"
+39_-77,39,-77,10,3,6,9,6850500.0,157.0,5739.0,2.7,February,February:4;May:1;June:1;August:1;September:2;December:1,-0.1463,1.04,57.96,District Of Columbia," Baltimore, Alexandria, Baltimore, Washington DC"
+39_-8,39,-8,2,2,2,2,0.0,2.0,3967.0,1.5,January,January:1;December:1,,-0.35,10.25,Santarem,"Abrantes, SantarÃÂÃÂ©m"
+39_-81,39,-81,3,2,2,2,2900000.0,45.0,2612.0,10.67,February,February:1;June:1;July:1,0.0,0.52,40.3,West Virginia," West Virginia, Greenbier district "
+39_117,39,117,1,1,1,1,0.0,4.0,3000.0,3.0,November,November:1,,-0.39,9.15,Tianjin, Tianjin Shi provinces
+39_126,39,126,1,0,0,1,638000.0,9.0,0.0,0.0,September,September:1,,0.04,23.59,Hwanghae-Bukto,North
+39_127,39,127,3,0,1,3,6000500.0,108.0,679042.0,4.0,August,August:3,0.0,0.69,45.77,Kangwon-Do,"Kangwon province, Kangwon-Do"
+39_42,39,42,1,0,0,0,0.0,1.0,3.0,0.0,December,December:1,,-0.54,3.94,Bitlis,Bitlis
+3_102,3,102,2,0,0,2,0.0,3.0,40155.0,0.0,March,March:1;November:1,,-0.31,11.88,Kuala Lumpur,"Jalan Semarak, Kuala Lumpur"
+40_-104,40,-104,2,0,0,2,0.0,0.0,122.0,0.0,June,June:1,,-0.54,4.0,Colorado,"Adams, Watkins"
+40_-105,40,-105,7,3,4,5,5545000.0,22.0,0.0,1.29,March,March:2;May:1;July:1;August:2;October:1,0.0,0.62,43.7,Colorado,"Boulder, Denver, Rockies"
+40_-74,40,-74,1,1,1,1,1456000.0,64.0,71393.0,1.0,September,September:1,,0.37,34.89,New Jersey,Ocean
+40_-75,40,-75,1,1,1,1,600000.0,3.0,14070.0,5.0,September,September:1,,-0.12,18.33,New Jersey, New Jersey
+40_-79,40,-79,1,0,0,1,2200000.0,10.0,100.0,6.0,April,April:1,,0.08,25.11,Pennsylvania,Allegany
+40_-83,40,-83,5,2,2,4,2700000.0,33.0,8000.0,3.2,February,February:1;March:1;July:1;September:1;December:1,0.4074,0.59,42.52,Ohio," Ohio,  Ohio provinces, Ohio"
+40_-85,40,-85,1,1,1,1,260000.0,0.0,8.0,1.0,November,November:1,,-0.37,9.79,Indiana, Jay
+40_-86,40,-86,4,0,0,1,1000000.0,53.0,750.0,0.5,January,January:1;March:1;May:1;July:1,0.0,0.59,42.57,Indiana,Indiana
+40_-89,40,-89,35,4,9,18,15765500.0,645.0,10756.0,2.63,April,January:5;February:1;March:2;April:6;May:5;June:6;July:2;August:2;October:1;November:4;December:1,-0.0726,1.64,78.32,Illinois," Illinois, Illinois"
+40_-9,40,-9,1,1,1,1,115500.0,2.0,88.0,2.0,October,October:1,,-0.2,15.4,Leiria, Leiria dsitricts
+40_-91,40,-91,1,0,0,0,0.0,0.0,0.0,0.0,October,October:1,,-0.65,0.0,Texas,Brownwood
+40_0,40,0,1,0,0,1,72000.0,10.0,0.0,0.0,November,November:1,,0.0,22.42,Comunidad Valenciana,Castellon
+40_116,40,116,7,1,2,5,456480.0,275.0,129404.0,0.29,July,May:2;July:4;August:1,0.0,0.98,55.87,Hebei," Hebei, Beijing, Hebei, Hebei province, Qinghe, Shijiazhuang, Xinghua"
+40_140,40,140,2,1,1,2,823000.0,33.0,1600.0,1.5,February,February:1;September:1,,0.36,34.75,Akita,Akita
+40_141,40,141,1,1,1,1,0.0,22.0,0.0,0.0,September,September:1,,-0.13,17.83,Iwate,Iwate
+40_33,40,33,2,0,0,2,0.0,13.0,915.0,0.0,June,June:1;December:1,,-0.1,19.01,Ankara,"Ankara, Sunlu"
+40_44,40,44,1,1,1,1,60000.0,0.0,64000.0,5.0,May,May:1,,-0.4,8.64,Armavir,Armavir region
+40_69,40,69,1,0,0,1,200.0,0.0,1500.0,0.0,January,January:1,,-0.53,4.16,Leninabad,Leninabad Region
+40_73,40,73,1,0,0,1,0.0,4.0,9075.0,58.0,January,January:1,,-0.39,9.15,Osh,Osh
+41_-112,41,-112,1,0,0,1,150000.0,1.0,442.0,0.0,August,August:1,,-0.27,13.3,Utah,Salt Lake City
+41_-78,41,-78,5,0,0,3,3500000.0,168.0,175.0,1.0,December,January:1;February:1;December:3,0.0,0.86,51.84,Pennsylvania,Pennsylvania
+41_-8,41,-8,2,1,2,2,4230000.0,56.0,500079.0,1.0,January,January:1;February:1,,0.49,38.98,Porto,"Paredes, Porto"
+41_-82,41,-82,1,0,0,1,7000.0,0.0,1952.0,0.0,October,October:1,,-0.45,6.95,Texas,Hondo
+41_-85,41,-85,1,0,0,1,700000.0,36.0,4066.0,5.0,November,November:1,,0.26,31.11,Indiana,Allen
+41_-93,41,-93,1,1,1,1,2200000.0,2.0,615.0,3.0,March,March:1,,-0.14,17.72,Iowa,Centerville in Appanoose county
+41_123,41,123,2,1,1,1,3400000.0,137.0,225160.0,2.0,July,July:1;August:1,,0.63,43.83,Liaoning," Liaoning, Liaonging province"
+41_20,41,20,1,0,0,1,0.0,2.0,400000.0,36.0,January,January:1,,-0.47,6.25,Berat,Berat
+41_29,41,29,2,1,1,1,600000.0,30.0,270.0,0.0,February,February:1;July:1,,0.34,33.98,Istanbul,Istanbul
+41_44,41,44,1,1,1,1,1822.0,0.0,9900.0,1.0,August,August:1,,-0.48,5.9,Shirak,Shirak region
+41_85,41,85,8,1,3,7,1069380.0,87.0,2010129.0,5.25,January,January:3;March:1;April:2;June:1;December:1,0.0,0.84,51.2,Xinjiang Uygur,"Xinjiang, Xinjiang  Uygur autonomous region, Xinjiang Uygur Autonomous Region, Xinjiang Uygur Zizhiqu"
+42_-100,42,-100,3,1,1,2,1423000.0,9.0,302.0,2.33,May,May:1;June:1;August:1,0.0,0.25,31.06,Nebraska," Nebraska, Nebraska"
+42_-4,42,-4,1,0,1,1,4230000.0,53.0,500079.0,2.0,February,February:1,,0.36,34.67,Castilla Y Leon,Burgos province
+42_-72,42,-72,2,0,1,1,12600.0,2.0,5000.0,1.0,August,August:1;October:1,,-0.14,17.66,Rhode Island,"Rhode Island, Rhonde Island"
+42_-73,42,-73,2,0,1,1,3000000.0,29.0,0.0,1.0,July,July:1;October:1,,0.37,35.05,Connecticut,Connecticut
+42_-76,42,-76,1,0,0,1,0.0,1.0,47.0,2.0,May,May:1,,-0.54,3.94,New York,Broome
+42_-78,42,-78,1,1,1,1,2100000.0,27.0,170150.0,11.0,May,May:1,,0.23,30.38,Texas,Amarillo
+42_-86,42,-86,1,0,0,0,30000.0,7.0,470.0,0.0,May,May:1,,-0.07,19.92,Michigan,Kalamazoo
+42_-88,42,-88,1,1,1,1,950000.0,4.0,40.0,2.0,August,August:1,,-0.07,19.96,Illinois,DuPage district
+42_-89,42,-89,1,1,1,1,1400000.0,3.0,12.0,3.0,April,April:1,,-0.1,19.0,Illinois,Rochelle
+42_-92,42,-92,2,0,1,1,2061000.0,7.0,70.0,2.0,May,May:1;June:1,,0.14,27.24,Iowa,"Dunkerton, Northern Iowa"
+42_-94,42,-94,8,1,3,6,5962500.0,39.0,320.0,1.62,May,January:1;April:1;May:2;June:1;July:2;December:1,0.1139,0.75,48.06,Iowa,Iowa
+42_13,42,13,1,0,0,0,0.0,22.0,0.0,0.0,November,November:1,,-0.13,17.83,Lazio,Lazio
+42_130,42,130,1,1,1,1,79900.0,0.0,0.0,1.0,August,August:1,,-0.4,8.86,Hamgyong-Bukto, South Hamgyong provinces
+42_14,42,14,1,0,1,1,3200000.0,11.0,0.0,3.0,January,January:1,,0.1,25.9,Abruzzo,South
+42_2,42,2,1,0,1,1,3200000.0,11.0,0.0,3.0,January,January:1,,0.1,25.9,Cataluna,Catalogne
+42_20,42,20,1,0,0,1,0.0,6.0,125000.0,0.0,January,January:1,,-0.33,11.07,Diber,Diber
+42_25,42,25,2,0,0,1,0.0,2.0,405000.0,18.0,January,January:1;March:1,,-0.35,10.25,Kardzhali,"Kardjali, Plovdiv"
+42_3,42,3,1,0,0,1,0.0,7.0,0.0,0.0,December,December:1,,-0.31,11.83,Cataluna,Gerone
+42_42,42,42,1,1,1,1,0.0,0.0,1750.0,0.0,March,March:1,,-0.65,0.0,Ajaria,Ajara region
+42_46,42,46,1,0,1,1,91000.0,0.0,6018.0,0.0,July,July:1,,-0.39,8.97,Kakheti,Kakheti
+42_9,42,9,1,1,1,1,0.0,0.0,0.0,0.0,October,October:1,,-0.65,0.0,Corse,Corse
+43_-1,43,-1,1,1,1,1,0.0,3.0,0.0,0.0,January,January:1,,-0.42,7.88,Nouvelle-Aquitaine,Pays Basque
+43_-122,43,-122,1,0,0,0,0.0,0.0,0.0,0.0,September,September:1,,-0.65,0.0,Oregon,Klamath Falls 
+43_-2,43,-2,2,1,1,1,208000.0,6.0,30.0,0.5,January,January:1;August:1,,0.07,24.68,Comunidad Foral De Navarra," Deba, Navarra"
+43_-6,43,-6,2,0,0,1,55000.0,7.0,2.0,13.5,August,August:1;December:1,,0.06,24.4,Castilla Y Leon,"Asturias, Leon province"
+43_-71,43,-71,1,0,0,1,0.0,2.0,100.0,0.0,March,March:1,,-0.47,6.25,New Jersey,Peabody
+43_-76,43,-76,4,1,1,1,2335000.0,9.0,14000.0,0.5,February,February:1;March:1;July:1;September:1,0.0,0.33,33.65,New York," New York, Carolines, New York"
+43_-79,43,-79,2,0,0,1,300000.0,3.0,0.0,1.0,January,January:1;October:1,,-0.02,21.79,Ohio,"Erie, Niagara Peninsula"
+43_-8,43,-8,2,2,2,2,0.0,4.0,0.0,1.0,January,January:1;December:1,,-0.27,13.15,Galicia,Galicia
+43_-81,43,-81,1,0,0,1,100.0,7.0,0.0,3.0,January,January:1,,-0.2,15.45,Ontario,Southern Ontario
+43_0,43,0,1,0,0,1,0.0,1.0,900.0,2.0,May,May:1,,-0.54,3.94,Nouvelle-Aquitaine,Pau
+43_10,43,10,1,1,1,1,216000.0,9.0,1000.0,1.0,September,September:1,,0.01,22.74,Toscana, Rosignano
+43_132,43,132,1,0,0,1,0.0,8.0,0.0,0.0,March,March:1,,-0.29,12.5,Primor'ye,Artyom
+43_143,43,143,4,2,2,3,140200.0,34.0,65359.0,10.5,February,February:1;August:1;October:1;November:1,0.0,0.47,38.56,Hokkaido,"Hokkaido, Hokkaido Isl., Hokkaido Island, Hokkaidoo province "
+43_18,43,18,1,0,0,1,0.0,0.0,1090.0,0.0,December,December:1,,-0.65,0.0,Federacija Bosna I Hercegovina,Citluk
+43_2,43,2,1,0,1,1,3200000.0,11.0,0.0,3.0,January,January:1,,0.1,25.9,Occitanie,Aude
+43_21,43,21,1,0,0,1,0.0,2.0,400000.0,36.0,January,January:1,,-0.47,6.25,Raski, Raska
+43_24,43,24,1,1,1,1,545000.0,1.0,40.0,0.0,July,July:1,,-0.24,14.31,Sofia,Sofia
+43_45,43,45,1,0,0,1,0.0,0.0,900.0,27.0,February,February:1,,-0.65,0.0,Mtskheta-Mtianeti, Gudauri
+43_6,43,6,1,0,0,1,0.0,1.0,250.0,0.0,November,November:1,,-0.54,3.94,Provence-Alpes-Cote D'Azur,Var
+44_-121,44,-121,6,1,1,4,2245000.0,59.0,46168.0,3.33,December,January:2;March:1;December:3,-0.3441,0.72,47.12,Oregon," Oregon states, Orego, Oregon"
+44_-72,44,-72,7,2,4,4,2040000.0,40.0,1500.0,3.29,March,January:1;March:2;October:2;December:2,0.0,0.7,46.2,New Hampshire,"New England, New Halpshire, New Hampshire"
+44_-79,44,-79,1,1,1,1,1410000.0,0.0,0.0,1.0,July,July:1,,-0.33,11.12,Ontario,Toronto
+44_-82,44,-82,1,0,1,1,0.0,1.0,20.0,3.0,August,August:1,,-0.54,3.94,Ontario,Goderich
+44_126,44,126,2,1,1,1,302000.0,102.0,46000.0,0.0,June,June:1,,0.52,40.27,Jilin," Jilin Sheng,  Jiling"
+44_15,44,15,1,1,1,1,216000.0,9.0,1000.0,1.0,September,September:1,,0.01,22.74,Zadarska, Bibinje
+44_28,44,28,3,0,0,2,0.0,4.0,400000.0,12.0,January,January:1;November:1;December:1,0.0,-0.19,15.99,Dobrich,"Constanta, Dobricht, North-East"
+44_29,44,29,1,0,1,1,500000.0,4.0,0.0,2.0,February,February:1,,-0.09,19.46,Constanta,Mangalia
+44_3,44,3,1,1,1,1,182000.0,6.0,0.0,0.0,September,September:1,,-0.05,20.58,Occitanie,Aveyron
+44_39,44,39,1,0,0,0,24000.0,41.0,0.0,1.0,August,August:1,,0.2,29.18,Krasnodar,Sochi-Tuapse
+44_42,44,42,1,0,0,1,0.0,0.0,6000.0,0.0,June,June:1,,-0.65,0.0,Karachay-Cherkess,Karatchaievo-Tcherkessie
+44_5,44,5,3,0,1,2,0.0,6.0,813.0,0.0,June,June:1;September:1;December:1,0.0,-0.13,17.9,Provence-Alpes-Cote D'Azur,"Avignon, Marseille, Rhone Valley"
+44_7,44,7,1,1,1,1,0.0,1.0,0.0,2.0,December,December:1,,-0.54,3.94,Provence-Alpes-Cote D'Azur,Alpes-Maritimes
+44_9,44,9,1,0,0,0,0.0,3.0,100.0,0.0,August,August:1,,-0.42,7.88,Liguria,Genoa
+45_-1,45,-1,1,1,1,1,0.0,0.0,0.0,2.0,June,June:1,,-0.65,0.0,Nouvelle-Aquitaine,Bordeaux
+45_-63,45,-63,1,0,0,1,110000.0,2.0,200.0,1.0,September,September:1,,-0.2,15.36,Nova Scotia,Nova Scotia
+45_-69,45,-69,2,0,1,2,1400000.0,16.0,2203.0,3.5,January,January:1;August:1,,0.26,31.23,Maine,"Maine, Maine state"
+45_-73,45,-73,2,0,0,2,1500000.0,28.0,2300.0,4.5,January,January:1;September:1,,0.35,34.32,Quebec,"Monteregie, Southern Quebec"
+45_-76,45,-76,3,1,2,3,325000.0,4.0,930.0,2.0,December,September:1;December:2,0.0,0.11,25.95,Ontario,Ottawa
+45_-86,45,-86,3,2,3,3,3800000.0,44.0,0.0,4.0,February,February:1;July:1;November:1,0.0,0.53,40.38,Michigan," Michigan, Michigan"
+45_-90,45,-90,4,0,0,2,75000.0,29.0,258.0,13.5,March,March:1;June:1;July:1;August:1,0.0,0.43,37.19,Wisconsin," Wisconsin, Wisconsin"
+45_-92,45,-92,1,1,1,1,2000000.0,0.0,2.0,3.0,June,June:1,,-0.32,11.39,Wisconsin,St. Croix
+45_100,45,100,1,0,0,0,10000.0,7.0,100000.0,0.0,March,March:1,,-0.1,19.06,Bayanhongor,Bayankhong
+45_12,45,12,1,0,0,0,3200.0,35.0,200.0,0.0,September,September:1,,0.13,26.72,Veneto,Venice
+45_16,45,16,1,0,0,1,0.0,2.0,400000.0,36.0,January,January:1,,-0.47,6.25,Karlovacka,Karlovac
+45_17,45,17,1,0,0,1,0.0,2.0,400000.0,36.0,January,January:1,,-0.47,6.25,Repuplika Srpska,Banja-Luka
+45_34,45,34,2,0,0,0,1600.0,10.0,1000.0,0.0,June,June:1;November:1,,0.03,23.43,Crimea,Crimea
+45_4,45,4,1,0,0,0,400000.0,47.0,2000.0,0.0,September,September:1,,0.29,32.15,Auvergne-Rhone-Alpes,Ardeche
+45_43,45,43,1,0,0,1,17200.0,0.0,12428.0,0.0,May,May:1,,-0.43,7.66,Stavropol',Stavropol region
+45_5,45,5,2,0,0,1,420000.0,4.0,335.0,2.0,September,September:1;October:1,,0.03,23.32,Auvergne-Rhone-Alpes,"Drome, Loriol"
+45_9,45,9,2,2,2,2,869000.0,5.0,0.0,3.5,March,March:1;November:1,,0.07,24.93,Lombardia,"Milan, Milano district "
+46_-1,46,-1,2,0,1,2,4230000.0,58.0,500149.0,1.0,February,February:1;July:1,,0.49,39.17,Nouvelle-Aquitaine,Charente-Maritime
+46_-72,46,-72,1,0,0,1,0.0,0.0,4200.0,0.0,July,July:1,,-0.65,0.0,Quebec,Drummondville
+46_-74,46,-74,1,0,0,0,0.0,0.0,0.0,0.0,March,March:1,,-0.65,0.0,Quebec,Montreal
+46_-92,46,-92,1,0,0,1,10000.0,3.0,368.0,0.0,June,June:1,,-0.21,15.12,Wisconsin,Siren town
+46_-94,46,-94,10,0,0,2,26100.0,51.0,1260.0,0.0,June,January:2;March:1;June:4;July:1;October:1;December:1,0.1923,0.73,47.27,Minnesota," Minnesota, Brainerd, Minnesota, Virginie"
+46_10,46,10,2,0,0,0,1250700.0,32.0,1000.0,1.5,July,July:1;September:1,,0.37,34.91,Lombardia,"Bergame, Lombardi region"
+46_11,46,11,2,1,1,2,118000.0,7.0,210.0,15.5,March,March:1;August:1,,0.08,25.0,Trentino-Alto Adige,"  Lago di Garda , Trentin-Haut-Adige"
+46_13,46,13,2,0,1,1,873000.0,4.0,24.0,1.0,June,June:1;October:1,,0.04,23.89,Friuli-Venezia Giulia,"Friuli, Udine"
+46_132,46,132,1,0,0,0,0.0,19.0,130.0,27.0,March,March:1,,-0.16,17.04,Heilongjiang,Gixi region
+46_14,46,14,1,0,0,1,292000.0,6.0,1050.0,2.0,September,September:1,,-0.04,20.95,Gorenjska,Gorenjska
+46_21,46,21,1,1,1,1,7300.0,9.0,137.0,0.0,September,September:1,,-0.07,20.08,Timis,Timisoara
+46_23,46,23,1,0,0,1,0.0,1.0,600.0,2.0,June,June:1,,-0.54,3.94,Alba,Alba region
+46_27,46,27,2,0,0,1,0.0,7.0,800.0,0.0,May,May:1;July:1,,-0.19,15.83,Bacau,"Bacau, North-East"
+46_3,46,3,1,0,0,0,350000.0,12.0,0.0,3.0,November,November:1,,0.07,24.61,Auvergne-Rhone-Alpes,Auvergne-Rhone-Alpes
+46_45,46,45,1,0,0,0,0.0,52.0,2100.0,0.0,March,March:1,,0.01,22.58,Kalmyk,Kalmyk Republic
+46_6,46,6,1,1,1,1,250000.0,0.0,84.0,1.0,June,June:1,,-0.37,9.76,Geneve,Geneva
+46_7,46,7,1,1,1,1,200000.0,6.0,30.0,1.0,January,January:1,,-0.05,20.65,Bern,Lenk
+46_8,46,8,2,0,1,1,0.0,0.0,143.0,0.0,January,January:1;December:1,,-0.54,4.0,Valais,"Alpes Bernoises, Valais"
+46_9,46,9,3,1,1,1,139900.0,3.0,0.0,9.0,July,July:2;November:1,0.0,0.05,24.02,Ticino,"Tessin, Ticino canton"
+47_-110,47,-110,2,0,0,0,1000000.0,328.0,0.0,13.5,January,January:1;June:1,,0.74,47.81,Montana,Montana
+47_-120,47,-120,2,1,1,2,550000.0,61.0,85000212.0,15.0,January,January:1;August:1,,0.45,37.85,Washington," District of Columbia province, Washington DC"
+47_-66,47,-66,4,0,2,3,50000.0,13.0,1544.0,0.5,February,February:1;August:1;September:1;December:1,0.0,0.3,32.54,New Brunswick,"New Brunswick, New-Brunswick, Nouveau Brunswick"
+47_11,47,11,1,1,1,1,0.0,0.0,0.0,0.0,October,October:1,,-0.65,0.0,Trentino-Alto Adige,  Bolzano Province
+47_13,47,13,2,0,1,2,500000.0,5.0,300.0,1.0,February,February:1;November:1,,0.06,24.49,Salzburg,"Salzbourg, Salzbourg region"
+47_15,47,15,2,1,1,2,138000.0,3.0,210.0,2.0,May,May:1;August:1,,-0.03,21.18,Steiermark," Kobenz, Styrie province"
+47_19,47,19,1,0,0,1,10000.0,5.0,300.0,0.0,August,August:1,,-0.14,17.42,Budapest,Budapest
+47_20,47,20,1,1,1,1,0.0,0.0,1298.0,0.0,June,June:1,,-0.65,0.0,Bacs-Kiskun, and  KecskemŽt area  
+47_24,47,24,1,0,0,1,0.0,14.0,300.0,27.0,January,January:1,,-0.2,15.4,Cluj, Cluj
+47_26,47,26,1,0,0,1,0.0,7.0,1200.0,4.0,July,July:1,,-0.31,11.83,Harghita,Harghita
+47_29,47,29,1,0,0,1,31600.0,0.0,2600000.0,1.0,November,November:1,,-0.42,8.14,Chisinau,Chisinau
+47_5,47,5,1,0,0,0,22000.0,0.0,0.0,1.0,July,July:1,,-0.42,7.85,Bourgogne-Franche-Comte,Saonne et Loire
+47_6,47,6,1,0,0,1,0.0,1.0,602.0,1.0,October,October:1,,-0.54,3.94,Bourgogne-Franche-Comte,Doubs
+47_7,47,7,1,0,0,0,2000.0,0.0,0.0,0.0,August,August:1,,-0.48,5.97,Fribourg,Fribourg
+47_8,47,8,4,0,1,2,611760.0,0.0,7.0,7.25,January,January:1;May:1;July:1;August:1,0.0,-0.08,19.5,Bern," Lucerne, Bern, Bern area, Berne"
+48_-3,48,-3,3,2,3,3,650000.0,7.0,18014.0,0.67,February,February:1;March:1;December:1,0.0,0.2,29.17,Bretagne,"Bretagne, Brittany, CÃÂÃÂ´tes d'Armor"
+48_128,48,128,2,1,1,1,145000.0,29.0,9742.0,1.0,June,June:1;July:1,,0.3,32.68,Heilongjiang," Heilongjiang Sheng, Heilongjiang province"
+48_13,48,13,1,0,1,1,500000.0,0.0,0.0,1.0,July,July:1,,-0.35,10.3,Oberosterreich,Braunau
+48_14,48,14,1,1,1,1,159000.0,3.0,24.0,1.0,August,August:1,,-0.15,17.29,Oberosterreich, Bad Ischl 
+48_17,48,17,1,1,1,1,2900.0,0.0,0.0,1.0,August,August:1,,-0.47,6.26,Bratislavsky, Malacky
+48_22,48,22,1,0,0,1,0.0,2.0,400000.0,36.0,January,January:1,,-0.47,6.25,Szabolcs-Szatmar-Bereg, Szabolcs
+48_35,48,35,1,0,0,1,0.0,4.0,3000.0,0.0,July,July:1,,-0.39,9.15,Dnipropetrovs'k,Dnipropetrovsk
+48_4,48,4,1,1,1,1,0.0,3.0,750.0,0.0,September,September:1,,-0.42,7.88,Grand Est,Aube
+48_92,48,92,1,1,1,1,0.0,0.0,0.0,3.0,November,November:1,,-0.65,0.0,Hovd, Jargalant
+49_0,49,0,4,0,0,2,1701500.0,31.0,3.0,1.25,October,January:1;July:1;October:2,0.0,0.52,40.01,Normandie,"Calvados, Normandie, Normandy, Ouest de la France"
+49_11,49,11,4,0,1,2,1772000.0,13.0,250.0,7.5,July,February:1;July:2;August:1,0.0,0.38,35.34,Bayern,"Bavaria, Munich"
+49_14,49,14,1,1,1,1,159000.0,3.0,24.0,1.0,August,August:1,,-0.15,17.29,Bayern, Freyung-Grafenau 
+49_17,49,17,1,1,1,1,2900.0,0.0,0.0,1.0,August,August:1,,-0.47,6.26,Zlinsky,Kromeriz
+49_2,49,2,1,0,0,1,0.0,3.0,100020.0,0.0,May,May:1,,-0.42,7.88,Ile-de-France,Paris
+49_21,49,21,1,0,0,1,383300.0,2.0,10324.0,0.0,November,November:1,,-0.18,16.34,Presovsky,Presov
+49_23,49,23,1,0,0,1,0.0,2.0,400000.0,36.0,January,January:1,,-0.47,6.25,Podkarpackie,Stuposiany 
+49_3,49,3,1,0,0,0,700000.0,16.0,5000.0,12.0,January,January:1,,0.13,26.68,Ile-de-France,Ile-de-France
+49_31,49,31,1,0,0,1,120000.0,4.0,6100.0,0.0,November,November:1,,-0.12,18.34,Cherkasy,Cherkaska
+49_8,49,8,2,0,0,2,150000.0,15.0,100.0,3.0,July,July:1;October:1,,0.2,29.13,Baden-Wurttemberg,"Baden-Baden, Strasbourg"
+49_9,49,9,5,1,2,3,9270600.0,56.0,500179.0,0.8,July,February:1;June:1;July:3,0.0,0.7,46.43,Baden-Wurttemberg,"Baden-Wuerttemberg region, Baden-WÃÂÃÂ¼rttemberg, Forzheim, ForÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂªt Noire, Manheim"
+49_93,49,93,3,0,0,3,80000.0,23.0,1071000.0,57.33,January,January:2;December:1,,0.33,33.78,Uvs," Zavhan,  Zavkhan"
+4_115,4,115,1,1,1,1,71901.0,91.0,1861328.0,2.0,December,December:1,,0.36,34.5,Sarawak,Miri and Limbang
+4_16,4,16,1,1,1,1,0.0,1.0,1116.0,0.0,April,April:1,,-0.54,3.94,Mambere-Kadei,BerbÈrati district 
+4_18,4,18,1,0,1,1,0.0,0.0,10500.0,36.0,March,March:1,,-0.65,0.0,Lobaye,MbaÃÂÃÂ¯ki
+4_19,4,19,3,1,2,3,0.0,4.0,13575.0,11.67,March,March:2;June:1,0.0,-0.19,15.99,Bangui,"Bangui, PÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ©tÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ©vo"
+50_-86,50,-86,4,0,0,2,117000.0,24.0,1000.0,1.0,February,February:1;May:1;August:1;September:1,0.0,0.41,36.51,Ontario,Ontario
+50_-97,50,-97,1,0,0,0,0.0,0.0,0.0,0.0,March,March:1,,-0.65,0.0,Manitoba,Winnipeg
+50_107,50,107,2,0,0,1,0.0,22.0,175000.0,0.0,April,April:2,,-0.02,21.83,Selenge,Sukhbaatar
+50_128,50,128,1,0,1,1,3000.0,1.0,14.0,0.0,July,July:1,,-0.36,10.23,Amur,Blagovechtchensk
+50_144,50,144,4,0,0,3,9060800.0,79.0,43142.0,1.25,March,March:1;August:1;September:1;October:1,0.0,0.71,46.54,Sakhalin,"Kouriles Island, Kuril Islands, Sakhalin Island, Sakhaline Island"
+50_18,50,18,1,0,0,1,0.0,2.0,400000.0,36.0,January,January:1,,-0.47,6.25,Moravskoslezsky,Ostrava
+50_20,50,20,1,1,1,1,0.0,1.0,1217.0,0.0,July,July:1,,-0.54,3.94,Malopolskie,Cracovie
+50_24,50,24,2,1,1,2,0.0,2.0,39610.0,1.0,June,June:1;July:1,,-0.35,10.25,L'viv,"Lviv, Lviv region"
+50_3,50,3,4,3,4,4,868475.0,21.0,2144.0,1.0,January,January:2;August:1;October:1,1.0,0.44,37.35,Hauts-de-France," Cambrai ,  Nord, Hautmont, Nord Pas de Calais"
+50_4,50,4,2,1,2,2,0.0,1.0,0.0,1.0,June,June:1;December:1,,-0.42,7.94,Hauts-de-France,"Aisne, Mons region"
+50_5,50,5,2,1,1,1,688475.0,11.0,812.0,6.5,January,January:2,,0.18,28.69,Wallonie,"Dinant, Grez-Doiceau"
+50_6,50,6,1,0,0,0,0.0,0.0,0.0,,Unknown,NA,,-0.65,0.0,Wallonie,Leglise
+51_-114,51,-114,3,1,1,1,579000.0,0.0,0.0,0.0,July,July:1;September:1,0.0,-0.15,17.25,Alberta,Calgary
+51_-2,51,-2,1,0,1,1,0.0,2.0,180.0,21.0,November,November:1,,-0.47,6.25,England,Dorset
+51_-3,51,-3,1,0,0,1,0.0,4.0,600.0,27.0,December,December:1,,-0.39,9.15,England, Somerset
+51_0,51,0,2,1,1,2,1500000.0,13.0,19504.0,1.5,October,October:1;December:1,,0.23,30.18,England,Sussex
+51_15,51,15,1,0,1,1,500000.0,0.0,0.0,1.0,July,July:1,,-0.35,10.3,Liberecky,Liberec
+51_25,51,25,1,0,0,1,0.0,0.0,7552.0,2.0,July,July:1,,-0.65,0.0,Volyn,Volyn Oblast
+51_3,51,3,1,0,0,1,486.0,0.0,905.0,0.0,August,August:1,,-0.51,4.86,Wallonie,Tournai
+51_4,51,4,1,0,1,1,500000.0,4.0,0.0,2.0,February,February:1,,-0.09,19.46,Bruxelles,All country
+51_5,51,5,5,0,1,2,104000.0,10.0,171.0,0.5,January,January:1;June:1;August:1;October:1,0.0,0.33,33.54,Vlaanderen,"Anvers, Hasselt, Nivelle, Oostmalle, Ruisbroek"
+51_7,51,7,2,1,2,2,0.0,0.0,0.0,1.5,June,June:1;December:1,,-0.54,4.0,Nordrhein-Westfalen,"Dusseldorf, DÃÂÃÂ¼sseldorf"
+51_8,51,8,1,1,1,1,400000.0,2.0,1.0,1.0,July,July:1,,-0.18,16.38,Nordrhein-Westfalen,Rhenanie-Westphalie
+51_9,51,9,2,0,0,2,1800000.0,15.0,0.0,13.5,March,March:1;October:1,,0.25,31.08,Hessen," Hesse, Hesse"
+52_-2,52,-2,1,1,1,1,200000.0,6.0,30.0,1.0,January,January:1,,-0.05,20.65,England, Birmingham
+52_-4,52,-4,2,0,0,1,1565400.0,60.0,0.0,0.5,January,January:1;October:1,,0.47,38.58,Wales,Wales
+52_-8,52,-8,1,0,0,1,100000.0,1.0,0.0,27.0,November,November:1,,-0.27,12.98,Waterford,Waterford
+52_-9,52,-9,1,0,0,1,0.0,0.0,200.0,4.0,October,October:1,,-0.65,0.0,Cork,Cork
+52_13,52,13,1,1,1,1,740000.0,2.0,0.0,1.0,June,June:1,,-0.16,16.86,Brandenburg, Brandenburg
+52_16,52,16,1,0,1,1,5900.0,1.0,310.0,1.0,July,July:1,,-0.34,10.76,Dolnoslaskie,Stara Rzeka
+52_17,52,17,1,0,1,1,500000.0,0.0,0.0,1.0,July,July:1,,-0.35,10.3,Wielkopolskie,Krotoszt-yn
+52_5,52,5,2,2,2,2,0.0,1.0,0.0,2.0,June,June:1;December:1,,-0.42,7.94,Utrecht,"Dordrecht, Utrecht province and South"
+52_6,52,6,1,1,1,1,588475.0,5.0,12.0,1.0,January,January:1,,-0.05,20.62,Nordrhein-Westfalen,Emmerich-Elten
+52_70,52,70,1,0,0,0,3000.0,112.0,0.0,0.0,December,December:1,,0.32,33.18,Aqmola,Akmola
+52_8,52,8,1,0,0,0,645200.0,5.0,0.0,2.0,July,July:1,,-0.05,20.7,Nordrhein-Westfalen,Munsterland
+52_95,52,95,1,0,0,1,0.0,2.0,400000.0,36.0,January,January:1,,-0.47,6.25,Tuva,Touva region 
+53_-72,53,-72,3,0,0,2,102500.0,11.0,370.0,9.0,January,January:1;February:1;July:1,0.0,0.22,30.03,Quebec,Quebec
+53_13,53,13,2,0,0,2,100000.0,7.0,13.0,0.0,July,July:2,,0.07,24.87,Berlin,"Berlin, Berlin region"
+53_5,53,5,1,0,0,0,0.0,2.0,100.0,0.0,June,June:1,,-0.47,6.25,IJsselmeer,Ijsselmeer
+53_6,53,6,1,1,1,1,588475.0,5.0,12.0,1.0,January,January:1,,-0.05,20.62,Overijssel, Zwolle
+53_83,53,83,1,0,0,1,0.0,12.0,0.0,0.0,September,September:1,,-0.23,14.59,Altay,Altay
+53_9,53,9,4,2,2,3,570000.0,65.0,8.0,1.25,January,January:1;October:1;November:1;December:1,0.1925,0.61,43.27,Bremen,"Basse-Saxe, Bremen, Lower Saxony"
+54_-113,54,-113,1,0,0,0,265000.0,26.0,250.0,0.0,July,July:1,,0.18,28.55,Alberta,Edmonton
+54_-2,54,-2,1,0,0,1,130000.0,0.0,100.0,1.0,January,January:1,,-0.38,9.25,England,West Yorkshire
+54_-7,54,-7,1,1,1,1,1200000.0,3.0,15600.0,2.0,December,December:1,,-0.1,18.88,Monaghan,Monaghan province
+54_-9,54,-9,1,1,1,1,200000.0,6.0,30.0,1.0,January,January:1,,-0.05,20.65,Sligo, Sligo county
+54_0,54,0,1,1,1,1,0.0,0.0,0.0,3.0,December,December:1,,-0.65,0.0,England,East Yorkshire
+54_10,54,10,3,0,0,1,1110000.0,353.0,100.0,9.33,January,January:2;February:1,0.0,0.84,51.15,Hamburg,"Hamburg, Schleswig-Holstein"
+54_18,54,18,1,1,1,1,2900.0,0.0,0.0,1.0,August,August:1,,-0.47,6.26,Pomorskie,Suszek
+54_19,54,19,1,0,0,1,130000.0,0.0,100.0,1.0,January,January:1,,-0.38,9.25,Pomorskie,Gdansk region
+54_21,54,21,1,0,0,1,0.0,13.0,0.0,0.0,August,August:1,,-0.22,15.01,Warminsko-Mazurskie,Mazurie
+54_29,54,29,1,0,0,0,33000.0,5.0,21390.0,0.0,June,June:1,,-0.12,18.36,Minsk,Barysav
+55_-115,55,-115,2,0,0,1,13000.0,11.0,3240.0,0.0,May,May:1;July:1,,0.09,25.57,Alberta,"Alberta, Southern Alberta"
+55_-125,55,-125,1,0,0,0,0.0,14.0,0.0,27.0,March,March:1,,-0.2,15.4,British Columbia,Vancouver Island
+55_-3,55,-3,1,1,1,1,1200000.0,3.0,15600.0,2.0,December,December:1,,-0.1,18.88,England, Keswick
+55_-97,55,-97,1,0,0,0,3000.0,0.0,1000.0,0.0,August,August:1,,-0.47,6.29,Manitoba,Manitoba
+55_137,55,137,1,0,0,0,44000.0,83.0,460.0,0.0,November,November:1,,0.33,33.6,Khabarovsk,Chabarows
+55_15,55,15,1,0,1,1,0.0,0.0,0.0,1.0,December,December:1,,-0.65,0.0,Hovedstaden,Bornholm Island
+55_21,55,21,1,0,0,1,3000.0,2.0,0.0,0.0,January,January:1,,-0.29,12.54,Kaliningrad,Kaliningrad
+56_13,56,13,1,0,0,0,0.0,2.0,0.0,0.0,January,January:1,,-0.47,6.25,Hovedstaden,Hovedstaden
+56_38,56,38,2,1,1,2,162000.0,24.0,361.0,0.5,May,May:1;June:1,,0.27,31.73,Moscow City,"Moscow, Moscow city and greater Moscow region"
+56_8,56,8,1,0,0,1,0.0,1.0,0.0,0.0,October,October:1,,-0.54,3.94,Syddanmark,Varde region
+56_9,56,9,1,0,0,0,0.0,0.0,0.0,0.0,December,December:1,,-0.65,0.0,Midtjylland,Midtjylland
+57_-4,57,-4,5,0,0,1,734550.0,58.0,700.0,4.2,January,January:3;October:1;December:1,0.0,0.65,44.63,Scotland,Scotland
+57_106,57,106,1,0,0,1,6000.0,6.0,62.0,0.0,July,July:1,,-0.13,17.9,Irkutsk,Irkutsk
+58_25,58,25,1,0,0,1,130000.0,0.0,100.0,1.0,January,January:1,,-0.38,9.25,Parnu,Parnu
+58_33,58,33,1,0,0,1,0.0,0.0,0.0,3.0,January,January:1,,-0.65,0.0,Novgorod,Novgorod
+5_-72,5,-72,1,0,0,0,2500.0,4.0,28000.0,27.0,July,July:1,,-0.21,15.3,Casanare, Casanare
+5_100,5,100,1,0,0,1,0.0,0.0,500.0,0.0,September,September:1,,-0.65,0.0,Pulau Pinang,Penang
+5_116,5,116,1,0,0,0,52000.0,270.0,4176.0,2.0,December,December:1,,0.53,40.39,Sabah,Keningau
+5_16,5,16,2,0,2,2,0.0,3.0,4422.0,14.0,January,January:1;May:1,,-0.31,11.88,Mambere-Kadei,"Amada-Gaza, Carnot"
+5_18,5,18,1,0,1,1,0.0,0.0,1943.0,4.0,February,February:1,,-0.65,0.0,Ombella-M'Poko,Bogoula
+60_30,60,30,1,0,0,1,130000.0,0.0,100.0,1.0,January,January:1,,-0.38,9.25,City Of St. Petersburg,Saint-Petersburg
+61_11,61,11,1,0,1,1,0.0,0.0,100.0,0.0,August,August:1,,-0.65,0.0,Hedmark,Hedmark
+64_-152,64,-152,1,0,0,0,0.0,0.0,0.0,27.0,December,December:1,,-0.65,0.0,Alaska,Alaska
+6_-11,6,-11,1,0,0,0,0.0,0.0,2000.0,0.0,August,August:1,,-0.65,0.0,Montserrado,Monrovia
+6_101,6,101,1,0,0,1,0.0,0.0,1000.0,0.0,July,July:1,,-0.65,0.0,Kedah,Kedah state
+6_19,6,19,1,0,0,0,125.0,0.0,1850.0,0.0,November,November:1,,-0.54,3.8,Kemo,Kemo
+6_6,6,6,1,0,0,1,0.0,0.0,1000.0,0.0,October,October:1,,-0.65,0.0,Edo,Benin city
+6_80,6,80,1,0,1,1,0.0,22.0,35041.0,3.0,November,November:1,,-0.13,17.83,Galle,Southern
+7_-75,7,-75,1,0,0,0,50.0,0.0,1083.0,0.0,January,January:1,,-0.56,3.09,Huila,Guadalupe
+7_-9,7,-9,1,0,0,1,0.0,0.0,3500.0,0.0,March,March:1,,-0.65,0.0,Nimba,Ganta
+7_100,7,100,2,0,0,1,1000.0,2.0,2265.0,2.0,June,June:1;August:1,,-0.2,15.67,Perlis,"Khuan Don, Perlis"
+7_124,7,124,1,0,1,1,5.0,0.0,100.0,0.0,May,May:1,,-0.61,1.41,Maguindanao,Northern Kabuntalan
+7_125,7,125,3,2,2,3,112591.0,111.0,8553422.0,0.67,January,January:1;July:1;November:1,,0.6,42.81,Davao Del Sur,"Davao Region, Davao region, North Cobato"
+7_126,7,126,6,0,2,5,455049.0,155.0,729910.0,1.67,January,January:1;April:1;June:1;August:1;September:1;November:1,0.0,0.85,51.3,Davao Oriental,"Mindanao, Mindanao Island, Mindanao Islands"
+7_135,7,135,1,1,1,1,0.0,5.0,51800.0,0.0,November,November:1,,-0.36,10.19,Aimeliik,Aimeliik
+7_152,7,152,2,1,1,2,209500.0,53.0,13448.0,5.5,April,April:1;July:1,,0.41,36.31,Chuuk,"Chuuk state, Weno"
+7_4,7,4,1,0,1,1,1000.0,15.0,15000.0,0.0,February,February:1,,-0.03,21.19,Lagos,Lagos city
+7_80,7,80,2,1,2,2,346000.0,36.0,210077.0,4.0,April,April:1;November:1,,0.36,34.55,Colombo," Kalutara , Colombo"
+7_82,7,82,1,0,0,1,0.0,5.0,375000.0,4.0,December,December:1,,-0.36,10.19,Ampara,Ampara
+8_-2,8,-2,1,1,1,1,0.0,20.0,12.0,0.0,March,March:1,,-0.15,17.32,Brong Ahafo,Brong Ahafo province
+8_-81,8,-81,1,0,0,0,60000.0,30.0,8732.0,0.0,October,October:1,,0.17,28.17,Veraguas,Veraguas state
+8_100,8,100,2,0,0,0,452000.0,461.0,318787.0,1.0,November,November:2,,0.78,49.12,Nakhon Si Thammarat,"Nakhon Si Thammarat, Nakkhon Si Thammarat"
+8_124,8,124,1,1,1,1,50000.0,58.0,923757.0,5.0,December,December:1,,0.27,31.69,Lanao Del Norte, Sapad
+8_125,8,125,2,0,1,2,60782.0,1729.0,2210447.0,1.5,November,November:1;December:1,,0.96,55.05,Bukidnon,"Bukidnon, Cagayan de Oro"
+8_126,8,126,2,1,2,2,898352.0,1902.0,6257261.0,3.5,January,January:1;December:1,,1.03,57.71,Compostela Valley,Compostela Valley
+8_19,8,19,1,1,1,1,0.0,0.0,3690.0,92.0,January,January:1,,-0.65,0.0,Ouham,Kabo
+8_4,8,4,1,0,0,0,0.0,100.0,0.0,0.0,March,March:1,,0.11,26.25,Oyo,Ibadan
+8_77,8,77,1,1,1,1,346000.0,27.0,160077.0,2.0,November,November:1,,0.19,28.97,Tamil Nadu, Kurunthancode
+9_-75,9,-75,1,1,1,1,185000.0,13.0,11500.0,32.0,September,September:1,,0.06,24.53,Bolivar, Providencia and Santa Catalina
+9_-79,9,-79,1,0,0,0,10000.0,12.0,50.0,2.0,July,July:1,,-0.02,21.82,Panama,Panama city
+9_-80,9,-80,2,2,2,2,185000.0,22.0,61500.0,17.0,September,September:1;November:1,,0.26,31.36,Panama Oeste," Panama West, Capira district"
+9_-82,9,-82,1,0,0,0,300.0,1.0,518.0,0.0,September,September:1,,-0.41,8.42,Bocas Del Toro,Bocas Del Toro
+9_-83,9,-83,1,1,1,1,0.0,9.0,50000.0,2.0,November,November:1,,-0.27,13.1,Puntarenas, Corredones
+9_-84,9,-84,1,0,0,0,60000.0,28.0,127500.0,0.0,October,October:1,,0.16,27.79,Puntarenas,Puntarenas province
+9_105,9,105,2,0,0,1,10.0,25.0,5730.0,1.5,August,August:1;November:1,,0.06,24.41,Bac Lieu,"Bac Lieu, Khanh Binh Tay commune "
+9_125,9,125,5,1,1,1,262792.0,636.0,3477775.0,0.4,October,January:1;March:1;October:2;December:1,-0.017,1.02,57.36,Misamis Oriental," Misamis Oriental , Mindanao/Misamis Oriental, Misamis Oriental, Misamis province, SE/N Mindanao"
+9_126,9,126,7,4,6,6,153738.0,159.0,5462329.0,0.71,December,January:1;February:1;May:1;November:1;December:3,0.4628,0.86,51.91,Agusan Del Norte,"Agusan del NOrte, Agusan del Norte, Agusan del Norte province, Esperanza"
+9_139,9,139,3,0,0,3,0.0,1.0,7183.0,6.33,March,March:1;April:1;November:1,0.0,-0.34,10.78,Yap," Woleai Atoll, Yap Island, Yap state"
+9_16,9,16,1,0,0,0,0.0,13.0,100.0,0.0,May,May:1,,-0.22,15.01,Logone Occidental,Moundou region
+9_17,9,17,1,0,0,1,0.0,14.0,145.0,0.0,May,May:1,,-0.2,15.4,Logone Oriental,Bebedjia
+9_2,9,2,1,0,1,1,0.0,0.0,800.0,27.0,May,May:1,,-0.65,0.0,Collines,Challa Ogoï 
+9_50,9,50,1,1,1,1,2000.0,162.0,142380.0,11.0,November,November:1,,0.37,34.94,Bari,Bandar Beyla
+9_79,9,79,2,0,0,0,0.0,507.0,15000.0,0.0,December,December:2,,0.5,39.43,Tamil Nadu,"Ramanathapurum, Rameswaram"
+9_81,9,81,1,0,0,0,37300.0,206.0,380000.0,0.0,December,December:1,,0.48,38.6,Trincomalee,Trincomalee
+9_99,9,99,1,0,0,0,39500.0,46.0,50394.0,13.0,August,August:1,,0.23,30.21,Surat Thani,Surat Thani Province
